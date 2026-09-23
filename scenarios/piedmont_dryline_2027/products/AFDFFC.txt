@@ -1,0 +1,281 @@
+000
+FXUS62 KFFC 171224
+AFDFFC
+
+Area Forecast Discussion
+National Weather Service Peachtree City GA
+824 AM EDT Sat Apr 17 2027
+
+...Significant severe weather event this afternoon and evening...
+...Very large to giant hail, tornadoes, and dry microbursts...
+
+.KEY MESSAGES...
+Issued at 815 AM EDT Sat Apr 17 2027
+
+  - A Moderate Risk (level 4 of 5) for severe weather is in effect
+    for much of north and central Georgia this afternoon and evening,
+    surrounded by an Enhanced Risk (level 3 of 5). Very large hail is
+    the primary threat. Hail 3 to 4 inches in diameter is possible
+    with the strongest storms, and a few stones larger than that
+    cannot be ruled out.
+
+  - Tornadoes, a few of which could be strong (EF2+), are most likely
+    between 6 PM and 11 PM across northeast Georgia, including the
+    Athens, Commerce, Gainesville, and Lake Hartwell areas.
+
+  - Damaging "dry" microburst winds of 60 to 80 mph are possible from
+    high-based storms producing little or no rain, mainly across
+    west-central Georgia between 3 PM and 8 PM.
+
+  - A Red Flag Warning and a Wind Advisory are in effect for
+    west-central Georgia this afternoon. Humidity falls to 15 to 20
+    percent with southwest gusts of 35 to 45 mph. Lightning from
+    nearly rain-free storms may start new fires.
+
+  - This is a highly unusual setup for Georgia. Storms today will
+    look and behave more like High Plains storms than our typical
+    Southeast storms: high cloud bases, little rain, and hail that
+    can fall well away from the main storm core. A storm that is not
+    producing much rain is NOT a weak storm today.
+
+&&
+
+.SHORT TERM...
+(Today through Sunday)
+Issued at 815 AM EDT Sat Apr 17 2027
+
+It is rare for this office to describe a severe weather day in north
+and central Georgia as a dryline event, but that is the most accurate
+description of what we expect this afternoon. The thermodynamic
+profile over the Piedmont this morning has far more in common with a
+spring day in West Texas or western Oklahoma than with a typical
+Gulf-fed Southeast setup, and forecast impacts, storm structure, and
+messaging all need to reflect that.
+
+The 12Z FFC sounding tells most of the story. A shallow moist layer
+only about 70 mb deep (sfc temp/dewpoint 62/58F) sits beneath a sharp
+elevated mixed layer (EML) based near 830 mb, where the temperature
+jumps to +15C. Above that, the 700-500 mb lapse rate is 8.4 C/km.
+That value sits near the top of the FFC sounding climatology for
+mid-April. Lapse rates like this come from EML plumes off the Mexican
+Plateau, which normally stay over the southern Plains. This plume was
+advected east across the northern Gulf over the past 36 hours and now
+sits directly over the region. The cap is stout this morning, with
+SBCIN near -620 J/kg, but the convective temperature is only about
+85F. PW is 0.69 inch, below normal for the date, which highlights how
+little Gulf moisture has returned since the cold front earlier this
+week. The wet-bulb zero height is near 8,100 ft AGL, close to ideal
+for large hail reaching the ground with limited melting.
+
+Aloft, a potent shortwave trough is taking on a negative tilt over
+the Ozarks and Mid-South this morning. A 75-85 kt 500 mb speed max
+will nose into Alabama and Georgia by early afternoon, and a lead
+impulse at the base of the trough crosses north Georgia between
+roughly 3 PM and 5 PM. Upper-level divergence is enhanced by a
+coupled jet structure. North Georgia sits in the right-entrance
+region of a 130 kt polar jet streak over the Ohio Valley and the
+left-exit region of a subtropical jet streak along the Gulf Coast. At
+the surface, a 991 mb low over western Kentucky deepens toward
+southern Indiana through this evening. The true cold front lags well
+back in Mississippi and western Alabama.
+
+The most important surface feature today is the dryline. It is a
+hybrid boundary driven by three processes working together:
+
+  1) Dry continental air in the dry slot wrapping around the cyclone
+     and surging east along a Pacific front.
+
+  2) Deep afternoon mixing into the EML, which entrains the shallow
+     moist layer from above and causes the boundary to jump east
+     faster than advection alone would move it.
+
+  3) Downslope flow off the Cumberland Plateau and southern
+     Appalachians, adding compressional warming and drying across
+     northwest Georgia. This supports a lee trough and a weak mesolow
+     along the boundary.
+
+The dryline was near I-65 in central Alabama at 8 AM. It should reach
+the Alabama/Georgia line from Columbus to Rome by around 2 PM, with a
+bulge developing near Carrollton and LaGrange beneath the nose of the
+mid-level speed max. By 5 PM, we expect it along a line from Americus
+to Griffin to the western Atlanta suburbs to Calhoun, with the bulge
+pushing into Fayette and Clayton counties. Behind it, temperatures
+climb to 88-90F with dewpoints in the upper 30s to low 40s and
+southwest gusts of 35-45 mph. That is closer to the Permian Basin
+than to the Chattahoochee Valley.
+
+The second key boundary is the remnant cold air damming wedge from
+Friday. Stratus and temperatures in the low 60s persist across
+northeast Georgia this morning. The wedge will erode slowly from the
+southwest through the day. By early afternoon, its leading edge
+should run roughly from Gainesville to Athens to Washington, then
+lift slowly northeast through the evening. North and east of the
+boundary, the air remains cool and stable. Just south of it, moisture
+pools (dewpoints 62-65F) and surface winds back to the east-southeast
+beneath 40-45 kt of south-southwest flow at 850 mb. This creates a
+narrow corridor, perhaps 30 to 40 miles wide, where low-level shear
+and moisture are both maximized.
+
+Convective evolution: Diurnal heating to the convective temperature,
+combined with cooling of the 850-700 mb layer as the lead impulse
+arrives, should erode the cap from the west by early afternoon.
+Expect agitated cumulus along the dryline bulge and near the
+northwest Georgia mesolow between 1 PM and 3 PM. Discrete supercells
+are then expected to form from roughly Carrollton to the south and
+west Atlanta metro to Cartersville between 3 PM and 5 PM. The FFC
+sounding modified for 86/58F yields MLCAPE near 2500 J/kg with
+mixed-layer LCLs near 1900 m. Effective bulk shear is 60-65 kt and
+the hodograph is long and nearly straight above 2-3 km, which favors
+splitting storms. The left-moving splits will be dangerous hail
+producers in their own right and will move quickly northeast at 50-60
+mph. Right-movers will track east-northeast at around 40-45 mph.
+
+With 50-70 kt anvil-level storm-relative flow, low PW, and a very dry
+subcloud layer, many of these storms are expected to be
+low-precipitation (LP) supercells. That means visible, rain-free
+bases, striated structures, and hail falling on the edges of the
+storm or ahead of it. Radar reflectivity may understate how dangerous
+some of these storms are. We will be leaning on dual-pol hail
+signatures, MESH, and spotter reports rather than raw reflectivity.
+
+Hazards by type:
+
+Hail: This is the headline threat. Deep CAPE through the -10 to -30C
+hail growth zone, broad and intense updrafts, and strong deep-layer
+shear favor long hailstone residence times. SHIP values near 3 are
+forecast across the metro and points south and east. Hail of 3 to 4
+inches in diameter is realistic with the strongest storms, and an
+isolated stone larger than 4 inches is possible near the dryline
+bulge.
+
+Tornadoes: Near the dryline, high LCLs and a mixed-out low-level jet
+will limit the tornado threat through early evening, though it is not
+zero. The main tornado window runs from roughly 6 PM to 11 PM as
+storms that formed near the metro reach the wedge-boundary corridor.
+There, LCLs fall to 800-900 m and 0-1 km SRH increases to 250-300
+m2/s2. Both the RRFS and the REFS mean show effective-layer STP of
+4-6 along this corridor. The low-level jet strengthens to 50-55 kt
+after 8 PM, which lengthens low-level hodographs just as storms
+ingest backed, moist inflow. Storms that cross well north of the
+boundary will become elevated, producing hail but likely not
+tornadoes.
+
+Dry microbursts: West of the dryline, forecast soundings show a deep
+inverted-V profile to near 650 mb with DCAPE of 1500-1700 J/kg and
+temperature/dewpoint spreads of 40-50F. High-based storms along the
+dryline mixing zone and the trailing Pacific front may produce
+evaporatively driven downbursts of 60-80 mph between 3 PM and 8 PM,
+often with nothing more than virga reaching the ground. These gusts
+will also fan any fires that start.
+
+Uncertainties: The biggest forecast question is how far east the
+dryline mixes. The RRFS is about 20-30 miles farther east than the
+REFS mean and the ECMWF, and the RRFS has tended to overmix in these
+setups. If it is correct, initiation shifts to the east metro,
+dewpoints mix down, and the tornado corridor narrows or is lost.
+Overnight convection over the northern Gulf is weakening on GOES
+imagery, so a cutoff of the return flow looks less likely than it did
+yesterday. Wedge erosion timing matters too. A faster retreat weakens
+the backed low-level flow, while a slower one sends storms into
+stable air sooner. Finally, the cap may limit storm coverage to only
+a few storms. That does not lower the ceiling. The storms that do
+form will have little competition, and any single one of them could
+produce the most significant hail or tornado of the day.
+
+We will launch a special 18Z sounding. Birmingham and
+Greenville-Spartanburg are expected to do the same.
+
+Storms should exit northeast Georgia by 1 to 2 AM. The cold front
+clears the area overnight with lows in the upper 40s to mid 50s.
+Sunday will be sunny, breezy, and much cooler, with highs in the
+upper 60s to mid 70s. Afternoon humidity drops to 20-25 percent
+again, so fire weather concerns continue into Sunday.
+
+&&
+
+.LONG TERM...
+(Sunday night through next Friday)
+Issued at 402 AM EDT Sat Apr 17 2027
+
+Quiet and dry conditions return Sunday night through at least midweek
+as surface high pressure builds in behind the departing system. A
+cool start Monday morning, with lows in the low to mid 40s and upper
+30s in the mountains. A gradual warming trend follows, with highs
+back in the upper 70s to low 80s by Wednesday. The next system
+arrives late in the week, and global guidance indicates a much better
+return of Gulf moisture ahead of it, so the setup should look more
+typical for the Southeast. Confidence in timing and details is low.
+PoPs stay at 20-30 percent Thursday and Friday for now.
+
+&&
+
+.AVIATION...
+(12Z TAFS)
+Issued at 740 AM EDT Sat Apr 17 2027
+
+VFR at ATL and metro sites to start the period. LLWS continues
+through about 14Z with SSW winds of 35-40 kt near 2 kft. Surface
+winds go from SE 5-8 kt to SW 12-18 kt with gusts of 25-30 kt by 17Z.
+After roughly 21Z, the dryline passage brings SW winds of 18-22 kt
+with gusts to 35 kt and a sharp drop in dewpoints. TSRA is possible
+at ATL between about 20Z and 00Z, and is carried as PROB30 for now.
+Large hail is possible, and it may fall outside the heavier
+precipitation shafts. Dry microbursts with gusts over 50 kt are
+possible from virga-producing cells in the late afternoon.
+
+AHN: IFR/LIFR cigs in the wedge persist through about 16Z, then
+improve to MVFR and VFR between 18Z and 20Z. TSRA chances increase
+from 22Z to 03Z, with a risk of large hail and tornadoes nearby.
+Conditions improve to VFR after 06Z with W-NW winds.
+
+//ATL Confidence...12Z Update...
+
+Medium on TSRA timing and coverage. High on all other elements.
+
+Okafor
+
+&&
+
+.FIRE WEATHER...
+Issued at 815 AM EDT Sat Apr 17 2027
+
+A Red Flag Warning is in effect from noon to 8 PM EDT for
+west-central Georgia behind the dryline. Minimum RH of 15-20 percent,
+SW gusts of 35-45 mph, and 10-hour fuel moistures near 7 percent
+support critical conditions. High-based storms may produce
+cloud-to-ground lightning with little or no rain, which raises the
+risk of new fire starts. Their outflow gusts may also cause erratic,
+sudden wind shifts on any ongoing fires. Elevated fire weather
+conditions return Sunday afternoon with RH of 20-25 percent and NW
+winds gusting to 25 mph.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Athens          81  55  74  46 /  50  70   0   0
+Atlanta         87  56  74  48 /  40  40   0   0
+Blairsville     72  48  64  39 /  30  60  10   0
+Cartersville    88  51  72  44 /  30  10   0   0
+Columbus        89  55  76  47 /  20  10   0   0
+Gainesville     78  55  72  45 /  40  70   5   0
+Macon           88  58  77  48 /  30  30   0   0
+Peachtree City  87  54  74  45 /  30  20   0   0
+Rome            88  50  71  43 /  20  10   0   0
+Washington      80  58  76  48 /  40  60   0   0
+
+&&
+
+.FFC WATCHES/WARNINGS/ADVISORIES...
+Red Flag Warning from noon today to 8 PM EDT this evening for
+GAZ030>033-041>045-052>055-066>068-078>080.
+
+Wind Advisory from 11 AM this morning to 9 PM EDT this evening for
+GAZ019>021-030>033-041>045-052>055-066>068-078>080.
+
+&&
+
+$$
+
+SHORT TERM...Okafor
+LONG TERM....Delacroix
+AVIATION...Okafor

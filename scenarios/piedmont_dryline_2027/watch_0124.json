@@ -1,0 +1,213 @@
+{
+ "_doc": "Watch scenario file. Axis follows SPC wording; state_fips = states the watch may include; state_filters trim counties by interior-point lon/lat. probabilities rows = [label, display value, numeric % for color].",
+ "type": "Tornado",
+ "number": "124",
+ "pds": true,
+ "valid_until": "11:00 PM EDT\nSat Apr 17, 2027",
+ "updated": "04/17/27 2:50 PM EDT",
+ "axis": {
+  "orientation": "north_south",
+  "half_width_mi": 70,
+  "from": {
+   "miles": 20,
+   "dir": "SSW",
+   "city": "Anniston AL",
+   "lat": 33.66,
+   "lon": -85.83
+  },
+  "to": {
+   "miles": 20,
+   "dir": "ENE",
+   "city": "Greenville SC",
+   "lat": 34.9,
+   "lon": -82.22
+  }
+ },
+ "state_fips": [
+  "01",
+  "13",
+  "37",
+  "45"
+ ],
+ "state_filters": {
+  "01": {
+   "lon_min": -85.72
+  },
+  "37": {
+   "lat_max": 35.45,
+   "lon_max": -82.25
+  },
+  "45": {
+   "lon_max": -81.55
+  }
+ },
+ "probabilities": [
+  [
+   "Severe Wind",
+   "50%",
+   50
+  ],
+  [
+   "75+ mph\\nWind",
+   "40%",
+   40
+  ],
+  [
+   "Tornadoes",
+   "80%",
+   80
+  ],
+  [
+   "EF2-EF5\\nTornado",
+   "70%",
+   70
+  ],
+  [
+   "Severe Hail",
+   "90%",
+   90
+  ],
+  [
+   "2+ inches Hail",
+   ">95%",
+   96
+  ]
+ ],
+ "max_hail": "4.50 inches",
+ "max_wind": "80 mph",
+ "extent": [
+  -88.9,
+  -79.2,
+  30.2,
+  36.6
+ ],
+ "cities": [
+  [
+   "Atlanta",
+   33.749,
+   -84.388
+  ],
+  [
+   "Athens",
+   33.961,
+   -83.378
+  ],
+  [
+   "Macon",
+   32.841,
+   -83.632
+  ],
+  [
+   "Columbus",
+   32.461,
+   -84.988
+  ],
+  [
+   "Augusta",
+   33.471,
+   -81.975
+  ],
+  [
+   "Savannah",
+   32.081,
+   -81.091
+  ],
+  [
+   "Birmingham",
+   33.519,
+   -86.81
+  ],
+  [
+   "Montgomery",
+   32.377,
+   -86.3
+  ],
+  [
+   "Chattanooga",
+   35.046,
+   -85.309
+  ],
+  [
+   "Greenville",
+   34.853,
+   -82.394
+  ],
+  [
+   "Columbia",
+   34.001,
+   -81.035
+  ],
+  [
+   "Asheville",
+   35.595,
+   -82.551
+  ],
+  [
+   "Albany",
+   31.578,
+   -84.156
+  ],
+  [
+   "Gainesville",
+   34.298,
+   -83.824
+  ],
+  [
+   "LaGrange",
+   33.039,
+   -85.031
+  ],
+  [
+   "Rome",
+   34.257,
+   -85.165
+  ],
+  [
+   "Knoxville",
+   35.961,
+   -83.921
+  ],
+  [
+   "Huntsville",
+   34.73,
+   -86.586
+  ],
+  [
+   "Charlotte",
+   35.227,
+   -80.843
+  ],
+  [
+   "Dothan",
+   31.223,
+   -85.39
+  ],
+  [
+   "Anniston",
+   33.66,
+   -85.831
+  ],
+  [
+   "Tuscaloosa",
+   33.21,
+   -87.569
+  ],
+  [
+   "Valdosta",
+   30.833,
+   -83.279
+  ],
+  [
+   "Dublin",
+   32.54,
+   -82.904
+  ],
+  [
+   "Anderson",
+   34.503,
+   -82.65
+  ]
+ ],
+ "scenario_label": "SIMULATED \u2014 Piedmont Dryline Event",
+ "output": "SPC_WW0124_graphic.png"
+}

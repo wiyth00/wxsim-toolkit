@@ -1,0 +1,38 @@
+000
+ACUS11 KWNS 171805
+SWOMCD
+SPC MCD 171805
+GAZ000-ALZ000-SCZ000-NCZ000-172000-
+
+Mesoscale Discussion 0487
+NWS Storm Prediction Center Norman OK
+0105 PM CDT Sat Apr 17 2027
+
+Areas affected...North and central Georgia...far east Alabama...and the western Upstate of South Carolina
+
+Concerning...Severe potential...Tornado Watch likely
+
+Valid 171805Z - 172000Z
+
+Probability of Watch Issuance...95 percent
+
+SUMMARY...Supercell development appears imminent along a dryline bulge in west-central Georgia and near a weak mesolow in northwest Georgia. Very large to giant hail (3-4.5 inches) is the primary initial threat. Tornado potential will increase late this afternoon into the evening as storms approach the retreating wedge front across northeast Georgia. A Tornado Watch will likely be issued within the hour.
+
+DISCUSSION...Visible satellite imagery over the past hour shows rapidly agitated cumulus along the dryline, which has bulged eastward into the Carrollton and LaGrange vicinity. Several towers are now attempting to penetrate the cap near Carrollton and LaGrange and near a weak lee-side mesolow west of Cartersville. At 18z, the dryline extended from near Columbus to near LaGrange, bulged east toward Newnan, then ran north toward Rome and Chattanooga. Temperatures behind it had risen to 86-89 F with dewpoints of 38-45 F. East of the boundary, temperatures in the mid 80s and dewpoints of 56-60 F are yielding MLCAPE of 2000-2700 J/kg across the Atlanta metro and points south.
+
+The special 18z FFC sounding shows the cap has largely eroded. MLCIN is now only around -10 to -25 J/kg, and the observed 700-500 mb lapse rates remain steep at 8.3 C/km. Effective bulk shear of 60-65 kt and long, nearly straight hodographs above 2 km favor discrete supercells with splits. Strong anvil-level storm-relative flow and a dry subcloud layer (mixed-layer LCLs of 1800-2000 m) should promote LP to classic supercell structures initially. Hail may fall well away from the precipitation core. Both right- and left-moving supercells will be capable of hail of 3-4.5 inches in diameter. Wet-bulb zero heights near 8 kft will limit melting. West of the dryline, high-based convection and inverted-V profiles (DCAPE near 1600 J/kg) will support isolated severe dry microbursts of 65-80 mph.
+
+The tornado threat will be modest near the dryline because of the high LCLs and a well-mixed boundary layer. It should increase from roughly 22z onward as storms move east-northeast at 35-45 kt toward the retreating wedge front. At 18z, the front extended from near Gainesville to Athens to Washington. South of it, pooled moisture (dewpoints 62-63 F) and backed southeast surface winds are enlarging low-level hodographs. KFFC VWP data already show 0-1 km SRH of 200-250 m2/s2 near the boundary, and this should increase as the low-level jet strengthens toward evening. Any right-moving supercell that remains surface-based in this corridor could produce a strong tornado. Storms moving deeper into the stable wedge air near the Upstate will likely become elevated, with hail becoming the main threat. Given the expected increase in tornado potential later in the watch period, a Tornado Watch is preferred over a Severe Thunderstorm Watch, and it will emphasize the significant hail threat.
+
+..Castellanos/Halvorsen.. 04/17/2027
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...GSP...FFC...BMX...
+
+LAT...LON   32608545 33558555 34458515 34908420 35008295 34758220
+            33958245 33108320 32558425 32608545
+
+MOST PROBABLE PEAK TORNADO INTENSITY...111-135 MPH
+MOST PROBABLE PEAK WIND GUST...65-80 MPH
+MOST PROBABLE PEAK HAIL SIZE...3.00-4.50 IN

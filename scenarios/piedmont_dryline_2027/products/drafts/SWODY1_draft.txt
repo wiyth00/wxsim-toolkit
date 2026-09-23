@@ -1,0 +1,37 @@
+000
+ACUS01 KWNS 171252
+SWODY1
+SPC AC 171252
+
+Day 1 Convective Outlook
+NWS Storm Prediction Center Norman OK
+0752 AM CDT Sat Apr 17 2027
+
+Valid 171300Z - 181200Z
+
+...THERE IS A MODERATE RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS OF NORTH AND CENTRAL GEORGIA...
+
+...SUMMARY...
+Scattered severe thunderstorms are expected this afternoon into tonight from Georgia into the western Carolinas. Discrete supercells capable of very large to giant hail (3-4+ inches in diameter) are the primary concern, mainly across north and central Georgia. A corridor of greater tornado potential, including the risk of a couple of strong tornadoes, is expected across northeast Georgia into the Upstate of South Carolina this evening. Severe dry microbursts are also possible across west-central Georgia and east Alabama.
+
+...SYNOPSIS...
+A vigorous shortwave trough over the Ozarks this morning will take on a negative tilt as it moves toward the lower Ohio and Tennessee Valleys through tonight. Within its base, a 75-85 kt midlevel speed max will overspread Alabama and Georgia by early afternoon. A coupled upper-jet structure will favor strong upper divergence over the Southeast from 18z to 00z: the right-entrance region of a 130+ kt polar jet streak over the Ohio Valley overlaps the left-exit region of a subtropical jet streak along the Gulf Coast. At the surface, a 991 mb low over western Kentucky will deepen as it lifts toward southern Indiana by 00z. A Pacific front and dryline will surge rapidly eastward across Alabama and into Georgia this afternoon, while the trailing cold front lags well to the west. Across northeast Georgia and the Carolinas, the leading edge of a retreating cold-air damming wedge will lift slowly northeastward through the period.
+
+...North and central Georgia into the Upstate of South Carolina and far western North Carolina...
+This is an unusual setup for the Southeast. The airmass across Georgia this morning closely resembles a southern High Plains dryline environment. A Mexican Plateau EML plume has been advected across the northern Gulf and now overlies a shallow, modestly moist boundary layer. The 12z FFC sounding sampled 700-500 mb lapse rates of 8.4 C/km atop a moist layer only about 70 mb deep, capped by a strong inversion near 830 mb. PW was just 0.69 inch, below normal for mid-April, which reflects an incomplete Gulf return after this week's frontal passage.
+
+Diurnal heating into the mid/upper 80s F east of the dryline, combined with midlevel cooling ahead of a lead impulse, should erode the cap from the west by early afternoon. Initiation is most likely between 19z and 21z along a dryline bulge near the Carrollton/LaGrange vicinity and near a weak lee mesolow in northwest Georgia. With surface dewpoints in the upper 50s to near 60 F beneath the EML, MLCAPE of 2000-2800 J/kg is expected. Effective bulk shear of 60-70 kt and long, nearly straight hodographs above 2 km will support discrete supercells, with splitting likely. Strong anvil-level storm-relative flow, a very dry subcloud layer, and high LCLs (1500-2000 m) should favor LP to classic supercell structures. Both right- and left-moving storms will be capable of very large hail. Deep, intense updrafts through a broad hail growth zone, along with wet-bulb zero heights near 8 kft, favor hailstones of 3-4 inches in diameter, and isolated stones larger than 4 inches are possible. Hail probabilities have been increased to 45 percent (significant), which supports the Moderate Risk. Storm coverage may remain limited by the cap, but the most intense supercells should have little competition and may be long-lived.
+
+Tornado potential will be modest near the dryline this afternoon given the high LCLs. It will increase substantially between roughly 22z and 03z as storms move east-northeast into a narrow corridor of pooled moisture (dewpoints 62-65 F) and backed surface winds along the retreating wedge front near the Athens, Commerce, and Lake Hartwell areas. Here, LCLs are forecast to fall below 1000 m. A strengthening low-level jet of 50-55 kt after 00z will enlarge low-level hodographs, with 0-1 km SRH of 250-300 m2/s2 and effective STP of 4-6 in the RRFS and REFS. A couple of strong tornadoes are possible with any supercell that remains surface-based within this corridor. Farther north and east, storms that move deeper into the wedge will become elevated and pose mainly a hail threat.
+
+West of the dryline across west-central Georgia and east Alabama, deeply mixed, inverted-V profiles with DCAPE of 1500+ J/kg and surface temperature/dewpoint spreads of 40-50 F will support severe dry microbursts from high-based convection. Gusts of 60-80 mph are possible, often with little or no rainfall.
+
+The primary uncertainty is how far east the dryline mixes this afternoon. Some CAM guidance, notably the RRFS, mixes the boundary layer more aggressively and positions the dryline 20-30 miles farther east than the REFS mean. This would shift initiation east of the Atlanta metro and reduce low-level moisture within the tornado corridor. Timing of wedge erosion will also modulate the tornado threat.
+
+...Southeast Alabama into southern Georgia...
+Considerable instability (MLCAPE near 3000 J/kg) resides south of the stronger large-scale ascent. However, a very warm EML (700 mb temperatures near +12 C) will likely maintain MLCIN of 100-150 J/kg through much of the day. Any storm that manages to form along the southern extent of the dryline or near local convergence would quickly become severe, with very large hail and damaging winds possible, but the risk remains conditional.
+
+...Carolinas tonight...
+Storms moving out of northeast Georgia after 00z will spread into the Upstate and western North Carolina, where they will increasingly encounter the cool, stable wedge airmass. Elevated supercells with large hail are expected to persist into the late evening. A tornado threat will linger near the northeastward-retreating wedge front across the Upstate until storms weaken or become fully elevated after 05z-06z.
+
+..Halvorsen/Ruiz.. 04/17/2027
