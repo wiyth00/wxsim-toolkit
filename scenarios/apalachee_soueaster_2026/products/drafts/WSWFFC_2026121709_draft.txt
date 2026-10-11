@@ -1,0 +1,91 @@
+000
+WWUS42 KFFC 170915
+WSWFFC
+
+URGENT - WINTER WEATHER MESSAGE
+National Weather Service Peachtree City GA
+415 AM EST Thu Dec 17 2026
+
+...PARTICULARLY DANGEROUS SITUATION: CATASTROPHIC ICE STORM CONTINUES THROUGH FRIDAY...
+
+.A historic ice storm is under way across north and central Georgia. Freezing rain has fallen since early Wednesday evening under a deep wedge of Arctic air, and the heaviest rain bands are now setting up from Carrollton through Atlanta and Lawrenceville to Commerce and Hartwell. Ice of one-half inch or more has already accumulated across much of the metro area and northeast Georgia. Another round of heavy freezing rain will continue through Thursday night, with ice finally tapering off Friday as the low pulls away. Northeast winds gusting 30 to 45 mph will add to the load on ice-covered trees and power lines.
+
+GAZ010>017-019>025-027>039-041>043-045-050-051-190100-
+/O.CON.KFFC.IS.W.0001.261217T0000Z-261219T0000Z/
+Hall-Banks-Jackson-Franklin-Hart-Madison-Elbert-Oglethorpe-Clarke-Oconee-Barrow-Gwinnett-Walton-Rockdale-Newton-Morgan-Greene-Wilkes-Lincoln-Taliaferro-Cherokee-Forsyth-Cobb-North Fulton-DeKalb-South Fulton-Douglas-Clayton-Henry-Fayette-Coweta-Spalding-Butts-Carroll-Paulding-Haralson-Heard-Troup-Meriwether-Pike-Lamar-
+Including the cities of Atlanta, Marietta, Roswell, Alpharetta, Lawrenceville, Gainesville, Athens, Commerce, Toccoa, Hartwell, Elberton, Covington, Conyers, McDonough, Douglasville, Carrollton, Newnan, Peachtree City, Griffin, and LaGrange
+415 AM EST Thu Dec 17 2026
+
+...ICE STORM WARNING REMAINS IN EFFECT UNTIL 7 PM EST FRIDAY...
+
+* WHAT...Catastrophic ice storm. Freezing rain, heavy at times, with embedded thundersleet. Additional ice accumulations of one-half to one and one-quarter inches. Total ice accumulations of 1 to 2 inches in a narrow band from Carrollton through Atlanta and Lawrenceville to Commerce and Hartwell, locally up to 2 inches near Hartwell and Royston. Totals of one-half to 1 inch elsewhere across the metro area and west Georgia, and 0.25 to 0.50 inch near Covington, Madison, and Washington. Northeast winds 15 to 25 mph with gusts up to 45 mph.
+
+* WHERE...Metro Atlanta, northeast Georgia, and west-central Georgia, including the I-85 and I-20 corridors.
+
+* WHEN...Until 7 PM EST Friday. The heaviest freezing rain is expected through Thursday night. Ice will not melt until Saturday afternoon, with temperatures staying below freezing until then.
+
+* IMPACTS...Catastrophic damage from ice is expected and is already occurring. Widespread and long-lasting power outages are expected. Many trees will snap or topple under the weight of the ice, taking down power lines and blocking nearly every road. Outages could last one to two weeks or longer in the hardest-hit areas, and some utility poles and transmission towers may fail. Travel will be impossible. Roads, bridges, and sidewalks are sheet ice. Hartsfield-Jackson Atlanta International Airport will be closed or severely limited.
+
+* ADDITIONAL DETAILS...This is the worst ice storm in the modern record for metro Atlanta, far beyond the February 2014 event. Ice thickness of 1 inch or more adds hundreds of pounds to each tree limb, and winds gusting to 45 mph will bring down trees well beyond the usual breaking point. The heaviest ice is falling in bands only 10 to 20 miles wide, so totals can differ by half an inch or more over a short distance. Do not assume that a lull in the freezing rain means the worst has passed. A thin zone near the southern edge of the warning may see more rain and less ice if the cold air weakens, but gusts there could reach 60 mph.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Do not travel. If you must go outside, watch for falling limbs and downed power lines, and assume that every wire is live. Stay out of rooms and off lanes under large trees. Plan to be without power for many days. Run generators outdoors and well away from windows, and never use grills or camp stoves indoors. Charge phones and have a battery-powered radio. Check on neighbors who rely on electric medical equipment, and call 911 only for life-threatening emergencies.
+
+&&
+
+$$
+
+GAZ001>009-018-026-040-044-046>049-052>055-190100-
+/O.CON.KFFC.WS.W.0002.261217T0000Z-261219T0000Z/
+Dade-Walker-Catoosa-Whitfield-Murray-Chattooga-Floyd-Gordon-Bartow-Polk-Pickens-Gilmer-Fannin-Union-Towns-Rabun-Habersham-White-Lumpkin-Dawson-Stephens-
+Including the cities of Rome, Dalton, Cartersville, Cedartown, Calhoun, Ellijay, Blue Ridge, Blairsville, Hiawassee, Clayton, Cleveland, Dahlonega, and Dawsonville
+415 AM EST Thu Dec 17 2026
+
+...WINTER STORM WARNING REMAINS IN EFFECT UNTIL 7 PM EST FRIDAY...
+
+* WHAT...Heavy mixed precipitation. Snow and sleet, with freezing rain in the foothills and valleys. Snow accumulations of 4 to 12 inches, locally 14 inches on the higher ridges. Sleet accumulations of 1 to 3 inches. Ice accumulations of 0.25 to 0.75 inch, highest in Cartersville, Dahlonega, and Rome. Thundersnow is possible. Winds gusting as high as 40 mph.
+
+* WHERE...Northwest Georgia and the north Georgia mountains.
+
+* WHEN...Until 7 PM EST Friday.
+
+* IMPACTS...Travel will be impossible. Heavy snow, sleet, and ice will bring down trees and power lines, and power outages could last for days. Roads will remain impassable into the weekend. The combination of ice and wind will be especially damaging in the valleys and foothills.
+
+* ADDITIONAL DETAILS...Mountain ridges above the cold layer may see heavy rime ice in addition to snow. Ice amounts change sharply near the Alabama line, where the cold air is thinner. A small shift in the cold dome could move the boundary between sleet and freezing rain by 20 miles.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Do not travel. If you must leave home, carry a winter survival kit with extra food, water, and warm clothing. Stay away from downed power lines and keep generators outside.
+
+&&
+
+$$
+
+GAZ056>062-064>068-190100-
+/O.CON.KFFC.WW.Y.0003.261217T0000Z-261219T0000Z/
+Jasper-Monroe-Jones-Baldwin-Putnam-Hancock-Washington-Warren-McDuffie-Glascock-Jefferson-Wilkinson-Twiggs-Bibb-
+Including the cities of Macon, Milledgeville, Eatonton, Monticello, Sandersville, Thomson, and Gray
+415 AM EST Thu Dec 17 2026
+
+...WINTER WEATHER ADVISORY REMAINS IN EFFECT UNTIL 7 PM EST FRIDAY...
+
+* WHAT...Freezing rain mixed with rain. Ice accumulations of 0.10 to 0.25 inch. Northeast winds 15 to 25 mph, gusting to 60 mph where the cold air breaks down and the low-level jet mixes to the surface.
+
+* WHERE...Central Georgia, including Macon, Milledgeville, and Thomson.
+
+* WHEN...Until 7 PM EST Friday.
+
+* IMPACTS...Roads, bridges, and overpasses will be slick. Some tree limbs and power lines will come down, mainly where the gusts are strongest.
+
+* ADDITIONAL DETAILS...This area sits along the sharp temperature gradient, where a temperature change of 3 to 5 degrees can mean the difference between rain and damaging ice. If the cold air holds longer than forecast, ice amounts will go up and the advisory will be upgraded to a warning. A High Wind Warning is in effect nearby for the Georgia coastal plain, and gusts of 60 to 75 mph are possible in Macon if the winds mix down.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Slow down and use caution while traveling. Avoid bridges and overpasses, which freeze first.
+
+&&
+
+$$
+
+Navarro

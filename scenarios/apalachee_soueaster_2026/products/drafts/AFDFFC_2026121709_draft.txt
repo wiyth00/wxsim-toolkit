@@ -1,0 +1,94 @@
+000
+FXUS62 KFFC 170908
+AFDFFC
+
+Area Forecast Discussion
+National Weather Service Peachtree City GA
+408 AM EST Thu Dec 17 2026
+
+...CATASTROPHIC ICE STORM UNDER WAY FOR METRO ATLANTA AND NORTHEAST GEORGIA...
+...HEAVY FREEZING RAIN BANDS WITH 1 TO 2 INCHES OF TOTAL ICE FROM CARROLLTON THROUGH ATLANTA TO HARTWELL...
+
+.KEY MESSAGES...
+
+  - A catastrophic ice storm is under way. Ice accumulations of 0.40 to 0.90 inch have already been reported across metro Atlanta and northeast Georgia since early Wednesday evening, and the heaviest freezing rain is still ahead. Total ice of 1 to 2 inches is forecast along a band from Carrollton and Douglasville through Atlanta and Lawrenceville to Commerce and Hartwell, with 0.50 to 1 inch elsewhere in the metro area. This is the worst ice event in the modern record for the area.
+
+  - Widespread, long-duration power outages and extensive tree and infrastructure damage are expected. Some areas could be without power for one to two weeks or longer. Travel is impossible and will remain so through at least Saturday. Do not go outside during the storm unless it is an emergency.
+
+  - Northeast winds gusting 30 to 45 mph will add to the load on ice-covered trees and lines through Friday. Just south of the ice, gusts of 60 to 75 mph are possible in central Georgia where the cold air breaks down.
+
+  - Ice amounts will vary sharply over short distances because the heaviest freezing rain is falling in narrow bands. A shift of 15 to 25 miles in band placement or in the position of the southern edge of the cold air would change local totals by half an inch or more.
+
+&&
+
+.SHORT TERM...
+(This morning through Friday night)
+Issued at 408 AM EST Thu Dec 17 2026
+
+The surface low reached the Florida Big Bend around 06Z at about 941 mb and now sits near Moultrie, about 120 miles south of Macon, tracking northeast and slowing down. It is forecast to loop over southwest Georgia through Friday, which keeps this storm over the region much longer than a typical winter system. This is a very different ice storm from the ones we usually see, because a very strong Gulf low is feeding the moisture and lift while a 1046 mb Arctic high over Quebec holds a deep wedge of cold air against the east side of the Appalachians. The 00Z sounding from Peachtree City showed a warm layer between roughly 900 and 700 mb with a peak near +7 C, over a surface layer of about 2,500 feet at or below freezing. That is a textbook freezing rain profile. Dewpoints in the lower to middle teens at the start of the event are still evaporating into the rain and cooling the surface, so the wedge is not only holding but strengthening. Surface temperatures at Atlanta have fallen from 30 degrees at 7 PM to 28 degrees at 4 AM despite warm advection above.
+
+The temperature contrast along the leading edge of the wedge is extreme. Surface analysis shows a drop of about 16 degrees per 10 miles across the Macon to Augusta line. The heaviest freezing rain is falling well north of that boundary, where several effects are stacking.
+
+Strong frontogenesis along the baroclinic zone is forcing narrow, persistent bands of heavy precipitation. In addition to that, the RAP and HRRR show saturated equivalent potential vorticity below zero between 700 and 500 mb across the same area, which points to slantwise convection. The KFFC radar shows bands of 35 to 45 dBZ only 10 to 20 miles wide, oriented southwest to northeast, with lightning detected in some of them. Thundersleet and thunder with freezing rain have been reported near Villa Rica and Lawrenceville. These bands are producing rain rates of 0.30 to 0.50 inch per hour, which is more than three times what the gaps between them are getting. The primary band runs from Carrollton and Douglasville through Atlanta and Lawrenceville to Commerce and Hartwell. A weaker second band is about 40 miles to the south, near Newnan, Peachtree City, and Griffin.
+
+A 925 to 850 mb jet of 65 to 80 kt from the south-southeast is riding over the top of the cold dome and running into the baroclinic zone. Precipitable water values around 1.6 inches are near the December record for Peachtree City. Strong moisture flux convergence at the nose of the jet is anchoring the bands where the cold air begins to deepen. The jet is above the wedge, which is why surface gusts are only 30 to 45 mph and not much higher, but it is also the main concern for the forecast. If the cold dome erodes from the south or east, even partly, much stronger winds could mix down quickly.
+
+The wedge extends southwestward down the east side of the Appalachians and is supported by a northeast barrier jet of 20 to 30 kt in the lowest kilometer. The nose of the cold air is near the Alabama line, and ice amounts drop quickly west of Rome. The cold air is deepest and temperatures are lowest in northeast Georgia and the Upstate of South Carolina, where upslope flow against the Blue Ridge escarpment adds to the rain rates. That area, from Commerce and Toccoa to Hartwell and Royston, is where the largest accumulations are forecast, locally up to 2 inches. North of about Cumming and Canton, the cold layer deepens enough that sleet takes over from freezing rain, which cuts the ice amount but still produces dangerous roads. Over the north Georgia mountains and northwest Georgia, precipitation changes to sleet and snow.
+
+Ice forecast through Friday evening, in addition to what has already fallen: another 0.50 to 1.25 inches along the primary band, 0.25 to 0.75 inch elsewhere in the metro area, and 0.10 to 0.25 inch across central Georgia. Total ice is forecast at 1 to 2 inches along the band, 0.50 to 1 inch across the rest of the metro area and west Georgia, 0.25 to 0.50 inch from Covington and Madison south toward Thomaston, and 0.10 to 0.25 inch near Macon and Milledgeville. Freezing rain will continue through Thursday night and taper off through Friday morning as the low pulls slowly away. Sleet will mix in over the north.
+
+Wind: northeast winds of 15 to 25 mph with gusts of 30 to 45 mph are expected through Friday, strongest across the metro area and east of I-85 on Thursday. The combination of one inch or more of ice and winds of this strength is enough to bring down large numbers of mature trees and many utility poles. In central Georgia, wind gusts of 60 to 75 mph are forecast near Macon where the cold air weakens and the low-level jet mixes down, and the Georgia coastal plain is under a High Wind Warning. We expect rain there with a changeover to freezing rain as the low passes.
+
+Temperatures: highs today will only reach the upper 20s to lower 30s north of the boundary. Lows tonight will be in the upper 20s. Highs Friday will be near freezing, and lows Friday night will fall into the lower to middle teens as the ice-covered ground radiates under clearing skies. Ice will not begin to melt until Saturday afternoon.
+
+&&
+
+.LONG TERM...
+(Saturday through next Wednesday)
+Issued at 408 AM EST Thu Dec 17 2026
+
+The low exits to the east Saturday and the freezing rain ends, but the damage will be done. Highs on Saturday will only reach the lower to middle 30s, and ice will begin to melt slowly in the afternoon. Another hard freeze is forecast Saturday night, and lows will remain in the teens to lower 20s through Sunday morning, which will slow any recovery. Temperatures will climb into the 40s on Sunday and the 50s early next week. Falling ice from trees and utility poles will be a hazard as the ice melts. Power restoration will be slow because road access is blocked, and crews will have to rebuild lines and replace broken poles. Expect many people to be without heat for an extended time in very cold weather. Dangerous carbon monoxide poisoning from generators and grills will be a major risk, and portable heaters can cause fires.
+
+&&
+
+.AVIATION...
+(06Z TAF Discussion)
+Issued at 408 AM EST Thu Dec 17 2026
+
+IFR to LIFR with FZRA and PL at all TAF sites in north and central Georgia, except MCN, where RA and FZRA will alternate. Heavy FZRA bands with embedded TS are likely at ATL, PDK, and AHN through 00Z. NE winds of 10 to 20 kt with gusts of 25 to 40 kt will continue through Friday. Wind gusts at MCN could briefly reach 55 to 65 kt. Ice accumulation on aircraft and runways makes airport operations at ATL impossible. Expect ground stops and closures from the FAA.
+
+&&
+
+.HYDROLOGY...
+Issued at 408 AM EST Thu Dec 17 2026
+
+Rainfall of 2 to 5 inches is expected across south-central Georgia in the strongest rain bands, which will push rivers to flood stage over the weekend. The Flood Watch for the southern part of the area remains in effect. In the ice zone, liquid-equivalent precipitation will remain on trees and wires and will not run off until the melt, so river rises will be delayed until early next week.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Atlanta        31  29  33  17 / 100 100  70  10
+Athens         31  29  33  16 / 100 100  70  10
+Gainesville    30  28  32  14 / 100 100  60  10
+Rome           32  29  35  17 /  90  90  50  10
+Columbus       52  36  40  24 / 100 100  60   0
+Macon          38  34  38  21 / 100 100  70   0
+Augusta        40  33  38  21 / 100 100  60   0
+
+&&
+
+.FFC WATCHES/WARNINGS/ADVISORIES...
+GA...Ice Storm Warning until 7 PM EST Friday for GAZ010>017-019>025-
+     027>039-041>043-045-050-051.
+     Winter Storm Warning until 7 PM EST Friday for GAZ001>009-018-
+     026-040-044-046>049-052>055.
+     Winter Weather Advisory until 7 PM EST Friday for GAZ056>062-
+     064>068.
+&&
+
+$$
+
+SHORT TERM...Navarro
+LONG TERM....Whitfield
+AVIATION...Whitfield
+HYDROLOGY...Pruitt

@@ -33,6 +33,7 @@ Hour 0 = Tue Dec 15 00Z. December, so local time is EST (UTC−5).
 | `ero_day1_16z.json` | WPC Day 1 ERO 16Z Wed + QPFERD text (`wxsim.wpc.ero`) |
 | `ero_day2_21z.json` | WPC Day 2 ERO issued Wed afternoon, High Risk for Thursday; uses `exclude` to drop the snow/ice areas and the post-squall-line peninsula |
 | `outlook_day2_1730z.json` | SPC Day 2 outlook issued Tue 1730Z (`wxsim.outlook`) |
+| `products/AFDFFC_2026121709.txt`, `products/WSWFFC_2026121709.txt` | Peachtree City: AFD and Ice Storm Warning / Winter Storm Warning / Winter Weather Advisory (WSW), 4 AM EST Thu Dec 17, with observed ice, band structure, and forecast totals from the banded ice analysis |
 | `products/` | AFDTAE (342 PM Wed), NPWTAE High Wind Warning (345 PM Wed), FFATAE PDS Flood Watch (350 PM Wed), EWWTAE Extreme Wind Warning (1240 AM Thu), SWODY2 (Tue). Drafts in `products/drafts/`, wrapped with `wxsim.nws_text`. |
 
 ```bash
