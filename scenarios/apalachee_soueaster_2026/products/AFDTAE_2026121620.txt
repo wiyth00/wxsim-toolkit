@@ -48,8 +48,10 @@ FROM KEATON BEACH TO STEINHATCHEE...
     Bend and southeast Alabama, the first winter High Risk on record
     here. Storm totals of 6 to 10 inches, locally 12 near Valdosta,
     will fall on ground already saturated by the wettest El Nino
-    autumn on record. Widespread, life-threatening flash flooding and
-    major river flooding are expected.
+    autumn on record. A Particularly Dangerous Situation Flood Watch
+    is in effect for the entire area. Catastrophic flash flooding and
+    major river flooding are expected, and floodwaters will be full
+    of downed power lines, debris, and sewage.
 
 &&
 
@@ -220,18 +222,18 @@ Apalachicola  62  53  46  38 / 100  90  60  10
 &&
 
 .TAE WATCHES/WARNINGS/ADVISORIES...
-FL...Flood Watch from this evening through Saturday morning for
+FL...PDS Flood Watch from this evening through Saturday morning for
      FLZ007>019-026>029-034-108-112-114-115-118-127-128-134.
      High Wind Warning from 7 PM EST this evening through Friday
      evening for
      FLZ007>019-026>029-034-108-112-114-115-118-127-128-134.
      Coastal Flood Warning from 7 PM EST this evening through
      Thursday evening for FLZ108-112-114-115-118-127-128-134.
-GA...Flood Watch from this evening through Saturday morning for
+GA...PDS Flood Watch from this evening through Saturday morning for
      GAZ120>131-142>148-155>161.
      High Wind Warning from 7 PM EST this evening through Friday
      evening for GAZ120>131-142>148-155>161.
-AL...Flood Watch from this evening through Saturday morning for
+AL...PDS Flood Watch from this evening through Saturday morning for
      ALZ065>069.
      High Wind Warning from 7 PM EST this evening through Friday
      evening for ALZ065>069.
