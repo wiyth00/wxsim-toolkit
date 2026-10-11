@@ -64,6 +64,14 @@ def render(cfg, outdir):
     matplotlib.rcdefaults()
     base = cfg.get('_base_dir', '.')
     LON, LAT, qpf, ffg, ratio = risk_field(cfg, base)
+    # optional "exclude": [lon, lat] rings where no risk is drawn (e.g. where the precipitation falls as snow or ice,
+    # or where the rain in the field falls outside this window); edges are feathered so contours stay smooth
+    if cfg.get('exclude'):
+        from shapely import contains_xy
+        mask = np.zeros(LON.shape)
+        for ring in cfg['exclude']:
+            mask = np.maximum(mask, contains_xy(Polygon(ring), LON, LAT).astype(float))
+        ratio = ratio * (1 - np.clip(gaussian_filter(mask, 3), 0, 1))
     lon0, lon1, lat0, lat1 = cfg['extent']
     EXT = geo.extent_box(lon0, lon1, lat0, lat1, pad=1.0)
     tr = geo.transformer(lat_0=(lat0 + lat1) / 2, lon_0=(lon0 + lon1) / 2)

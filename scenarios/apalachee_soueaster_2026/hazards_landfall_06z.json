@@ -1,5 +1,5 @@
 {
- "_doc": "NWS-style hazards map at landfall (06Z Thu Dec 17 2026 = 1 AM EST). County hazards use 'polygon' ([lat, lon]) to pick counties by interior point (wxsim.hazards.hazard_counties). Coastal Flood Warning is a hatch overlay so the High Wind Warning shading beneath it stays visible. The Extreme Wind Warning is a storm-based polygon like a tornado warning.",
+ "_doc": "NWS-style hazards map at landfall (06Z Thu Dec 17 2026 = 1 AM EST). County hazards use 'polygon' ([lat, lon]) to pick counties by interior point (wxsim.hazards.hazard_counties). Coastal Flood Warning is a hatch overlay so the High Wind Warning shading beneath it stays visible. The Extreme Wind Warning is a storm-based polygon like a tornado warning. Flood Watch is a blue hatch (color override) so it reads apart from the green Coastal Flood hatch.",
  "scenario_label": "SIMULATED \u2014 Apalachee Bay Sou'easter scenario (not a real product)",
  "title": "Active Watches, Warnings & Advisories",
  "subtitle": "Apalachee Bay sou'easter at landfall (941 mb near St. Marks, FL)",
@@ -378,6 +378,52 @@
     "Colleton SC",
     "Charleston SC"
    ]
+  },
+  {
+   "type": "Flood Watch",
+   "style": "hatch",
+   "polygon": [
+    [
+     30.0,
+     -86.0
+    ],
+    [
+     31.6,
+     -86.0
+    ],
+    [
+     32.1,
+     -84.6
+    ],
+    [
+     32.3,
+     -83.0
+    ],
+    [
+     32.4,
+     -81.2
+    ],
+    [
+     31.5,
+     -81.2
+    ],
+    [
+     30.4,
+     -81.8
+    ],
+    [
+     29.6,
+     -82.9
+    ],
+    [
+     29.6,
+     -83.6
+    ],
+    [
+     30.0,
+     -86.0
+    ]
+   ]
   }
  ],
  "warnings": [
@@ -529,5 +575,8 @@
    -83.378
   ]
  ],
- "output": "HAZARDS_landfall_2026121706z.png"
+ "output": "HAZARDS_landfall_2026121706z.png",
+ "colors": {
+  "Flood Watch": "#1E90FF"
+ }
 }

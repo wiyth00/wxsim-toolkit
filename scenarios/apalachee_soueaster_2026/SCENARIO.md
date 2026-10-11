@@ -19,7 +19,7 @@ Hour 0 = Tue Dec 15 00Z. December, so local time is EST (UTC−5).
 | Wind (swath) | Peak gusts: Perry 126, Valdosta 125, Tallahassee 110, Moultrie 108, Cedar Key 105, Dothan 103, Albany 102, Brunswick 100, Savannah 97, Waycross 97, Panama City 96, Jacksonville 95, Apalachicola 86, Tampa 82, Charleston 77, Macon 73, Augusta 60, Mobile 58, Atlanta 44 (wedge), Birmingham 44 mph |
 | Surge | Coastal Flood Warning: 10–15 ft above ground Keaton Beach–Steinhatchee, 8–12 ft St. Marks–Econfina, 4–7 ft Franklin County; multi-tide flooding on the GA/SC coast |
 | Convection | Squall line with embedded supercells across the Big Bend and Florida peninsula Wed afternoon–night; SPC Day 2 Enhanced Risk |
-| Rain | 5–10 in. Big Bend/south Georgia, locally 12 near Valdosta–Waycross; WPC Day 1 Moderate Risk |
+| Rain | 6–10 in. Big Bend/south Georgia, locally 12 near Valdosta–Waycross, on soils saturated by a record-wet El Niño autumn (FFG 1.5–2.5 in./3 h). WPC: Day 1 (Wed) Moderate Risk; Day 2 (Thu 12Z–Fri 12Z) **High Risk** from Dothan and Albany through Tallahassee and Valdosta as the low loops; Flood Watch across the TAE area |
 | Winter | Ice Storm Warning across most of the wedge: north and central Georgia including Atlanta, east-central Alabama including Birmingham, the Upstate and Midlands of SC, and the NC Piedmont. Winter Storm Warning to the north (north Alabama, NE Mississippi, Tennessee, the southern Appalachians, southern Virginia: 12–24 in. snow, thundersnow). Winter Weather Advisory only as a thin sleet/ice fringe in central Alabama and Mississippi. |
 
 ## Files
@@ -31,6 +31,7 @@ Hour 0 = Tue Dec 15 00Z. December, so local time is EST (UTC−5).
 | `hazards_landfall_06z.json` | Hazards map at landfall (1 AM EST Thu): Extreme Wind Warning polygon, High Wind Warning, Wind Advisory, Ice Storm, Winter Storm, Winter Weather Advisory, Coastal Flood Warning (hatched), Tornado Watch |
 | `qpf_apalachee.json` | Storm-total liquid equivalent (`wxsim.wpc.qpf`) |
 | `ero_day1_16z.json` | WPC Day 1 ERO 16Z Wed + QPFERD text (`wxsim.wpc.ero`) |
+| `ero_day2_21z.json` | WPC Day 2 ERO issued Wed afternoon, High Risk for Thursday; uses `exclude` to drop the snow/ice areas and the post-squall-line peninsula |
 | `outlook_day2_1730z.json` | SPC Day 2 outlook issued Tue 1730Z (`wxsim.outlook`) |
 | `products/` | AFDTAE (342 PM Wed), NPWTAE High Wind Warning (345 PM Wed), EWWTAE Extreme Wind Warning (1240 AM Thu), SWODY2 (Tue). Drafts in `products/drafts/`, wrapped with `wxsim.nws_text`. |
 

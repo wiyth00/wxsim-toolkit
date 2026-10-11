@@ -280,6 +280,8 @@ python -m wxsim.tropical.products scenarios/delphine_west_2027/tc_delphine_west_
 - `wxsim.tropical.windmap`: optional `modifiers` (feathered multiplier zones, e.g. a cold-air-damming wedge or a
   sting jet), `rmw_nm.extratropical`, `track_labels` (which track points to label), `cbar_label` and `footnote`.
   Existing swaths render unchanged.
+- `wxsim.wpc.ero`: optional `exclude` ([lon, lat] rings) removes risk where the rain field doesn't apply, e.g. where
+  precipitation falls as snow or ice.
 - New scenario `scenarios/apalachee_soueaster_2026/`: a 939 mb Gulf bomb cyclone that comes ashore in the Big Bend
   and loops over southwest Georgia — wind swath, landfall hazards map, WPC QPF and ERO, SPC Day 2 outlook, and TAE
   AFD / High Wind Warning / Extreme Wind Warning text.

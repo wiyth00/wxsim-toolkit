@@ -1,0 +1,167 @@
+{
+ "_doc": "WPC Day 2 ERO (afternoon issuance Wed), valid 12Z Thu - 12Z Fri, while the low loops over SW Georgia. Rain that falls before 12Z Thu counts as antecedent and lowers FFG further. Risk = smoothed window rain / FFG from qpf_apalachee.json. pre_in_window = share of the frontal bands falling in this window. No predecessor event, so antecedent_pre = 0. FFG base is low (2.2 in.) because a record El Nino autumn left soils near saturation.",
+ "rain_config": "qpf_apalachee.json",
+ "day": 2,
+ "valid": {
+  "start": "2026-12-17T12:00Z",
+  "end": "2026-12-18T12:00Z"
+ },
+ "issued_local": "341 PM EST Wed Dec 16 2026",
+ "wmo_time": "162041",
+ "pre_in_window": 0.5,
+ "antecedent_pre": 0.0,
+ "ffg": {
+  "base": 2.2,
+  "min": 0.9,
+  "per_inch_antecedent": 0.25
+ },
+ "ratio_thresholds": {
+  "MRGL": 0.4,
+  "SLGT": 0.55,
+  "MDT": 0.85,
+  "HIGH": 1.6
+ },
+ "smooth": 5,
+ "extent": [
+  -89.0,
+  -78.0,
+  27.0,
+  35.5
+ ],
+ "county_extent": [
+  -86.5,
+  -80.5,
+  29.5,
+  33.5
+ ],
+ "cities": [
+  [
+   "Tallahassee",
+   30.438,
+   -84.281
+  ],
+  [
+   "Valdosta",
+   30.833,
+   -83.28
+  ],
+  [
+   "Albany",
+   31.578,
+   -84.156
+  ],
+  [
+   "Savannah",
+   32.081,
+   -81.091
+  ],
+  [
+   "Jacksonville",
+   30.332,
+   -81.656
+  ],
+  [
+   "Atlanta",
+   33.749,
+   -84.388
+  ],
+  [
+   "Macon",
+   32.841,
+   -83.632
+  ],
+  [
+   "Dothan",
+   31.223,
+   -85.39
+  ],
+  [
+   "Orlando",
+   28.538,
+   -81.379
+  ],
+  [
+   "Tampa",
+   27.95,
+   -82.458
+  ],
+  [
+   "Charleston",
+   32.776,
+   -79.931
+  ],
+  [
+   "Panama City",
+   30.159,
+   -85.66
+  ]
+ ],
+ "note": "SIMULATED. Risk areas derived from the scenario's rule-based rainfall field vs. simulated flash flood guidance.",
+ "output": "ERO_day2_apalachee_21z.png",
+ "text_output": "QPFERD_day2_2026121621.txt",
+ "text": {
+  "headlines": [
+   "THERE IS A HIGH RISK OF EXCESSIVE RAINFALL ACROSS PORTIONS OF SOUTHWEST AND SOUTH-CENTRAL GEORGIA...THE FLORIDA BIG BEND...AND SOUTHEAST ALABAMA",
+   "THERE IS A MODERATE RISK OF EXCESSIVE RAINFALL ACROSS PORTIONS OF THE FLORIDA PANHANDLE...SOUTHEAST GEORGIA...AND THE SOUTH CAROLINA LOWCOUNTRY"
+  ],
+  "regions": [
+   [
+    "Southwest Georgia, the Florida Big Bend, and Southeast Alabama",
+    [
+     "A High Risk has been introduced for Day 2, centered from Dothan and Albany through Thomasville, Tallahassee and Valdosta to the Okefenokee, in coordination with WFOs TAE and JAX and the Southeast River Forecast Center. This is the first wintertime High Risk for this part of the Southeast, and it reflects both the rainfall forecast and how little the ground can take.",
+     "After making landfall in the Big Bend around 06Z Thursday near 941 mb, the low is forecast to slow to a crawl and make a cyclonic loop over southwest Georgia through Friday as it becomes vertically stacked beneath the cutoff upper low. The comma head and wraparound bands will pivot over the same counties for 24 to 36 hours. The 12Z REFS, HREF, RRFS, GFS, ECMWF and ECMWF-AIFS all have 4 to 7 inches in the Day 2 window inside the High Risk, on top of 2 to 5 inches expected before 12Z Thursday. Storm totals of 8 to 12 inches are likely near Valdosta and Waycross, with 6 to 9 inches common elsewhere. Hourly rates of 1 to 1.5 inches are expected in the cloud-head band Thursday, with training.",
+     "Antecedent conditions are the reason for the High Risk. The record El Nino has sent repeated subtropical-jet systems across the Gulf Coast since October. October through mid-December rainfall is 175 to 250 percent of normal across the region, soils are near saturation, and the Ochlockonee, Withlacoochee, Flint and Alapaha were already running above normal. Low winter evaporation means there has been little recovery between events. Three-hour flash flood guidance is 1.5 to 2.5 inches across most of the area, and will drop below 1 inch where Wednesday night's rain verifies. Widespread wind damage will also leave culverts and drainage blocked by fallen trees, and coastal flooding will slow drainage on the tidal reaches of the Big Bend rivers. Widespread, life-threatening flash flooding is expected, along with major river flooding that will continue well beyond this period."
+    ]
+   ],
+   [
+    "Florida Panhandle, Southeast Georgia, and the South Carolina Lowcountry",
+    [
+     "The warm conveyor belt continues to wrap around the east side of the low Thursday, bringing additional 2 to 4 inch totals from the Okefenokee to Savannah and the Lowcountry. Totals there will be lower than in the High Risk, but guidance is similarly low on wet soils. Coastal flooding at high tide will make drainage worse around Savannah, Beaufort and Charleston. North of the Moderate Risk, the precipitation falls as freezing rain and snow and is not included in this outlook."
+    ]
+   ]
+  ],
+  "forecaster": "Castellanos"
+ },
+ "exclude": [
+  [
+   [
+    -90,
+    33.6
+   ],
+   [
+    -82.6,
+    34.0
+   ],
+   [
+    -80.0,
+    35.2
+   ],
+   [
+    -79.0,
+    37
+   ],
+   [
+    -90,
+    37
+   ]
+  ],
+  [
+   [
+    -84.0,
+    26.0
+   ],
+   [
+    -81.8,
+    29.2
+   ],
+   [
+    -80.6,
+    29.2
+   ],
+   [
+    -79.5,
+    26.0
+   ]
+  ]
+ ]
+}

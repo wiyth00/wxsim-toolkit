@@ -1,5 +1,5 @@
 {
- "_doc": "WPC Day 1 Excessive Rainfall Outlook (16Z update). Risk = smoothed window rain / FFG from qpf_apalachee.json. pre_in_window = share of the frontal bands falling in this window. No predecessor event, so antecedent_pre = 0.",
+ "_doc": "WPC Day 1 Excessive Rainfall Outlook (16Z update). Risk = smoothed window rain / FFG from qpf_apalachee.json. pre_in_window = share of the frontal bands falling in this window. No predecessor event, so antecedent_pre = 0. FFG base is low (2.2 in.) because a record El Nino autumn left soils near saturation.",
  "rain_config": "qpf_apalachee.json",
  "day": 1,
  "valid": {
@@ -8,12 +8,12 @@
  },
  "issued_local": "1055 AM EST Wed Dec 16 2026",
  "wmo_time": "161555",
- "pre_in_window": 0.55,
+ "pre_in_window": 0.42,
  "antecedent_pre": 0.0,
  "ffg": {
-  "base": 3.0,
-  "min": 1.2,
-  "per_inch_antecedent": 0.3
+  "base": 2.2,
+  "min": 0.9,
+  "per_inch_antecedent": 0.25
  },
  "ratio_thresholds": {
   "MRGL": 0.4,
@@ -111,11 +111,36 @@
     [
      "The inherited Slight Risk was upgraded to a Moderate Risk from the eastern Florida Panhandle across the Big Bend and south Georgia to near Savannah after coordination with WFOs TAE and JAX. The Slight Risk was expanded northeast along the coastal plain to the South Carolina Lowcountry. An extraordinarily intense extratropical low over the eastern Gulf, near 962 mb at 15Z and still deepening rapidly, is forecast to make landfall near St. Marks around 06Z at 940 to 945 mb. It will then slow and begin a cyclonic loop over southwest Georgia that continues through Day 2.",
      "Two rain regimes overlap in the Moderate Risk. First, a strongly forced squall line with embedded supercells crosses the Big Bend and the Florida peninsula this afternoon and evening, with brief rates of 2 to 3 inches per hour. Second, the warm conveyor belt wraps into the cloud head overnight. PWs of 1.7 to 1.9 inches are forecast, near the daily record for mid-December and about 250 percent of normal. Strong isentropic ascent over the coastal front will support a long-lived band of 1 to 1.5 inch per hour rates from the Big Bend to the Okefenokee and Waycross between 03Z and 12Z. The 12Z REFS and HREF both show neighborhood probabilities of 5 inches in 6 hours above 40 percent there. The 12Z RRFS, GFS, ECMWF and ECMWF-AIFS all have storm totals of 6 to 10 inches across the Moderate Risk by the end of Day 2, with local amounts to 12 inches near Valdosta and Waycross.",
-     "Mid-December flash flood guidance on the sandy soils of the coastal plain is higher than in the warm season, mostly 3 to 4 inches in 3 hours. Still, the expected rates and duration are enough to exceed it in many places, and in Tallahassee, Valdosta and Thomasville urban runoff will be efficient. Wind-driven coastal flooding will also block drainage on the tidal reaches of the St. Marks, Aucilla, Econfina and Steinhatchee Rivers through 12Z. Downed trees and power outages will slow response and make flooded roads harder to see overnight. Numerous instances of flash flooding are expected, some of them significant.",
-     "Over the Florida peninsula, the squall line will produce 1 to 2 inches in an hour this evening, but its forward speed should hold totals to 1 to 3 inches, below guidance outside of urban areas."
+     "The record El Nino has left soils across the region near saturation after an autumn of repeated Gulf systems, and 3-hour flash flood guidance is only 1.5 to 2.5 inches, unusually low for the sandy coastal plain. The expected rates and duration will exceed it in many places, and in Tallahassee, Valdosta and Thomasville urban runoff will be efficient. Wind-driven coastal flooding will also block drainage on the tidal reaches of the St. Marks, Aucilla, Econfina and Steinhatchee Rivers through 12Z. Downed trees and power outages will slow response and make flooded roads harder to see overnight. Numerous instances of flash flooding are expected, some of them significant.",
+     "Over the Florida peninsula, the squall line will produce 1 to 2 inches in an hour this evening, but its forward speed should hold totals to 1 to 3 inches, below guidance outside of urban areas.",
+     "A High Risk has been issued for Day 2 as the low stalls and loops over southwest Georgia. See the Day 2 discussion."
     ]
    ]
   ],
   "forecaster": "Castellanos"
- }
+ },
+ "exclude": [
+  [
+   [
+    -90,
+    33.6
+   ],
+   [
+    -82.6,
+    34.0
+   ],
+   [
+    -80.0,
+    35.2
+   ],
+   [
+    -79.0,
+    37
+   ],
+   [
+    -90,
+    37
+   ]
+  ]
+ ]
 }
