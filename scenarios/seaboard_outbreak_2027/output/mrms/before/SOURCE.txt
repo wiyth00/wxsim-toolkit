@@ -1,0 +1,2 @@
+Before stills copied from wxsim-toolkit-seaboard-storm-reports.zip, scenarios/seaboard_outbreak_2027/output/mrms.
+They are archival context, not a controlled same-input comparison: that archive has 43 seed-1 storms; the current workspace seed has 124.

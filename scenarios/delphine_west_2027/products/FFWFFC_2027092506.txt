@@ -1,0 +1,92 @@
+000
+WGUS52 KFFC 250605
+FFWFFC
+GAC063-067-089-097-113-121-135-151-247-251100-
+/O.NEW.KFFC.FF.W.0118.270925T0605Z-270925T1100Z/
+/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+
+BULLETIN - EAS ACTIVATION REQUESTED
+Flash Flood Warning
+National Weather Service Peachtree City GA
+205 AM EDT Sat Sep 25 2027
+
+...FLASH FLOOD EMERGENCY FOR METRO ATLANTA...
+
+The National Weather Service in Peachtree City has issued a
+
+* Flash Flood Warning for...
+  Clayton County in north central Georgia...
+  Cobb County in north central Georgia...
+  DeKalb County in north central Georgia...
+  Douglas County in north central Georgia...
+  Fayette County in west central Georgia...
+  Fulton County in north central Georgia...
+  Gwinnett County in north central Georgia...
+  Henry County in north central Georgia...
+  Rockdale County in north central Georgia...
+
+* Until 700 AM EDT.
+
+* At 205 AM EDT, emergency management, fire and rescue crews, and law
+  enforcement reported catastrophic flash flooding across the Atlanta
+  metropolitan area. Doppler radar indicated rainfall rates of 2 to 3
+  inches per hour in the eyewall and rain bands of Hurricane
+  Delphine, whose center was located near Carrollton, moving north at
+  45 mph. Two to four inches of rain have fallen in the past two
+  hours on ground saturated by 10 to 12 inches of rain since
+  Wednesday. Additional rainfall of 1 to 2 inches is expected over
+  the next two hours. Flash flooding is ongoing.
+
+  HAZARD...Life-threatening flash flooding. Heavy rain from Hurricane
+    Delphine.
+
+  SOURCE...Emergency management, law enforcement, and fire and rescue
+    reports.
+
+  IMPACT...This is a PARTICULARLY DANGEROUS SITUATION. SEEK HIGHER
+    GROUND NOW! Water rescues are ongoing along Peachtree Creek,
+    Nancy Creek, Proctor Creek, and Sope Creek. Multiple homes and
+    apartments along these creeks are flooded, with water reported to
+    the second floor in some locations. Portions of Interstate 75,
+    Interstate 85, Interstate 285, and Interstate 20 are flooded and
+    impassable. Numerous roads are also blocked by fallen trees and
+    downed power lines. Rapid rises of 10 feet or more are occurring
+    on small streams in less than an hour.
+
+* Some locations that will experience flash flooding include...
+  Atlanta, Sandy Springs, Marietta, Smyrna, Mableton, Decatur,
+    Brookhaven, Dunwoody, Chamblee, Tucker, East Point, College Park,
+    Forest Park, Morrow, Jonesboro, Austell, Douglasville, Lithia
+    Springs, Stone Mountain, Lilburn, Norcross, Conyers, McDonough,
+    Stockbridge, and Fayetteville.
+
+This includes the following highways...
+  Interstate 20 between mile markers 25 and 82.
+  Interstate 75 between mile markers 216 and 272.
+  Interstate 85 between mile markers 66 and 110.
+  Interstate 285 in its entirety.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+This is a FLASH FLOOD EMERGENCY for metro Atlanta. This is a
+PARTICULARLY DANGEROUS SITUATION. SEEK HIGHER GROUND NOW!
+
+Move immediately to the highest floor of a sturdy building if you are
+in a low-lying area or near a creek. Do not go into an attic unless
+you have a way to escape through the roof. Do not attempt to travel
+unless you are fleeing an area subject to flooding or under an
+evacuation order. Turn Around, Don't Drown when encountering flooded
+roads. Most flood deaths occur in vehicles.
+
+&&
+
+LAT...LON 3405 8466 3406 8412 3358 8408 3350 8452
+      3372 8472
+
+FLASH FLOOD...OBSERVED
+FLASH FLOOD DAMAGE THREAT...CATASTROPHIC
+EXPECTED RAINFALL RATE...2-3 INCHES IN 1 HOUR
+
+$$
+
+Nguyen

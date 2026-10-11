@@ -1,0 +1,155 @@
+{
+ "_doc": "TEMPLATE: moist Gulf warm sector ahead of a strongly forced cold front. Deep shear is nearly parallel to the front, so storms congeal into a QLCS with HP/embedded supercells. Copy into a scenario folder and edit.",
+ "domain": [
+  -87.5,
+  -80.5,
+  31.0,
+  35.8
+ ],
+ "start": "2027-04-17T16:00Z",
+ "end": "2027-04-18T02:00Z",
+ "step_min": 10,
+ "seed": 1,
+ "base_airmass": "gulf_moist",
+ "airmasses": {
+  "gulf_moist": {
+   "mlcape": 1600,
+   "mucape": 1900,
+   "mlcin": -25,
+   "lcl": 750,
+   "pw": 1.75,
+   "mean_wind": [
+    215,
+    45
+   ],
+   "shear06": [
+    225,
+    62
+   ],
+   "srh01": 260,
+   "srh03": 360,
+   "sr_anvil": 38,
+   "lapse75": 6.6,
+   "rh_low": 85,
+   "hodo_curve": 0.65,
+   "wbz_kft": 11.5,
+   "linear": 0.85,
+   "heating_ci": 0.02
+  },
+  "post_frontal": {
+   "mlcape": 80,
+   "mucape": 250,
+   "mlcin": -120,
+   "lcl": 600,
+   "pw": 1.0,
+   "mean_wind": [
+    250,
+    45
+   ],
+   "shear06": [
+    250,
+    60
+   ],
+   "srh01": 80,
+   "srh03": 120,
+   "sr_anvil": 45,
+   "lapse75": 6.5,
+   "rh_low": 70,
+   "hodo_curve": 0.3,
+   "linear": 0.6
+  }
+ },
+ "boundaries": [
+  {
+   "name": "cold front",
+   "kind": "cold_front",
+   "left": "post_frontal",
+   "width_km": 8,
+   "lift": 1.0,
+   "lift_offset_km": -14,
+   "lift_width_km": 10,
+   "dynamic": {
+    "initial_time": "2027-04-17T16:00Z",
+    "initial_line": [
+     [
+      -87.4,
+      30.8
+     ],
+     [
+      -86.9,
+      33.0
+     ],
+     [
+      -86.3,
+      36.0
+     ]
+    ],
+    "speed_kt": 14,
+    "surge_kt": 8,
+    "surge_radius_km": 50,
+    "spacing_km": 12,
+    "_doc": "Front moves ~14 kt normal to itself; QLCS cold pools surge it up to +8 kt near active convection (bowing)."
+   },
+   "fine_line": 0.8
+  }
+ ],
+ "time_factors": {
+  "mlcape": {
+   "2027-04-17T20:00Z": 1.0,
+   "2027-04-18T00:00Z": 0.8,
+   "2027-04-18T02:00Z": 0.6
+  }
+ },
+ "initiation": {
+  "window": [
+   "2027-04-17T17:00Z",
+   "2027-04-18T00:00Z"
+  ],
+  "ci_rate": 2.2,
+  "cin_break": 35,
+  "heat_cin_break": 12,
+  "min_cape": 300,
+  "min_spacing_km": 22,
+  "grid_deg": 0.1,
+  "lifetime_min": [
+   45,
+   90
+  ]
+ },
+ "evolution": {
+  "organize_min": 35,
+  "split_rate": 0.1,
+  "merge_km": 11,
+  "tor_rate": 0.012,
+  "min_usable_cape": 300,
+  "tor_refractory_min": 45
+ },
+ "maps": {
+  "times": [
+   "2027-04-17T18:00Z",
+   "2027-04-17T21:00Z"
+  ],
+  "radar_template": "../piedmont_dryline_2027/radar_KFFC_2245z.json",
+  "radar_times": [
+   "2027-04-17T21:30Z",
+   "2027-04-17T23:30Z"
+  ]
+ },
+ "outputs": {
+  "storms": "storms_gen_qlcs_seed{seed}.json"
+ },
+ "outflows": {
+  "enabled": true,
+  "spread_kt": 16,
+  "drift_frac": 0.5,
+  "decay_min": 80,
+  "spread_taper_min": 40,
+  "max_area_km2": 20000,
+  "edge_lift": 1.0,
+  "collision_lift": 0.9,
+  "edge_srh01": 80,
+  "interior_cin": 150,
+  "source_radius_km": 8,
+  "source_back_km": 6
+ }
+}

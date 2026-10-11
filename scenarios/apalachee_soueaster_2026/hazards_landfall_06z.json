@@ -1,0 +1,533 @@
+{
+ "_doc": "NWS-style hazards map at landfall (06Z Thu Dec 17 2026 = 1 AM EST). County hazards use 'polygon' ([lat, lon]) to pick counties by interior point (wxsim.hazards.hazard_counties). Coastal Flood Warning is a hatch overlay so the High Wind Warning shading beneath it stays visible. The Extreme Wind Warning is a storm-based polygon like a tornado warning.",
+ "scenario_label": "SIMULATED \u2014 Apalachee Bay Sou'easter scenario (not a real product)",
+ "title": "Active Watches, Warnings & Advisories",
+ "subtitle": "Apalachee Bay sou'easter at landfall (941 mb near St. Marks, FL)",
+ "valid_time": "1:00 AM EST Thu Dec 17, 2026",
+ "tz": {
+  "offset_h": -5,
+  "name": "EST"
+ },
+ "extent": [
+  -89.2,
+  -77.6,
+  26.9,
+  36.8
+ ],
+ "watches": [
+  {
+   "type": "Tornado Watch",
+   "counties": [
+    "Volusia FL",
+    "Seminole FL",
+    "Orange FL",
+    "Osceola FL",
+    "Brevard FL",
+    "Indian River FL",
+    "St. Lucie FL",
+    "Okeechobee FL",
+    "Martin FL",
+    "Palm Beach FL",
+    "Highlands FL"
+   ]
+  }
+ ],
+ "county_hazards": [
+  {
+   "type": "High Wind Warning",
+   "polygon": [
+    [
+     30.2,
+     -88.4
+    ],
+    [
+     31.3,
+     -87.6
+    ],
+    [
+     32.0,
+     -85.8
+    ],
+    [
+     32.5,
+     -84.0
+    ],
+    [
+     32.6,
+     -82.5
+    ],
+    [
+     33.0,
+     -81.2
+    ],
+    [
+     33.5,
+     -79.8
+    ],
+    [
+     33.9,
+     -78.5
+    ],
+    [
+     33.6,
+     -77.6
+    ],
+    [
+     32.0,
+     -80.6
+    ],
+    [
+     30.5,
+     -81.3
+    ],
+    [
+     29.3,
+     -80.9
+    ],
+    [
+     28.0,
+     -80.3
+    ],
+    [
+     27.8,
+     -81.0
+    ],
+    [
+     27.8,
+     -82.9
+    ],
+    [
+     28.8,
+     -83.0
+    ],
+    [
+     29.8,
+     -84.0
+    ],
+    [
+     29.6,
+     -85.3
+    ],
+    [
+     30.0,
+     -87.5
+    ],
+    [
+     30.2,
+     -88.4
+    ]
+   ]
+  },
+  {
+   "type": "Wind Advisory",
+   "polygon": [
+    [
+     29.0,
+     -90.0
+    ],
+    [
+     33.2,
+     -90.0
+    ],
+    [
+     33.2,
+     -84.0
+    ],
+    [
+     33.3,
+     -81.8
+    ],
+    [
+     33.7,
+     -81.0
+    ],
+    [
+     34.4,
+     -80.4
+    ],
+    [
+     35.0,
+     -79.6
+    ],
+    [
+     35.6,
+     -78.6
+    ],
+    [
+     36.6,
+     -78.5
+    ],
+    [
+     37.6,
+     -80.4
+    ],
+    [
+     37.6,
+     -74.5
+    ],
+    [
+     24.0,
+     -74.5
+    ],
+    [
+     24.0,
+     -84.0
+    ],
+    [
+     29.0,
+     -90.0
+    ]
+   ]
+  },
+  {
+   "type": "Ice Storm Warning",
+   "polygon": [
+    [
+     33.3,
+     -87.3
+    ],
+    [
+     33.95,
+     -87.3
+    ],
+    [
+     34.35,
+     -86.2
+    ],
+    [
+     34.65,
+     -85.4
+    ],
+    [
+     34.95,
+     -84.4
+    ],
+    [
+     35.25,
+     -83.3
+    ],
+    [
+     35.5,
+     -82.1
+    ],
+    [
+     35.9,
+     -81.0
+    ],
+    [
+     36.4,
+     -79.8
+    ],
+    [
+     36.6,
+     -78.5
+    ],
+    [
+     35.6,
+     -78.6
+    ],
+    [
+     35.0,
+     -79.6
+    ],
+    [
+     34.4,
+     -80.4
+    ],
+    [
+     33.7,
+     -81.0
+    ],
+    [
+     33.3,
+     -81.8
+    ],
+    [
+     33.0,
+     -82.8
+    ],
+    [
+     32.95,
+     -84.2
+    ],
+    [
+     32.95,
+     -85.5
+    ],
+    [
+     33.3,
+     -87.3
+    ]
+   ]
+  },
+  {
+   "type": "Winter Storm Warning",
+   "polygon": [
+    [
+     33.95,
+     -90.0
+    ],
+    [
+     37.6,
+     -90.0
+    ],
+    [
+     37.6,
+     -77.8
+    ],
+    [
+     36.85,
+     -77.8
+    ],
+    [
+     36.6,
+     -78.5
+    ],
+    [
+     36.4,
+     -79.8
+    ],
+    [
+     35.9,
+     -81.0
+    ],
+    [
+     35.5,
+     -82.1
+    ],
+    [
+     35.25,
+     -83.3
+    ],
+    [
+     34.95,
+     -84.4
+    ],
+    [
+     34.65,
+     -85.4
+    ],
+    [
+     34.35,
+     -86.2
+    ],
+    [
+     33.95,
+     -87.3
+    ],
+    [
+     33.95,
+     -90.0
+    ]
+   ]
+  },
+  {
+   "type": "Winter Weather Advisory",
+   "polygon": [
+    [
+     32.5,
+     -90.0
+    ],
+    [
+     33.95,
+     -90.0
+    ],
+    [
+     33.95,
+     -87.3
+    ],
+    [
+     33.3,
+     -87.3
+    ],
+    [
+     32.95,
+     -85.5
+    ],
+    [
+     32.65,
+     -85.5
+    ],
+    [
+     32.5,
+     -90.0
+    ]
+   ]
+  },
+  {
+   "type": "Coastal Flood Warning",
+   "style": "hatch",
+   "counties": [
+    "Franklin FL",
+    "Wakulla FL",
+    "Jefferson FL",
+    "Taylor FL",
+    "Dixie FL",
+    "Levy FL",
+    "Nassau FL",
+    "Duval FL",
+    "St. Johns FL",
+    "Camden GA",
+    "Glynn GA",
+    "McIntosh GA",
+    "Liberty GA",
+    "Bryan GA",
+    "Chatham GA",
+    "Jasper SC",
+    "Beaufort SC",
+    "Colleton SC",
+    "Charleston SC"
+   ]
+  }
+ ],
+ "warnings": [
+  {
+   "type": "Extreme Wind Warning",
+   "office": "NWS TAE",
+   "expires": "3:00 AM EST",
+   "expire_ddhhmm": "170800",
+   "issue_z": "0540Z",
+   "pds": false,
+   "polygon": [
+    [
+     30.08,
+     -84.05
+    ],
+    [
+     30.6,
+     -84.02
+    ],
+    [
+     30.95,
+     -83.7
+    ],
+    [
+     30.95,
+     -83.2
+    ],
+    [
+     30.62,
+     -83.38
+    ],
+    [
+     30.25,
+     -83.3
+    ],
+    [
+     29.62,
+     -83.3
+    ],
+    [
+     29.85,
+     -83.8
+    ],
+    [
+     30.08,
+     -84.05
+    ]
+   ],
+   "tags": {
+    "wind": "OBSERVED",
+    "damage": "DESTRUCTIVE"
+   }
+  }
+ ],
+ "cities": [
+  [
+   "Atlanta",
+   33.749,
+   -84.388
+  ],
+  [
+   "Tallahassee",
+   30.438,
+   -84.281
+  ],
+  [
+   "Valdosta",
+   30.833,
+   -83.28
+  ],
+  [
+   "Jacksonville",
+   30.332,
+   -81.656
+  ],
+  [
+   "Savannah",
+   32.081,
+   -81.091
+  ],
+  [
+   "Charleston",
+   32.776,
+   -79.931
+  ],
+  [
+   "Birmingham",
+   33.519,
+   -86.81
+  ],
+  [
+   "Huntsville",
+   34.73,
+   -86.586
+  ],
+  [
+   "Knoxville",
+   35.961,
+   -83.921
+  ],
+  [
+   "Asheville",
+   35.595,
+   -82.551
+  ],
+  [
+   "Greenville",
+   34.853,
+   -82.394
+  ],
+  [
+   "Columbia",
+   34.0,
+   -81.035
+  ],
+  [
+   "Macon",
+   32.841,
+   -83.632
+  ],
+  [
+   "Orlando",
+   28.538,
+   -81.379
+  ],
+  [
+   "Tampa",
+   27.95,
+   -82.458
+  ],
+  [
+   "Mobile",
+   30.695,
+   -88.04
+  ],
+  [
+   "Albany",
+   31.578,
+   -84.156
+  ],
+  [
+   "Chattanooga",
+   35.046,
+   -85.309
+  ],
+  [
+   "Athens",
+   33.961,
+   -83.378
+  ]
+ ],
+ "output": "HAZARDS_landfall_2026121706z.png"
+}

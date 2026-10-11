@@ -1,0 +1,78 @@
+000
+ACUS02 KWNS 151729
+SWODY2
+SPC AC 151729
+
+Day 2 Convective Outlook
+NWS Storm Prediction Center Norman OK
+1129 AM CST Tue Dec 15 2026
+
+Valid 161200Z - 171200Z
+
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS THE
+SOUTHEAST FLORIDA BIG BEND AND THE NORTH-CENTRAL FLORIDA PENINSULA...
+
+...SUMMARY...
+A fast-moving squall line with embedded supercells is expected to
+cross the Florida Big Bend and the northern and central Florida
+peninsula Wednesday afternoon through Wednesday night. Damaging gusts
+are the primary threat, with locally 75+ mph gusts where the line
+bows. A few tornadoes are also likely, and one or two could be
+strong.
+
+...Synopsis...
+An exceptionally intense extratropical cyclone is forecast to develop
+over the Gulf on Wednesday. A compact northern-stream shortwave
+dropping through the southern Plains will phase with an extremely
+strong subtropical jet. That jet is running well above 180 kt at 250
+mb along the northern Gulf coast, consistent with the ongoing record
+El Nino. The resulting surface low, near 1003 mb over the western
+Gulf this morning, is forecast to deepen explosively as it lifts
+northeast over unusually warm Gulf waters. Most 12Z guidance takes it
+below 950 mb by early Thursday as it approaches the Big Bend coast. A
+1045+ mb Arctic high over Quebec will hold a strong cold-air-damming
+wedge east of the Appalachians, so the warm sector will stay confined
+to Florida and the immediate Big Bend and southeast Georgia coast.
+
+...Florida Big Bend and Peninsula...
+Ahead of the deepening low, rich Gulf moisture will surge north, with
+surface dewpoints of 68 to 72 F reaching the Big Bend and the
+northern peninsula by Wednesday afternoon. Mid-level lapse rates will
+be poor, generally 5.5 to 6 C/km, so MLCAPE will be limited to 500 to
+1200 J/kg. The kinematic environment will be extreme. A 70 to 90 kt
+southerly low-level jet will produce 0-1 km SRH of 400 to 600 m2/s2,
+with effective shear of 70 to 90 kt.
+
+A strongly forced squall line is expected to organize over the
+northeast Gulf by midday Wednesday. It should reach the Big Bend
+coast by mid-afternoon, then cross the northern and central peninsula
+at 45 to 55 kt through the evening and overnight. The 12Z RRFS and
+most HREF members show a continuous QLCS with embedded supercell
+structures and bowing segments. Given the strength of the low-level
+wind field, damaging gusts appear likely along much of the line, and
+gusts above 75 mph are possible with bowing segments. Line-normal 0-3
+km shear near 50 kt and very large low-level SRH favor QLCS
+mesovortices. Any discrete or semi-discrete supercells ahead of the
+line, most likely over the north-central peninsula during the
+evening, would pose a risk of a strong tornado.
+
+The Enhanced Risk covers the corridor where the strongest forcing
+overlaps the best low-level moisture, from the southeast Big Bend
+through Gainesville and Ocala to the Orlando area. Instability will
+drop off farther north into south Georgia, but the line may still
+produce damaging gusts there before it weakens over the
+cold-air-damming wedge. Farther south, the line will likely weaken
+late Wednesday night as the forcing lifts north, though isolated
+damaging gusts and a brief tornado remain possible into south
+Florida.
+
+Separately, the synoptic-scale wind field around this low will
+produce widespread damaging non-convective winds across the Big Bend
+and south Georgia Wednesday night and Thursday. That threat is
+covered by local NWS offices and is not reflected in these
+probabilities.
+
+..Ashford.. 12/15/2026
+
+...Please see www.spc.noaa.gov/products/outlook/day2otlk.html for
+graphic product...

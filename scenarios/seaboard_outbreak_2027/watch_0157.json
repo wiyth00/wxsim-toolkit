@@ -1,0 +1,171 @@
+{
+  "_doc": "SIMULATED broad PDS Tornado Watch from coastal Georgia across the Carolinas into southeast Virginia; intense-tornado core in eastern NC/SE VA.",
+  "type": "Tornado",
+  "number": "157",
+  "pds": true,
+  "valid_until": "8:00 PM EDT\nThu Apr 29, 2027",
+  "updated": "04/29/27 10:50 AM EDT",
+  "axis": {
+    "orientation": "east_west",
+    "half_width_mi": 100,
+    "from": {
+      "miles": 15,
+      "dir": "SSW",
+      "city": "Savannah GA",
+      "lat": 32.081,
+      "lon": -81.091
+    },
+    "to": {
+      "miles": 30,
+      "dir": "NNE",
+      "city": "Suffolk VA",
+      "lat": 36.729,
+      "lon": -76.583
+    }
+  },
+  "state_fips": [
+    "13",
+    "37",
+    "45",
+    "51"
+  ],
+  "state_filters": {
+    "13": {
+      "lat_min": 31.5,
+      "lon_min": -82.2
+    },
+    "51": {
+      "lat_max": 37.3,
+      "lon_min": -79.5
+    }
+  },
+  "probabilities": [
+    [
+      "Severe Wind",
+      ">95%",
+      96
+    ],
+    [
+      "75+ mph\\nWind",
+      "70%",
+      70
+    ],
+    [
+      "Tornadoes",
+      ">95%",
+      96
+    ],
+    [
+      "EF2-EF5\\nTornado",
+      "90%",
+      90
+    ],
+    [
+      "Severe Hail",
+      "80%",
+      80
+    ],
+    [
+      "2+ inches Hail",
+      "30%",
+      30
+    ]
+  ],
+  "max_hail": "2.50 inches",
+  "max_wind": "85 mph",
+  "extent": [
+    -83.8,
+    -74.3,
+    30.9,
+    38.3
+  ],
+  "cities": [
+    [
+      "Savannah",
+      32.081,
+      -81.091
+    ],
+    [
+      "Charleston",
+      32.776,
+      -79.931
+    ],
+    [
+      "Columbia",
+      34.001,
+      -81.035
+    ],
+    [
+      "Florence",
+      34.195,
+      -79.762
+    ],
+    [
+      "Myrtle Beach",
+      33.689,
+      -78.887
+    ],
+    [
+      "Lumberton",
+      34.618,
+      -79.008
+    ],
+    [
+      "Fayetteville",
+      35.053,
+      -78.878
+    ],
+    [
+      "Raleigh",
+      35.78,
+      -78.639
+    ],
+    [
+      "Goldsboro",
+      35.385,
+      -77.993
+    ],
+    [
+      "Rocky Mount",
+      35.938,
+      -77.791
+    ],
+    [
+      "Greenville",
+      35.613,
+      -77.366
+    ],
+    [
+      "New Bern",
+      35.109,
+      -77.044
+    ],
+    [
+      "Wilmington",
+      34.226,
+      -77.945
+    ],
+    [
+      "Emporia",
+      36.686,
+      -77.543
+    ],
+    [
+      "Suffolk",
+      36.729,
+      -76.583
+    ],
+    [
+      "Norfolk",
+      36.851,
+      -76.285
+    ],
+    [
+      "Richmond",
+      37.541,
+      -77.436
+    ]
+  ],
+  "scenario_label": "SIMULATED — Atlantic Seaboard Outbreak",
+  "output": "SPC_WW0157_graphic.png"
+}

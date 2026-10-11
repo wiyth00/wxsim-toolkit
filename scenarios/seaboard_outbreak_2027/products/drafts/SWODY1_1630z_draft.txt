@@ -1,0 +1,33 @@
+000
+ACUS01 KWNS 291628
+SWODY1
+SPC AC 291627
+
+Day 1 Convective Outlook...UPDATED
+NWS Storm Prediction Center Norman OK
+1127 AM CDT Thu Apr 29 2027
+
+Valid 291630Z - 301200Z
+
+SIMULATED PRODUCT - NOT AN OFFICIAL OUTLOOK
+
+...THERE IS A HIGH RISK OF SEVERE THUNDERSTORMS ACROSS EASTERN NORTH CAROLINA...FAR NORTHEAST SOUTH CAROLINA...AND SOUTHEAST VIRGINIA...AND A SEPARATE HIGH RISK ALONG THE I-95 CORRIDOR FROM NORTHERN VIRGINIA THROUGH THE DISTRICT OF COLUMBIA AND MARYLAND INTO NORTHERN DELAWARE AND SOUTHEAST PENNSYLVANIA...
+
+...THERE IS A MODERATE RISK OF SEVERE THUNDERSTORMS IN THE BROADER CORRIDOR FROM SOUTHEAST GEORGIA THROUGH THE CAROLINAS AND MID-ATLANTIC TO SOUTHEAST PENNSYLVANIA...
+
+...SUMMARY...
+An exceptionally dangerous severe-weather outbreak is underway across the Atlantic Seaboard. Numerous tornadoes, including several long-track, intense tornadoes (EF3+), are expected across eastern North Carolina and southeast Virginia this afternoon. Separately, a fast-moving squall line will produce widespread destructive wind gusts of 85 to 100 mph from northern Virginia across the Washington-Baltimore corridor into Delaware and southeast Pennsylvania. A few brief tornadoes may occur within the line. The two High Risk areas and their broad surrounding Moderate Risk remain in place.
+
+...1630Z UPDATE...
+This update maintains both High Risk areas and the associated 30 percent tornado and 60 percent damaging-wind probabilities, each with Conditional Intensity Group 2. Changes to the outlook geometry are minimal. The focus has shifted from anticipation of storm development to the evolution of two distinct, ongoing severe-weather threats. PDS Tornado Watch 157 covers coastal Georgia through the Carolinas into southeast Virginia; PDS Severe Thunderstorm Watch 158 covers central Virginia across the Mid-Atlantic into southern New Jersey. The highest probabilities occupy smaller corridors within these much broader watches.
+
+...EASTERN NORTH CAROLINA INTO SOUTHEAST VIRGINIA...
+Discrete to semi-discrete supercells are now maturing from the Fayetteville and Raleigh areas eastward toward Goldsboro and Rocky Mount. Additional development remains possible farther southwest across the Pee Dee. Dewpoints of 69 to 72 F and continued heating support MLCAPE of 1800 to 2500 J/kg beneath effective shear of 75 to 85 kt. Low cloud bases and 0-1 km SRH of 350 to 500 m2/s2 favor rapid intensification of low-level mesocyclones. Storms moving north-northeast at 50 to 60 kt can remain in the favorable warm sector for several hours. Multiple long-track tornadoes, including intense and possibly violent tornadoes, are expected through late afternoon. The most concentrated threat now extends from Fayetteville and Raleigh through Goldsboro, Wilson, Rocky Mount, and Emporia toward the Suffolk and Hampton Roads areas. Large hail and damaging winds will accompany the strongest cells.
+
+...NORTHERN VIRGINIA THROUGH SOUTHEAST PENNSYLVANIA...
+The organized squall line is advancing into the Washington-Baltimore corridor at 45 to 55 kt and will continue northeast toward Wilmington and Philadelphia through midafternoon. A strengthening rear-inflow jet and 70 to 80 kt of flow at 1 to 2 km AGL support a corridor of widespread damaging wind, with embedded gusts of 85 to 100 mph possible. The most intense swath remains likely near I-95 and adjacent communities, though damaging gusts can extend well beyond the High Risk area. A few brief QLCS tornadoes may occur, particularly near and south of the northward-moving warm front, but destructive straight-line wind is the dominant hazard. The tornado threat becomes more conditional north of the front toward Harrisburg and Allentown.
+
+...SOUTHEAST GEORGIA AND SOUTH CAROLINA...
+The broad Moderate Risk surrounding the southern High Risk remains warranted. Additional storms along the pre-frontal trough and confluence bands may produce damaging winds, large hail, and tornadoes from coastal Georgia across eastern South Carolina. The greatest potential for long-track, intense tornadoes remains farther north and east across eastern North Carolina and southeast Virginia. Continued monitoring is needed for any more discrete development ahead of the main line.
+
+..Okonkwo/Brandt.. 04/29/2027

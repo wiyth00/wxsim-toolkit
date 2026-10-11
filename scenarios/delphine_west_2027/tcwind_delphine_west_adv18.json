@@ -1,0 +1,93 @@
+{
+ "_doc": "Deterministic peak wind swath from a storm JSON's wind radii (see wxsim/tropical/windmap.py). start/end UTC; rmw_nm by phase; tail_factor * r34 = where winds fall to 20 kt; gust factors land/water.",
+ "storm_file": "tc_delphine_west_adv18.json",
+ "start": "2027-09-24T21:00Z",
+ "end": "2027-09-25T18:00Z",
+ "step_min": 4,
+ "rmw_nm": {
+  "tropical": 22,
+  "post_tropical": 60
+ },
+ "tail_factor": 1.8,
+ "gust_factor": {
+  "land": 1.3,
+  "water": 1.2
+ },
+ "extent": [
+  -88.2,
+  -80.2,
+  29.0,
+  36.4
+ ],
+ "res": 0.025,
+ "title": "Hurricane Delphine: Forecast Peak Winds (Advisory 18)",
+ "subtitle": "Highest sustained wind and gust expected at each location, 5 PM Fri through 2 PM Sat EDT. Center passes about 40 mi west of Atlanta around 2 AM Saturday.",
+ "cities": [
+  [
+   "Atlanta",
+   33.749,
+   -84.388
+  ],
+  [
+   "Athens",
+   33.961,
+   -83.378
+  ],
+  [
+   "Macon",
+   32.841,
+   -83.632
+  ],
+  [
+   "Columbus",
+   32.461,
+   -84.988
+  ],
+  [
+   "Tallahassee",
+   30.438,
+   -84.281
+  ],
+  [
+   "Panama City",
+   30.159,
+   -85.66
+  ],
+  [
+   "Dothan",
+   31.223,
+   -85.39
+  ],
+  [
+   "Gainesville",
+   34.298,
+   -83.824
+  ],
+  [
+   "Chattanooga",
+   35.046,
+   -85.309
+  ],
+  [
+   "Birmingham",
+   33.519,
+   -86.81
+  ],
+  [
+   "Augusta",
+   33.471,
+   -81.975
+  ],
+  [
+   "LaGrange",
+   33.039,
+   -85.031
+  ],
+  [
+   "Greenville",
+   34.853,
+   -82.394
+  ]
+ ],
+ "output": "AL072027_WEST_peak_winds_adv18.png"
+}

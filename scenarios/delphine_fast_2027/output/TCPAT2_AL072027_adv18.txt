@@ -1,0 +1,161 @@
+000
+WTNT32 KNHC 242100
+TCPAT2
+
+BULLETIN
+Hurricane Delphine Advisory Number  18
+NWS National Hurricane Center Miami FL       AL072027
+500 PM EDT Fri Sep 24 2027
+
+...DELPHINE ACCELERATING RAPIDLY TOWARD THE FLORIDA BIG
+BEND...EXPECTED TO MAKE LANDFALL AS A MAJOR HURRICANE LATE THIS
+EVENING...
+...CATASTROPHIC STORM SURGE WILL RISE VERY QUICKLY ALONG THE BIG BEND
+COAST TONIGHT...
+...DESTRUCTIVE HURRICANE-FORCE WINDS WILL SPREAD ACROSS GEORGIA
+OVERNIGHT...INCLUDING THE ATLANTA METRO AREA...AND INTO THE SOUTH
+CAROLINA UPSTATE BY SATURDAY MORNING...
+
+
+SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...27.1N 85.3W
+ABOUT 180 MI...295 KM S OF APALACHICOLA FLORIDA
+MAXIMUM SUSTAINED WINDS...120 MPH...195 KM/H
+PRESENT MOVEMENT...NNE OR 22 DEGREES AT 25 MPH...41 KM/H
+MINIMUM CENTRAL PRESSURE...955 MB...28.20 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+The Tropical Storm Warning along the Atlantic coast has been extended
+northward to Little River Inlet.
+
+A Tropical Storm Watch has been issued from Little River Inlet to
+Surf City.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Hurricane Warning is in effect for...
+* Indian Pass to Anclote River
+
+A Tropical Storm Warning is in effect for...
+* Walton/Bay County Line to Indian Pass
+* Anclote River to Bonita Beach
+* Flagler/Volusia County Line to Little River Inlet
+
+A Tropical Storm Watch is in effect for...
+* Little River Inlet to Surf City
+
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area. Preparations to protect life and
+property should be rushed to completion.
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area.
+
+Hurricane and Tropical Storm Warnings are in effect well inland from
+local National Weather Service offices, including the Atlanta
+metropolitan area, Athens, Augusta, and the Upstate of South
+Carolina. Because of Delphine's speed, conditions will deteriorate
+very rapidly tonight. Preparations should be rushed to completion
+early this evening. For storm information specific to your area,
+please monitor products issued by your local National Weather Service
+forecast office.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM EDT (2100 UTC), the center of Hurricane Delphine was
+located near latitude 27.1 North, longitude 85.3 West. Delphine is
+moving toward the north-northeast near 25 mph (41 km/h). Delphine is
+expected to accelerate further tonight as it is captured by a strong
+mid-level trough over the lower Mississippi Valley, with forward
+speeds of 40 to 50 mph over Georgia. On the forecast track, the
+center of Delphine will reach the Florida Big Bend coast between 10
+PM and midnight EDT, then race north-northeastward across Georgia
+overnight, passing near or just east of the Atlanta metropolitan area
+around 2 AM EDT Saturday. Delphine is expected to turn north and slow
+down as it merges with the trough over the Ohio Valley Saturday and
+Sunday.
+
+Maximum sustained winds are near 120 mph (195 km/h) with higher
+gusts. Delphine is a major hurricane -- a category 3 on the
+Saffir-Simpson Hurricane Wind Scale. Little change in strength is
+expected before landfall. Because of Delphine's extremely fast
+forward speed, only gradual weakening is expected as it moves across
+Georgia tonight, and it is forecast to still be a hurricane when it
+reaches the Atlanta area. Delphine is forecast to become a powerful
+post-tropical cyclone over the southern Appalachians Saturday morning
+as it merges with the trough. Its wind field will expand, and
+damaging winds will extend far from the center through the weekend.
+
+Hurricane-force winds extend outward up to 80 miles (130 km) from the
+center and tropical-storm-force winds extend outward up to 255 miles
+(405 km).
+
+The estimated minimum central pressure is 955 mb (28.20 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+STORM SURGE:  The combination of a dangerous storm surge and the tide
+will cause normally dry areas near the coast to be flooded by rising
+waters moving inland from the shoreline. Because of Delphine's fast
+motion, the water will rise very rapidly, in some places by several
+feet in less than an hour. The water could reach the following
+heights above ground somewhere in the indicated areas if the peak
+surge occurs at the time of high tide...
+  - Carrabelle to Suwannee River, FL...15-22 ft
+  - Suwannee River to Yankeetown, FL...12-16 ft
+  - Ochlockonee River to Carrabelle, FL...8-12 ft
+  - Yankeetown to Anclote River, FL...6-10 ft
+  - Anclote River to Middle of Longboat Key, FL, including Tampa
+    Bay...4-7 ft
+  - Indian Pass to Carrabelle, FL...3-5 ft
+
+WIND:  Hurricane conditions are expected within the Hurricane Warning
+area along the coast this evening. Destructive hurricane-force winds
+will spread well inland across north Florida and much of Georgia
+overnight, including the Atlanta, Macon, Athens, and Augusta
+metropolitan areas, and into the Upstate of South Carolina by early
+Saturday morning. The strongest winds, with gusts of 100 to 120 mph,
+are expected on the east side of the track. After two days of heavy
+rain, soils are saturated across north Georgia, so widespread tree
+falls, structural damage, and power outages lasting days to weeks are
+expected. Many of these winds will occur in the middle of the night.
+Residents should be in their safe place, away from trees and windows,
+before winds increase this evening.
+
+RAINFALL:  A predecessor rain event has already produced 6 to 12
+inches of rain across north Georgia since Wednesday, including about
+10 inches at Atlanta Hartsfield-Jackson International Airport.
+Delphine will produce an additional 3 to 6 inches of rain, with
+isolated totals near 8 inches, across Georgia, the western Carolinas,
+and the southern Appalachians through Saturday. On top of saturated
+ground and running-high streams, this will cause considerable to
+catastrophic flash and urban flooding and significant to major river
+flooding. Landslides are possible in the southern Appalachians.
+
+TORNADOES:  Several tornadoes are possible tonight and early Saturday
+across the eastern Florida Panhandle, north Florida, Georgia, and
+South Carolina. These tornadoes will be moving very quickly and will
+be wrapped in rain, in many cases overnight.
+
+SURF:  Swells generated by Delphine are affecting much of the Gulf
+Coast and the west coast of Florida. These swells are likely to cause
+life-threatening surf and rip current conditions.
+
+
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 700 PM EDT.
+Next complete advisory at 1100 PM EDT.
+
+$$
+Forecaster Delgado/Park

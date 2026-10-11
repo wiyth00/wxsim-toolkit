@@ -1,0 +1,38 @@
+000
+ACUS11 KWNS 291409
+SWOMCD
+SPC MCD 291409
+VAZ000-MDZ000-DCZ000-DEZ000-PAZ000-NJZ000-WVZ000-291700-
+
+Mesoscale Discussion 0612
+NWS Storm Prediction Center Norman OK
+0909 AM CDT Thu Apr 29 2027
+
+Areas affected...Central and northern Virginia...the District of Columbia...Maryland...Delaware...southeast Pennsylvania...and southwest New Jersey
+
+Concerning...Severe potential...PDS Severe Thunderstorm Watch likely
+
+Valid 291409Z - 291700Z
+
+Probability of Watch Issuance...95 percent
+
+SUMMARY...An intense, fast-moving squall line will race east-northeast across the region from late morning through the afternoon. Widespread damaging winds are expected, including embedded gusts of 85-100 mph, along with a few brief QLCS tornadoes near the warm front. A PDS Severe Thunderstorm Watch will likely be issued by 16z. SPC will issue a special Day 1 Outlook update at 1430Z, which will include a High Risk for this corridor, driven by damaging winds.
+
+DISCUSSION...The squall line extended at 14z from near Frederick MD to Charlottesville and Lynchburg, and it is moving east at 45-55 kt. It has recently become more organized, with a sharpening leading edge and a developing rear-inflow jet evident in KLWX velocity data. Gusts of 60-70 mph have been measured at SHD and OKV over the past hour, and several bowing segments are forming west of Culpeper and near Front Royal. The pressure-rise/fall couplet along the line is now 6-8 mb in 2 hours, and the cold pool is strengthening.
+
+Ahead of the line, the warm front has lifted through Richmond and the Northern Neck and is surging north toward the District and southern Maryland at about 25 kt. It should reach the Baltimore to Dover axis by 16-17z and near Philadelphia by 18z. Dewpoints are already 60-63 F north to the Potomac, and upper 60s F are lurking just south. Behind the warm front, MLCAPE should rise to 800-1500 J/kg. Although that is modest, it sits beneath an extraordinary wind field. The KLWX and KDOX VWPs show 70-80 kt at 1-2 km AGL, and 0-3 km bulk shear exceeds 60 kt oriented nearly normal to the line. Line-embedded mesovortices may produce a few tornadoes, especially along and just south of the advancing warm front, where 0-1 km SRH is 400-600 m2/s2. The tornado potential is localized and secondary to the destructive straight-line wind threat. Momentum transfer from the low-level jet will support a swath of 85-100 mph gusts, most likely along I-95 from Fredericksburg through Washington and Baltimore to Wilmington and Philadelphia.
+
+Farther north toward Harrisburg and Allentown, the environment will remain more stable until the warm front arrives, and the tornado threat there is more conditional. Very strong gusts are still possible where the line becomes surface-based.
+
+..Okonkwo/Brandt.. 04/29/2027
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...PHI...CTP...LWX...AKQ...RNK...
+
+LAT...LON   37407930 38907830 40307730 40607520 40007460 38807530
+            37807620 37207740 37407930
+
+MOST PROBABLE PEAK TORNADO INTENSITY...85-110 MPH
+MOST PROBABLE PEAK WIND GUST...85-100 MPH
+MOST PROBABLE PEAK HAIL SIZE...1.00-1.50 IN

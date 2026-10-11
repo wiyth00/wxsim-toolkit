@@ -1,0 +1,65 @@
+000
+FOUS30 KWBC 161555
+QPFERD
+
+Excessive Rainfall Discussion
+NWS Weather Prediction Center College Park MD
+1055 AM EST Wed Dec 16 2026
+Day 1
+Valid 16Z Wed Dec 16 2026 - 12Z Thu Dec 17 2026
+
+...THERE IS A MODERATE RISK OF EXCESSIVE RAINFALL ACROSS PORTIONS OF
+THE EASTERN FLORIDA PANHANDLE...THE BIG BEND...AND SOUTH GEORGIA TO
+NEAR SAVANNAH...
+
+...THERE IS A SLIGHT RISK OF EXCESSIVE RAINFALL ACROSS PORTIONS OF
+SOUTHEAST ALABAMA...NORTH FLORIDA...SOUTH-CENTRAL GEORGIA...AND THE
+SOUTH CAROLINA LOWCOUNTRY...
+
+...16Z Update...
+
+...Florida Big Bend, South Georgia, and the Southeast Coastal
+Plain...
+
+The inherited Slight Risk was upgraded to a Moderate Risk from the
+eastern Florida Panhandle across the Big Bend and south Georgia to
+near Savannah after coordination with WFOs TAE and JAX. The Slight
+Risk was expanded northeast along the coastal plain to the South
+Carolina Lowcountry. An extraordinarily intense extratropical low
+over the eastern Gulf, near 962 mb at 15Z and still deepening
+rapidly, is forecast to make landfall near St. Marks around 06Z at
+940 to 945 mb. It will then slow and begin a cyclonic loop over
+southwest Georgia that continues through Day 2.
+
+Two rain regimes overlap in the Moderate Risk. First, a strongly
+forced squall line with embedded supercells crosses the Big Bend and
+the Florida peninsula this afternoon and evening, with brief rates of
+2 to 3 inches per hour. Second, the warm conveyor belt wraps into the
+cloud head overnight. PWs of 1.7 to 1.9 inches are forecast, near the
+daily record for mid-December and about 250 percent of normal. Strong
+isentropic ascent over the coastal front will support a long-lived
+band of 1 to 1.5 inch per hour rates from the Big Bend to the
+Okefenokee and Waycross between 03Z and 12Z. The 12Z REFS and HREF
+both show neighborhood probabilities of 5 inches in 6 hours above 40
+percent there. The 12Z RRFS, GFS, ECMWF and ECMWF-AIFS all have storm
+totals of 6 to 10 inches across the Moderate Risk by the end of Day
+2, with local amounts to 12 inches near Valdosta and Waycross.
+
+Mid-December flash flood guidance on the sandy soils of the coastal
+plain is higher than in the warm season, mostly 3 to 4 inches in 3
+hours. Still, the expected rates and duration are enough to exceed it
+in many places, and in Tallahassee, Valdosta and Thomasville urban
+runoff will be efficient. Wind-driven coastal flooding will also
+block drainage on the tidal reaches of the St. Marks, Aucilla,
+Econfina and Steinhatchee Rivers through 12Z. Downed trees and power
+outages will slow response and make flooded roads harder to see
+overnight. Numerous instances of flash flooding are expected, some of
+them significant.
+
+Over the Florida peninsula, the squall line will produce 1 to 2
+inches in an hour this evening, but its forward speed should hold
+totals to 1 to 3 inches, below guidance outside of urban areas.
+
+..Castellanos..
+
+Day 1 threat area: www.wpc.ncep.noaa.gov/qpf/94epoints.txt

@@ -62,9 +62,16 @@ def chaikin(pts, n=4):
     return pts
 
 
+def smooth_area(v):
+    """One ring [[lon, lat], ...] or several rings [[[lon, lat], ...], ...] -> smoothed (Multi)Polygon."""
+    rings = v if isinstance(v[0][0], (list, tuple)) else [v]
+    return unary_union([Polygon(chaikin(r)).buffer(0) for r in rings])
+
+
 def nest(raw_list, clip):
-    """Smooth each ring (outer -> inner) and force every inner area inside its outer one."""
-    gs = [Polygon(chaikin(r)) for r in raw_list]
+    """Smooth each area (outer -> inner) and force every inner area inside its outer one.
+    An area can be one ring or a list of rings (e.g. two separate High Risk areas)."""
+    gs = [smooth_area(r) for r in raw_list]
     for i in range(len(gs) - 2, -1, -1):
         gs[i] = unary_union([gs[i], gs[i + 1].buffer(0.12)])
     return [g.intersection(clip) for g in gs]

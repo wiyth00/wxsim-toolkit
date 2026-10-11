@@ -1,0 +1,30 @@
+000
+FOUS30 KWBC 260757
+QPFERD
+
+Excessive Rainfall Discussion
+NWS Weather Prediction Center College Park MD
+357 AM EDT Sun Sep 26 2027
+Day 1
+Valid 12Z Sun Sep 26 2027 - 12Z Mon Sep 27 2027
+
+...THE PROBABILITY OF RAINFALL EXCEEDING FLASH FLOOD GUIDANCE IS LESS
+THAN 5 PERCENT...
+
+...Ohio Valley and Great Lakes...
+
+No risk areas are in effect for this period. Post-Tropical Cyclone
+Delphine is forecast to be absorbed by a larger extratropical low
+near Lake Erie this afternoon. Lingering showers across Ohio, western
+Pennsylvania, and West Virginia should total generally less than an
+inch, well below flash flood guidance.
+
+Major to record river flooding continues across north Georgia,
+eastern Tennessee, and the western Carolinas following storm totals
+of 10 to 20 inches since Wednesday. River flooding is covered by
+local NWS offices and the River Forecast Centers, not by this
+outlook. Please consult those products for river forecasts.
+
+..Nguyen-Oakes..
+
+Day 1 threat area: www.wpc.ncep.noaa.gov/qpf/94epoints.txt

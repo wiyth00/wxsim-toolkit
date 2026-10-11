@@ -1,0 +1,47 @@
+000
+WGUS62 KFFC 241542
+FFAFFC
+
+Flood Watch
+National Weather Service Peachtree City GA
+1142 AM EDT Fri Sep 24 2027
+
+...PARTICULARLY DANGEROUS SITUATION...
+...FLOOD WATCH NOW IN EFFECT THROUGH SUNDAY MORNING FOR ALL OF NORTH AND CENTRAL GEORGIA...
+...CATASTROPHIC AND LIFE-THREATENING FLASH FLOODING IS EXPECTED TONIGHT AS HURRICANE DELPHINE MOVES ACROSS SATURATED GROUND...
+
+GAZ001>089-251600-
+/O.EXT.KFFC.FA.A.0007.000000T0000Z-270926T1200Z/
+/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Dade-Walker-Catoosa-Whitfield-Murray-Fannin-Gilmer-Union-Towns-Chattooga-Gordon-Pickens-Dawson-Lumpkin-White-Floyd-Bartow-Cherokee-Forsyth-Hall-Banks-Jackson-Madison-Polk-Paulding-Cobb-North Fulton-Gwinnett-Barrow-Clarke-Oconee-Oglethorpe-Wilkes-Haralson-Carroll-Douglas-South Fulton-DeKalb-Rockdale-Walton-Newton-Morgan-Greene-Taliaferro-Heard-Coweta-Fayette-Clayton-Spalding-Henry-Butts-Jasper-Putnam-Hancock-Warren-Troup-Meriwether-Pike-Upson-Lamar-Monroe-Jones-Baldwin-Washington-Glascock-Jefferson-Harris-Talbot-Taylor-Crawford-Bibb-Twiggs-Wilkinson-Johnson-Emanuel-Muscogee-Chattahoochee-Marion-Schley-Macon-Peach-Houston-Bleckley-Laurens-Treutlen-Stewart-Webster-Sumter-Dooly-Crisp-Pulaski-Wilcox-Dodge-Telfair-Wheeler-Montgomery-Toombs-
+Including the cities of Atlanta, Marietta, Sandy Springs, Roswell, Alpharetta, Lawrenceville, Decatur, Athens, Gainesville, Rome, Dalton, Carrollton, Newnan, Peachtree City, Griffin, LaGrange, Columbus, Macon, Warner Robins, Americus, and Dublin
+1142 AM EDT Fri Sep 24 2027
+
+...PARTICULARLY DANGEROUS SITUATION...
+
+* WHAT...Catastrophic and life-threatening flash flooding caused by excessive rainfall is expected. This includes flooding of creeks, streams, urban areas, highways, streets and underpasses, and rapid rises on rivers.
+
+* WHERE...All of north and central Georgia, including the Atlanta metropolitan area.
+
+* WHEN...Through Sunday morning. The most dangerous period is from late this evening through Saturday morning.
+
+* IMPACTS...Numerous flash floods, some catastrophic, are expected overnight. Water will rise extremely quickly on creeks and streams across the Atlanta metro, including Peachtree, Nancy, Proctor, Sope, and Sweetwater Creeks. Homes, businesses, and vehicles along these creeks may be swept away. Many roads, including interstates, will be flooded or blocked by fallen trees at the same time. Major to record river flooding is likely on the Chattahoochee, Etowah, Oostanaula, Flint, and Ocmulgee Rivers into early next week. Landslides are possible in the north Georgia mountains.
+
+* ADDITIONAL DETAILS...
+  - A predecessor rain event has produced 7 to 11 inches of rain since Wednesday across north Georgia, including about 10 inches at Atlanta Hartsfield-Jackson International Airport. Soils are fully saturated and most small streams are running at or above bankfull.
+  - Hurricane Delphine will cross Georgia tonight, bringing an additional 3 to 6 inches of rain with rates of 1 to 2.5 inches per hour. Local storm totals of 12 to 20 inches are expected.
+  - The heaviest rain will fall overnight, at the same time as hurricane-force wind gusts. Power outages and fallen trees will make it difficult to receive warnings and to move to higher ground once flooding begins.
+  - WPC has issued a High Risk (level 4 of 4) of excessive rainfall for north Georgia.
+  - http://www.weather.gov/safety/flood
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+This is a PARTICULARLY DANGEROUS SITUATION. If you live along a creek, stream, or in a location that has flooded before, make plans now to move to higher ground before dark. Do not wait for the water to reach your home. Flooding tonight will occur in the dark, during hurricane-force winds, and may cut off roads before you can leave.
+
+Have multiple ways to receive warnings overnight, including a battery-powered NOAA Weather Radio and a charged phone with emergency alerts enabled. Turn Around, Don't Drown. Most flood deaths occur in vehicles. Never drive or walk into flooded roadways.
+
+&&
+
+$$
+
+Whitaker

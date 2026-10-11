@@ -1,0 +1,52 @@
+[
+ {
+  "seed": 1,
+  "storms": 124,
+  "supercells": 101,
+  "tornadoes": 155,
+  "strong_tornadoes": 47,
+  "max_ef": 5,
+  "hail_2in_storms": 6,
+  "max_hail_in": 2.3
+ },
+ {
+  "seed": 2,
+  "storms": 106,
+  "supercells": 89,
+  "tornadoes": 129,
+  "strong_tornadoes": 36,
+  "max_ef": 5,
+  "hail_2in_storms": 2,
+  "max_hail_in": 2.06
+ },
+ {
+  "seed": 3,
+  "storms": 127,
+  "supercells": 104,
+  "tornadoes": 191,
+  "strong_tornadoes": 70,
+  "max_ef": 5,
+  "hail_2in_storms": 2,
+  "max_hail_in": 2.16
+ },
+ {
+  "seed": 4,
+  "storms": 110,
+  "supercells": 85,
+  "tornadoes": 125,
+  "strong_tornadoes": 38,
+  "max_ef": 5,
+  "hail_2in_storms": 2,
+  "max_hail_in": 2.07
+ },
+ {
+  "seed": 5,
+  "storms": 128,
+  "supercells": 102,
+  "tornadoes": 166,
+  "strong_tornadoes": 45,
+  "max_ef": 5,
+  "hail_2in_storms": 2,
+  "max_hail_in": 2.03
+ }
+]

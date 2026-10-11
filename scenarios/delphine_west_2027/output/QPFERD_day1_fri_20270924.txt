@@ -1,0 +1,47 @@
+000
+FOUS30 KWBC 240758
+QPFERD
+
+Excessive Rainfall Discussion
+NWS Weather Prediction Center College Park MD
+358 AM EDT Fri Sep 24 2027
+Day 1
+Valid 12Z Fri Sep 24 2027 - 12Z Sat Sep 25 2027
+
+...THERE IS A HIGH RISK OF EXCESSIVE RAINFALL ACROSS PORTIONS OF
+NORTH GEORGIA AND EAST-CENTRAL ALABAMA...INCLUDING THE ATLANTA
+METROPOLITAN AREA...
+
+...THERE IS A MODERATE RISK OF EXCESSIVE RAINFALL ACROSS PORTIONS OF
+EAST ALABAMA...WEST-CENTRAL GEORGIA...SOUTHEAST TENNESSEE...AND THE
+SOUTHERN APPALACHIANS...
+
+...North Georgia, East Alabama, and the Southern Appalachians...
+
+A High Risk was issued across north Georgia, including metro Atlanta,
+and east-central Alabama in coordination with WFOs FFC, BMX, GSP, and
+MRX and the Southeast River Forecast Center. After three days of the
+predecessor rain event, storm totals are 7 to 11 inches along the
+axis, including about 10 inches at Atlanta Hartsfield-Jackson.
+Three-hour FFG is below 1 inch across much of the metro and below 1.5
+inches over most of north Georgia.
+
+The predecessor rain event will continue into this afternoon before
+Hurricane Delphine arrives tonight. Delphine is forecast to make
+landfall on the Florida Panhandle this evening and race north along
+the Georgia-Alabama line at 45 to 55 mph, passing west of Atlanta
+around 2 AM EDT Saturday. Its forward speed will limit totals at any
+one point to 3 to 6 inches. However, rain rates of 1 to 2.5 inches
+per hour in the core and right-front quadrant will exceed guidance
+nearly everywhere on this saturated ground. Considerable to
+catastrophic flash flooding is expected, including life-threatening
+urban flooding in the Atlanta metro overnight.
+
+A Moderate Risk surrounds the High Risk into the southern
+Appalachians, where upslope flow late tonight will enhance rainfall
+on already wet slopes. The Slight Risk reaches the Florida Panhandle
+coast near landfall, where FFG is higher.
+
+..Ramirez..
+
+Day 1 threat area: www.wpc.ncep.noaa.gov/qpf/94epoints.txt

@@ -1,0 +1,27 @@
+{
+  "_doc": "SPC-style preliminary storm reports for the simulated Atlantic Seaboard super outbreak (29 Apr 2027), drawn from generator seed 1. Reports are only generated over land. Render: python -m wxsim.reports scenarios/seaboard_outbreak_2027/reports_seaboard.json",
+  "storms_file": "storms_gen_seaboard_seed1.json",
+  "window": ["2027-04-29T12:00Z", "2027-04-30T12:00Z"],
+  "extent": [-83.6, -73.8, 31.3, 41.0],
+  "title": "Storm Reports — Thursday, April 29, 2027",
+  "subtitle": "Preliminary, filtered",
+  "scenario_label": "SIMULATED — Atlantic Seaboard super outbreak (fictional)",
+  "output": "storm_reports_20270429",
+  "outlook_overlay": "outlook_day1_1630z.json",
+  "seed": 29,
+  "land_only": true,
+  "measured_wind_frac": 0.25,
+  "report_rate": {"hail": 0.22, "wind": 1.0},
+  "note": "Fictional scenario. Reports are generated from simulated storm hazards weighted by population; they are not real observations.",
+  "wfo_offices": {
+    "CHS": [32.89, -80.03], "CAE": [33.94, -81.12], "GSP": [34.88, -82.22], "ILM": [34.27, -77.91],
+    "RAH": [35.87, -78.79], "MHX": [34.78, -76.88], "AKQ": [36.98, -77.01], "RNK": [37.20, -80.41],
+    "LWX": [38.98, -77.49], "PHI": [40.01, -74.82], "CTP": [40.79, -77.86], "JAX": [30.48, -81.70], "FFC": [33.36, -84.57]
+  },
+  "cities": [
+    ["Savannah", 32.081, -81.091], ["Charleston", 32.776, -79.931], ["Columbia", 34.001, -81.035],
+    ["Florence", 34.195, -79.762], ["Fayetteville", 35.053, -78.878], ["Raleigh", 35.78, -78.639],
+    ["Greenville", 35.613, -77.366], ["Norfolk", 36.851, -76.285], ["Richmond", 37.541, -77.436],
+    ["Washington", 38.907, -77.037], ["Baltimore", 39.29, -76.612], ["Philadelphia", 39.953, -75.164]
+  ]
+}

@@ -1,0 +1,99 @@
+*** MOCK / SIMULATION ONLY — NOT AN OFFICIAL NWS PRODUCT ***
+
+SPC AC 241250
+
+Day 1 Convective Outlook
+NWS Storm Prediction Center Norman OK
+0650 AM CST Wed Feb 24 2027
+
+Valid 241300Z - 251200Z
+
+...THERE IS A HIGH RISK OF SEVERE THUNDERSTORMS ACROSS THE UPPER
+TEXAS COAST INTO SOUTHWEST AND SOUTH-CENTRAL LOUISIANA...
+
+...SUMMARY...
+A regional tornado outbreak is expected from late morning through
+this evening across the Houston/Galveston area eastward through
+Beaumont, Lake Charles, Lafayette, and the lower Atchafalaya basin
+into the Houma area. Several strong to intense tornadoes are likely,
+and a few long-track, potentially violent tornadoes are possible.
+The greatest threat will be concentrated along a narrow coastal
+warm-sector corridor. Tornadoes and damaging winds will continue
+farther east into southeast Louisiana tonight.
+
+...SYNOPSIS...
+A negatively tilted shortwave trough will eject from northeastern
+Mexico into east Texas and the lower Mississippi Valley today. An
+80-100 kt midlevel jet will overspread the northwest Gulf Coast,
+while a surface low deepens over southeast Texas and moves
+northeastward into central Louisiana this evening. A warm front
+extending east from the low will move inland from the Gulf this
+morning and become nearly stationary near the Interstate 10
+corridor. Persistent precipitation to its north will maintain a
+cool, stable air mass over much of interior east Texas and central
+Louisiana. A trailing cold front will progress east across the
+coastal warm sector late today and tonight.
+
+...Upper Texas coast into southwest Louisiana...
+Rich maritime moisture will spread inland with the warm front,
+yielding surface dewpoints of 68-72 F. Despite cloud cover, modest
+warming and cooling aloft will support MLCAPE of 1500-2500 J/kg.
+A 55-70 kt southerly low-level jet above backed east-southeasterly
+surface winds will produce strongly curved low-level hodographs.
+Effective bulk shear of 60-80 kt, 0-1 km storm-relative helicity of
+350-550 m2/s2, and cloud bases generally below 800 m will favor
+sustained tornadic supercells where inflow remains surface based.
+
+Late-morning storms moving inland from the Gulf and additional
+warm-sector development ahead of the cold front will provide
+multiple opportunities for tornadic supercells. The most favorable
+period across Houston/Galveston and Beaumont is approximately
+16-22Z, with the threat increasing across southwest Louisiana
+around 19-01Z. Discrete and semi-discrete storm modes are expected
+initially, with sufficient spacing for several sustained supercells.
+
+The High Risk is deliberately confined to the coastal plain.
+Storms close to the warm front will ingest very moist air with
+enhanced low-level shear, while storms crossing appreciably north
+of it will encounter stable near-surface air. East-northeastward
+storm motion and an east-northeast-oriented segment of the front
+may allow some supercells to remain close to the boundary for
+extended periods. Repeated development along warm-sector
+confluence bands will also concentrate the threat in this corridor.
+Several strong to intense tornadoes are expected; localized
+conditions support the possibility of violent tornadoes.
+
+...South-central and southeast Louisiana...
+The favorable surface-based corridor will extend east through
+Lafayette, New Iberia, Morgan City, and Houma during the afternoon
+and evening. MLCAPE of 1000-2000 J/kg and an intensifying low-level
+jet will sustain the tornado threat after sunset. The greatest
+concern is for supercells remaining discrete ahead of the cold
+front, particularly near the warm front and its intersections with
+residual outflow boundaries. The principal threat window is
+22-05Z, with some overlap between successive regional windows.
+
+Increasing frontal forcing and storm interactions should promote
+upscale growth during the evening. A broken line with embedded
+supercells will spread toward Baton Rouge, New Orleans, and the
+Mississippi coast overnight. Strong tornadoes remain possible
+with persistent embedded supercells or discrete storms ahead of
+the line, along with locally 65-80 mph gusts. The broader Moderate
+Risk covers this later threat, while the High Risk follows the
+more favorable coastal supercell corridor west and southwest of
+the New Orleans metro. Large hail of 1-1.75 inches is possible,
+but tornadoes are the primary driver of the High Risk.
+
+...Forecast confidence and northern extent...
+High confidence in surface-based storm development and substantial
+supercell coverage within the narrow warm sector supports the
+High Risk. The largest remaining uncertainty is the inland reach
+of the warm front. A displacement of only a few tens of miles
+would shift the corridor of greatest tornado potential. Widespread
+cold-pool production could shorten the discrete-supercell phase;
+conversely, a slower cold front would prolong it. Areas north of
+the boundary will primarily experience elevated thunderstorms,
+with a lower tornado threat unless surface-based instability
+spreads farther inland than forecast.
+
+..SIMULATION.. 02/24/2027

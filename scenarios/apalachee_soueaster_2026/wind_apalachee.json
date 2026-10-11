@@ -1,0 +1,225 @@
+{
+ "_doc": "Deterministic peak wind swath from storm_apalachee.json's quadrant radii (wxsim.tropical.windmap). rmw_nm.extratropical is the radius of max wind for status EX. modifiers = feathered multiplier zones: the cold-air-damming wedge (stable layer, surface decoupled from the low-level jet) and the sting-jet descent over south Georgia.",
+ "storm_file": "storm_apalachee.json",
+ "start": "2026-12-16T18:00Z",
+ "end": "2026-12-19T18:00Z",
+ "step_min": 6,
+ "rmw_nm": {
+  "extratropical": 45
+ },
+ "tail_factor": 1.8,
+ "gust_factor": {
+  "land": 1.45,
+  "water": 1.25
+ },
+ "modifiers": [
+  {
+   "name": "cold-air-damming wedge",
+   "factor": 0.62,
+   "feather_km": 45,
+   "polygon": [
+    [
+     34.9,
+     -85.6
+    ],
+    [
+     35.6,
+     -84.0
+    ],
+    [
+     36.3,
+     -81.5
+    ],
+    [
+     35.7,
+     -79.6
+    ],
+    [
+     34.3,
+     -80.5
+    ],
+    [
+     33.4,
+     -82.0
+    ],
+    [
+     33.1,
+     -83.6
+    ],
+    [
+     33.4,
+     -84.9
+    ],
+    [
+     34.9,
+     -85.6
+    ]
+   ]
+  },
+  {
+   "name": "sting jet",
+   "factor": 1.08,
+   "feather_km": 25,
+   "polygon": [
+    [
+     31.45,
+     -84.45
+    ],
+    [
+     31.35,
+     -82.95
+    ],
+    [
+     30.6,
+     -82.6
+    ],
+    [
+     30.35,
+     -83.6
+    ],
+    [
+     30.8,
+     -84.45
+    ],
+    [
+     31.45,
+     -84.45
+    ]
+   ]
+  }
+ ],
+ "extent": [
+  -89.0,
+  -78.0,
+  27.0,
+  35.6
+ ],
+ "res": 0.025,
+ "title": "Apalachee Bay Sou'easter: Forecast Peak Winds",
+ "subtitle": "Highest sustained wind and gust expected at each location, 1 PM Wed Dec 16 through 1 PM Sat Dec 19 EST. Low bottoms out near 939 mb and comes ashore near St. Marks, FL early Thursday at 941 mb.",
+ "cbar_label": "",
+ "footnote": "Swath from WPC Storm Summary 4 radii with wedge and sting-jet zones",
+ "cities": [
+  [
+   "Tallahassee",
+   30.438,
+   -84.281
+  ],
+  [
+   "Valdosta",
+   30.833,
+   -83.28
+  ],
+  [
+   "Albany",
+   31.578,
+   -84.156
+  ],
+  [
+   "Moultrie",
+   31.18,
+   -83.79
+  ],
+  [
+   "Panama City",
+   30.159,
+   -85.66
+  ],
+  [
+   "Apalachicola",
+   29.726,
+   -84.983
+  ],
+  [
+   "Perry",
+   30.117,
+   -83.582
+  ],
+  [
+   "Cedar Key",
+   29.138,
+   -83.035
+  ],
+  [
+   "Gainesville",
+   29.652,
+   -82.325
+  ],
+  [
+   "Jacksonville",
+   30.332,
+   -81.656
+  ],
+  [
+   "Brunswick",
+   31.15,
+   -81.491
+  ],
+  [
+   "Savannah",
+   32.081,
+   -81.091
+  ],
+  [
+   "Charleston",
+   32.776,
+   -79.931
+  ],
+  [
+   "Macon",
+   32.841,
+   -83.632
+  ],
+  [
+   "Atlanta",
+   33.749,
+   -84.388
+  ],
+  [
+   "Dothan",
+   31.223,
+   -85.39
+  ],
+  [
+   "Tampa",
+   27.95,
+   -82.458
+  ],
+  [
+   "Orlando",
+   28.538,
+   -81.379
+  ],
+  [
+   "Mobile",
+   30.695,
+   -88.04
+  ],
+  [
+   "Birmingham",
+   33.519,
+   -86.81
+  ],
+  [
+   "Augusta",
+   33.471,
+   -81.975
+  ],
+  [
+   "Columbia",
+   34.0,
+   -81.035
+  ],
+  [
+   "Waycross",
+   31.213,
+   -82.354
+  ]
+ ],
+ "output": "APALACHEE_peak_winds_ss4.png",
+ "track_labels": [
+  "2026-12-16T18:00Z",
+  "2026-12-17T06:00Z",
+  "2026-12-19T18:00Z"
+ ]
+}

@@ -1,0 +1,107 @@
+000
+ACUS01 KWNS 241245
+SWODY1
+SPC AC 241244
+
+Day 1 Convective Outlook
+NWS Storm Prediction Center Norman OK
+0644 AM CST Wed Feb 24 2027
+
+Valid 241300Z - 251200Z
+
+...THERE IS A HIGH RISK OF SEVERE THUNDERSTORMS FROM THE UPPER TEXAS
+COAST AND GREATER HOUSTON AREA EAST ACROSS SOUTHWEST INTO
+SOUTH-CENTRAL LOUISIANA...
+
+...SUMMARY...
+A regional tornado outbreak is expected today into tonight along a
+narrow corridor from the Houston metro and Galveston Bay east through
+Beaumont, Lake Charles, and Lafayette. Several long-track, strong to
+intense tornadoes (EF3+) are likely, and an EF4+ tornado is possible.
+Supercells will track east-northeast along a stalled coastal warm
+front near Interstate 10 from late morning through the evening.
+Tornadoes and damaging winds will continue overnight into southeast
+Louisiana, including the Baton Rouge and New Orleans areas.
+
+...SYNOPSIS...
+A vigorous, compact shortwave trough over northern Coahuila early
+this morning will eject east-northeast and take on a negative tilt as
+it crosses south Texas and the northwest Gulf today. It is embedded
+within an exceptionally strong subtropical jet, with 250 mb winds of
+150-170 kt from northern Mexico into the lower Mississippi Valley, a
+pattern typical of this strong El Nino winter. At the surface, a 1001
+mb low near Matagorda Bay will deepen to around 992 mb as it tracks
+east-northeast along the coast, reaching the Sabine Pass vicinity by
+00z and south-central Mississippi by 12z. A warm front extends east
+from the low, 20-40 miles offshore of the upper Texas and southwest
+Louisiana coast. It will move inland this morning, then stall near or
+just north of I-10 from the northern Houston suburbs to near
+Lafayette. North of the front, persistent rain and elevated
+convection have left a deep, rain-cooled layer across east Texas and
+central Louisiana, with temperatures in the 50s F. A Pacific cold
+front trailing the low will sweep east across the Texas coastal plain
+this afternoon and across Louisiana tonight.
+
+...Upper Texas coast into southwest and south-central Louisiana...
+The environment along and south of the warm front will support
+significant tornadoes. Buoy and platform observations over the
+northwest Gulf show dewpoints of 70-73 F. This modified Gulf air will
+spread onshore behind the warm front, and dewpoints will reach the
+upper 60s to near 70 F along the coastal plain by late morning.
+Temperatures in the mid 70s F and midlevel lapse rates of 6-6.5 C/km
+will yield MLCAPE of 1200-2000 J/kg near the coast. MLCAPE will fall
+sharply to less than 500 J/kg within 30-50 miles north of the front.
+A 65-80 kt south-southwesterly low-level jet will overspread the
+region from late morning onward, beneath 80-100 kt of effective bulk
+shear. Surface winds are backed to east-southeast along the boundary,
+which will greatly enlarge the low-level hodographs. RRFS and REFS
+forecast soundings show 0-1 km SRH of 350-500 m2/s2 in the open warm
+sector and 500-700 m2/s2 along the front itself. Combined with LCLs
+of 400-700 m, this supports effective-layer STP of 5-10, with local
+values above 12 along the boundary between Houston and Lafayette this
+afternoon.
+
+Warm-advection storms over the Gulf this morning should move onshore
+across Galveston Bay and the Bolivar Peninsula by 15-17z. They will
+quickly become surface-based and acquire supercell characteristics as
+they reach the warm front. Additional discrete supercells are
+expected from 17z through 00z, developing west and southwest of
+Houston ahead of the Pacific front and along confluence bands in the
+warm sector. Storm motions of 240-250 degrees at 40-50 kt are nearly
+parallel to the warm front. Supercells will therefore be able to ride
+the boundary for long distances instead of crossing into the stable
+air to the north. This is the primary concern for long-track, strong
+to intense tornadoes from the Houston metro through Beaumont, Lake
+Charles, and Lafayette. The corridor is narrow, and its northern edge
+is tied closely to the warm front's position. Where it stalls will be
+critical, and a northward adjustment of 15-30 miles remains possible
+later this morning. North of the front, storms will quickly become
+elevated and pose mainly a hail and isolated wind threat. Tornado
+potential will persist after dark as the low-level jet strengthens
+further. Several tornadic supercells may remain ongoing across
+south-central Louisiana (Lafayette to Morgan City and Houma) through
+03-05z.
+
+...Southeast Louisiana and coastal Mississippi tonight...
+The Pacific front will overtake the warm-sector supercells this
+evening, and activity will consolidate into a strong QLCS across
+south-central Louisiana by 03z. The line will then sweep east across
+the Baton Rouge and New Orleans metros and the Mississippi coast
+between 05z and 10z. Instability will weaken somewhat overnight, but
+surface-based MLCAPE of 500-1000 J/kg and 400+ m2/s2 of 0-1 km SRH
+will remain. This will support line-embedded mesovortex tornadoes, a
+few of which could be strong, along with 60-80 mph gusts where bowing
+segments develop. Any discrete cells ahead of the line near the coast
+would pose a greater tornado threat. The severe threat should
+diminish toward 12z as the line reaches southwest Alabama and the
+instability becomes increasingly marginal.
+
+...Southeast and east Texas into central Louisiana and southern
+Mississippi...
+Farther north, along the periphery of the warm sector, isolated large
+hail of 1-1.75 inches and damaging gusts are possible with elevated
+storms atop the rain-cooled layer. Surface-based storms and a greater
+tornado risk will extend this far north only if the warm front
+advances farther inland than forecast.
+
+..Delacroix/Vance.. 02/24/2027

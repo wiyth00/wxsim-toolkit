@@ -1,0 +1,69 @@
+000
+ACUS11 KWNS 291402
+SWOMCD
+SPC MCD 291402
+NCZ000-SCZ000-VAZ000-291600-
+
+Mesoscale Discussion 0611
+NWS Storm Prediction Center Norman OK
+0902 AM CDT Thu Apr 29 2027
+
+Areas affected...Eastern North Carolina...northeast South
+Carolina...and southeast Virginia
+
+Concerning...Severe potential...PDS Tornado Watch likely
+
+Valid 291402Z - 291600Z
+
+Probability of Watch Issuance...95 percent
+
+SUMMARY...A PDS Tornado Watch will likely be issued within the hour.
+Discrete supercells are beginning to develop in an exceptionally
+moist and strongly sheared warm sector, and several long-track,
+intense tornadoes (EF3+) are possible from the Pee Dee region of
+South Carolina through eastern North Carolina into southeast
+Virginia. SPC will issue a special Day 1 Outlook update at 1430Z,
+which will include a High Risk for this area, driven by tornadoes.
+
+DISCUSSION...Visible satellite imagery shows the morning stratus deck
+across the coastal plain breaking up rapidly. Agitated cumulus bands
+are organizing along several confluence axes from near Florence and
+Lumberton to Goldsboro and Rocky Mount. The first deep towers are now
+evident near Lumberton and west of Goldsboro. Surface dewpoints have
+risen to 69-71 F as far north as Greenville and Rocky Mount, and to
+65-67 F in southeast Virginia. Temperatures are already in the mid
+70s F beneath the breaks. Modified 12z MHX and special 13z RAH
+soundings yield MLCAPE of 1500-2200 J/kg with little remaining
+inhibition, and mixed-layer LCLs are only 500-800 m.
+
+The kinematic environment is extreme. KRAX, KMHX, and KAKQ VWPs show
+60-70 kt of south-southwest flow at 1 km, beneath 90+ kt at 3 km. 0-1
+km SRH is 350-500 m2/s2 and effective bulk shear is 75-85 kt.
+Effective STP values of 5-9 already cover much of eastern North
+Carolina and should expand north toward the southeast Virginia warm
+front by midday. Storm motions near 220/55 kt will carry any
+supercell a long way within this environment. Once storms mature, the
+combination of low LCLs, rich moisture, and very large low-level
+hodographs strongly favors tornadic supercells, including the
+potential for long-track, violent tornadoes.
+
+The main uncertainty is storm coverage and mode. Numerous storms
+could evolve into clusters, but current trends and
+convection-allowing guidance support several discrete to
+semi-discrete supercells well ahead of the squall line now crossing
+the western Piedmont. That line will reach the I-95 corridor later
+this afternoon (see MCD 0612 for areas north). Given the magnitude
+and duration of the threat, a PDS Tornado Watch is preferred.
+
+..Okonkwo/Brandt.. 04/29/2027
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...AKQ...MHX...RAH...ILM...CAE...
+
+LAT...LON   33707990 35307950 36807840 37707720 37607580 36307570
+            35107640 34107790 33707990
+
+MOST PROBABLE PEAK TORNADO INTENSITY...136-165 MPH
+MOST PROBABLE PEAK WIND GUST...70-85 MPH
+MOST PROBABLE PEAK HAIL SIZE...1.50-2.25 IN

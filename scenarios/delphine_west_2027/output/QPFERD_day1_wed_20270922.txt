@@ -1,0 +1,43 @@
+000
+FOUS30 KWBC 220759
+QPFERD
+
+Excessive Rainfall Discussion
+NWS Weather Prediction Center College Park MD
+359 AM EDT Wed Sep 22 2027
+Day 1
+Valid 12Z Wed Sep 22 2027 - 12Z Thu Sep 23 2027
+
+...THERE IS A SLIGHT RISK OF EXCESSIVE RAINFALL ACROSS PORTIONS OF
+NORTH GEORGIA...THE SOUTH CAROLINA UPSTATE...AND EAST-CENTRAL
+ALABAMA...
+
+...Southern Appalachians and Southeast...
+
+A Slight Risk was introduced from east-central Alabama through the
+Atlanta metro and into the South Carolina Upstate, with a surrounding
+Marginal Risk. A quasi-stationary front draped from the Tennessee
+Valley into the western Carolinas will become the focus for repeated
+rounds of heavy rain today and tonight as deep tropical moisture
+streams north well ahead of Hurricane Delphine over the northwestern
+Caribbean. This is the early stage of what is increasingly likely to
+become a multi-day predecessor rain event (PRE).
+
+PWs of 2.0 to 2.3 inches, near the 97th percentile for late
+September, will pool along the boundary. The mean 850-300 mb flow
+will be nearly parallel to the front, which favors training. The 00Z
+HREF paints a narrow corridor of 2 to 4 inches with localized 5 inch
+amounts along and just north of I-85, and hourly rates of 1 to 2
+inches are possible. Soils are near normal and 3-hour FFG is
+generally 2.5 to 3.5 inches, so today's risk is mostly tied to urban
+areas and repeated rounds over the same locations.
+
+Of greater concern is the trend. Guidance keeps the front nearly in
+place through Friday, and WPC is already carrying a Moderate Risk in
+the Day 2 outlook for Thursday. Rain falling today will steadily
+lower flash flood guidance ahead of Delphine's arrival late in the
+week.
+
+..Nguyen-Oakes..
+
+Day 1 threat area: www.wpc.ncep.noaa.gov/qpf/94epoints.txt

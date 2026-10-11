@@ -1,0 +1,89 @@
+000
+ACUS01 KWNS 131628
+SWODY1
+SPC AC 131627
+
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1127 AM CDT Tue Jul 13 2027
+
+Valid 131630Z - 141200Z
+
+...THERE IS A HIGH RISK OF SEVERE THUNDERSTORMS ACROSS EAST-CENTRAL
+IOWA...NORTHERN ILLINOIS...NORTHERN INDIANA...AND EXTREME NORTHWEST
+OHIO...
+
+...SUMMARY...
+A particularly dangerous and widespread severe wind event and high-end
+derecho will develop early this afternoon across eastern Iowa and
+race east-southeastward across northern Illinois, the Chicago
+metropolitan area, northern Indiana, and northwest Ohio through this
+evening. Widespread destructive straight-line winds with swaths of
+80 to 105 mph gusts will produce significant, extensive structural
+and tree damage and widespread, prolonged power outages. Several
+embedded tornadoes, a few strong, and isolated large hail are also
+expected.
+
+...Corn Belt into the Southern Great Lakes / Ohio Valley...
+...Meteorological Analysis...
+A classic, high-end progressive derecho environment is established
+across the Upper Mississippi Valley and southern Great Lakes today.
+A fast quasi-zonal midlevel jet streak (60-70 kt at 500 mb) is
+progressing across the northern flank of an intense mid-summer
+subtropical ridge centered over the Ozarks and lower Mississippi
+Valley. At the surface, a stationary to slow-moving warm frontal
+boundary and reinforced antecedent convective outflow boundary is
+draped from central Iowa through northern Illinois (near the I-88 and
+I-80 corridors) into northern Indiana and northern Ohio.
+
+South of this boundary, boundary-layer conditions are extreme.
+Strong solar insolation and intense agricultural evapotranspiration
+have pushed surface temperatures into the lower 90s F amidst
+widespread dewpoints of 77 to 81 F. This is generating extreme
+thermodynamic instability, with MLCAPE values of 4500 to 5500 J/kg
+and locally near 6000 J/kg where moisture pooling is maximized.
+Sampled midlevel lapse rates are steep (7.8 to 8.4 C/km) within an
+advecting EML plume. Precipitable water values of 2.0 to 2.2 inches,
+combined with relatively dry air near 700-600 mb, yield exceptional
+downdraft CAPE (DCAPE) values of 1500 to 1800 J/kg, creating an ideal
+thermodynamic setup for severe downburst generation and cold-pool
+acceleration.
+
+Kinematically, 0-6 km bulk shear of 50 to 60 kt oriented parallel to
+the east-southeastward oriented boundary will favor very rapid upscale
+growth of early discrete to semi-discrete storms into an organized,
+forward-propagating mesoscale convective system (MCS). As the system
+matures, intense rear-inflow jet (RIJ) descent into the forward flank
+will drive destructive bowing segments and apex surges, with the
+derecho expected to forward-propagate at 55 to 65 kt.
+
+...Evolution & Timing...
+Intense convective initiation is anticipated between 18z and 20z
+along the boundary in east-central Iowa, near and east of Waterloo and
+Des Moines, within an uncapping, highly unstable air mass. While
+initial cells may produce isolated large to very large hail (up to 2
+inches) and a couple of discrete tornadoes, upscale growth into a
+linear complex is expected to occur rapidly within 60 to 90 minutes of
+initiation.
+
+Once a consolidated cold pool forms, the system will surge
+east-southeastward across the Quad Cities, Rockford, and the greater
+Chicago metropolitan area between 21z and 01z, before crossing northern
+Indiana (South Bend, Fort Wayne) and reaching northwest Ohio (Toledo,
+Findlay, Cleveland vicinity) between 01z and 04z. 
+
+Extensive swaths of 75 to 90 mph winds are expected along the path of
+the bow echo, with peak corridor winds of 95 to 105+ mph where
+mesoscale rear-inflow channeling and severe downbursts couple with the
+fast ambient steering flow. The density of population and infrastructure
+in the path of this system warrants the issuance of a High Risk for
+destructive winds. In addition, intense mesovortices along the leading
+edge of the bowing line and within the northern bookend vortex will be
+capable of producing several tornadoes (a few potentially EF2+).
+
+The severe wind and QLCS tornado threat will gradually taper late
+tonight toward Lake Erie and central Ohio as the convective system
+outruns the greatest instability reservoir, though damaging winds may
+continue as far east as western Pennsylvania before dawn.
+
+..Hart/Guyer.. 07/13/2027

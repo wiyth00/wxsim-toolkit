@@ -1,0 +1,136 @@
+000
+WTNT32 KWNH 252100
+TCPAT2
+
+BULLETIN
+Post-Tropical Cyclone Delphine Advisory Number  22
+NWS Weather Prediction Center College Park MD       AL072027
+500 PM EDT Sat Sep 25 2027
+
+...DELPHINE MOVING INTO THE OHIO VALLEY AS A POWERFUL POST-TROPICAL
+CYCLONE...
+...CATASTROPHIC FLOODING CONTINUES ACROSS NORTH GEORGIA...WITH MAJOR
+RIVER FLOODING EXPECTED INTO NEXT WEEK...
+...DAMAGING WIND GUSTS CONTINUE ACROSS KENTUCKY...SOUTHERN OHIO...AND
+WEST VIRGINIA TONIGHT...
+
+
+SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...38.5N 84.5W
+ABOUT 30 MI...50 KM N OF LEXINGTON KENTUCKY
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...N OR 10 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...983 MB...29.03 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+All Hurricane and Tropical Storm Warnings have been discontinued.
+
+Wind Advisories and High Wind Warnings are in effect for portions of
+the Ohio Valley and central Appalachians, and Flood Watches and Flash
+Flood Warnings remain in effect across much of Georgia, the western
+Carolinas, eastern Tennessee, and Kentucky. For details, please
+monitor products issued by your local National Weather Service
+forecast office.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM EDT (2100 UTC), the center of Post-Tropical Cyclone
+Delphine was located near latitude 38.5 North, longitude 84.5 West.
+Delphine is moving toward the north near 14 mph (22 km/h). A turn
+toward the north-northeast with a gradual decrease in forward speed
+is expected tonight and Sunday as Delphine merges with the parent
+trough. On the forecast track, the center will move across eastern
+Kentucky and southern Ohio tonight and reach the vicinity of Lake
+Erie Sunday afternoon, where it is expected to be absorbed by a
+larger extratropical low.
+
+Maximum sustained winds are near 50 mph (85 km/h) with higher gusts.
+Gradual weakening is expected, but strong winds will continue well to
+the east of the center through Sunday.
+
+Tropical-storm-force winds extend outward up to 275 miles (445 km).
+
+The estimated minimum central pressure is 983 mb (29.03 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+RAINFALL:  Delphine is expected to produce an additional 1 to 3
+inches of rain, with isolated totals near 5 inches, across eastern
+Kentucky, southern Ohio, and western West Virginia through Sunday.
+Considerable flash flooding is possible in steep terrain.
+Catastrophic flash flooding and major to record river flooding are
+ongoing across north Georgia, where storm totals including the
+predecessor rain event have reached 10 to 20 inches. Rivers including
+the Chattahoochee, Etowah, and Oostanaula will continue rising into
+early next week.
+
+WIND:  Wind gusts of 45 to 60 mph are expected tonight across eastern
+Kentucky, southern Ohio, and western West Virginia, especially on
+ridgetops. Widespread wind damage and power outages from last night's
+hurricane-force winds are being reported across Georgia, including
+the Atlanta metropolitan area.
+
+TORNADOES:  A couple of tornadoes are possible this evening across
+eastern Kentucky and western West Virginia.
+
+The following are selected storm total rainfall amounts in inches
+from Wednesday through 5 PM EDT Saturday, including the predecessor
+rain event...
+
+...GEORGIA...
+Mineral Bluff                  19.29
+Morganton                      18.91
+Mc Caysville                   18.87
+Blue Ridge                     18.52
+Epworth                        18.29
+Atlanta                        15.93
+
+...ALABAMA...
+Graham                         13.31
+Ranburne                       13.13
+Woodland                       12.89
+Delta                          12.60
+Wedowee                        12.59
+
+...TENNESSEE...
+Copperhill                     17.32
+Ducktown                       17.32
+Turtletown                     15.58
+Farner                         14.60
+Conasauga                      13.45
+
+...NORTH CAROLINA...
+Culberson                      18.95
+Warne                          18.49
+Brasstown                      18.30
+Hayesville                     17.52
+Murphy                         17.45
+
+...SOUTH CAROLINA...
+Long Creek                     13.16
+Westminster                    12.83
+Mountain Rest                  12.29
+Walhalla                       12.21
+West Union                     12.21
+
+...FLORIDA...
+Bascom                          3.64
+Malone                          3.46
+Defuniak Springs                3.27
+Greenwood                       3.27
+Argyle                          3.24
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM EDT.
+
+$$
+Forecaster Kowalski

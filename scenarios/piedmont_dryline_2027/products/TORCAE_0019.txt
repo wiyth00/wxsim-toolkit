@@ -1,0 +1,64 @@
+000
+WFUS52 KCAE 172252
+TORCAE
+SCC003-037-063-075-172345-
+/O.NEW.KCAE.TO.W.0019.270417T2252Z-270417T2345Z/
+
+BULLETIN - EAS ACTIVATION REQUESTED
+Tornado Warning
+National Weather Service Columbia SC
+652 PM EDT Sat Apr 17 2027
+
+The National Weather Service in Columbia has issued a
+
+* Tornado Warning for...
+  Northern Aiken County in west central South Carolina...
+  Southeastern Edgefield County in west central South Carolina...
+  Southwestern Lexington County in central South Carolina...
+  Northwestern Orangeburg County in south central South Carolina...
+
+* Until 745 PM EDT.
+
+* At 652 PM EDT, a severe thunderstorm capable of producing a tornado
+  was located over North Augusta, moving east at 45 mph.
+
+HAZARD...Tornado and tennis ball size hail.
+
+SOURCE...Radar indicated rotation.
+
+IMPACT...Flying debris will be dangerous to those caught without
+shelter. Mobile homes will be damaged or destroyed. Damage to roofs,
+windows, and vehicles will occur. Tree damage is likely.
+
+* This dangerous storm will be near...
+  Graniteville around 700 PM EDT.
+  Aiken around 710 PM EDT.
+  Wagener around 740 PM EDT.
+
+Other locations in the path of this tornadic thunderstorm include
+Belvedere, Clearwater, Burnettown, Vaucluse, Warrenville, Langley,
+Bath, Montmorenci, and Salley.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+TAKE COVER NOW! Move to a basement or an interior room on the lowest
+floor of a sturdy building. Avoid windows. If you are outdoors, in a
+mobile home, or in a vehicle, move to the closest substantial shelter
+and protect yourself from flying debris.
+
+This is a dangerous supercell that has produced giant hail across
+east-central Georgia this afternoon. It is moving into a very
+favorable environment for tornadoes near the stalled wedge front. Act
+now to protect your life.
+
+&&
+
+LAT...LON 3364 8200 3379 8117 3353 8115 3347 8198
+TIME...MOT...LOC 2252Z 262DEG 40KT 3355 8197
+
+TORNADO...RADAR INDICATED
+MAX HAIL SIZE...2.50 IN
+
+$$
+
+Whitfield

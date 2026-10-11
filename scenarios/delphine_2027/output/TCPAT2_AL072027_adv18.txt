@@ -1,0 +1,158 @@
+000
+WTNT32 KNHC 242100
+TCPAT2
+
+BULLETIN
+Hurricane Delphine Advisory Number  18
+NWS National Hurricane Center Miami FL       AL072027
+500 PM EDT Fri Sep 24 2027
+
+...DELPHINE STRENGTHENING AND ACCELERATING TOWARD THE FLORIDA BIG
+BEND...
+...CATASTROPHIC AND LIFE-THREATENING STORM SURGE EXPECTED ALONG THE
+BIG BEND COAST...
+...DAMAGING HURRICANE-FORCE WINDS WILL SPREAD FAR INLAND ACROSS
+GEORGIA...INCLUDING THE ATLANTA METRO AREA...
+
+
+SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...26.4N 85.4W
+ABOUT 210 MI...340 KM WSW OF TAMPA FLORIDA
+MAXIMUM SUSTAINED WINDS...130 MPH...215 KM/H
+PRESENT MOVEMENT...NNE OR 20 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...944 MB...27.88 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+The Tropical Storm Watch from the Flagler/Volusia County Line to
+Edisto Beach has been upgraded to a Tropical Storm Warning.
+
+A Tropical Storm Watch has been issued from Edisto Beach to the South
+Santee River.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Hurricane Warning is in effect for...
+* Indian Pass to Anclote River
+
+A Hurricane Watch is in effect for...
+* Anclote River to Middle of Longboat Key
+
+A Tropical Storm Warning is in effect for...
+* Walton/Bay County Line to Indian Pass
+* Middle of Longboat Key to Bonita Beach
+* Flagler/Volusia County Line to Edisto Beach
+
+A Tropical Storm Watch is in effect for...
+* Bonita Beach to East Cape Sable
+* Edisto Beach to South Santee River
+
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area. Preparations to protect life and
+property should be rushed to completion.
+
+A Hurricane Watch means that hurricane conditions are possible within
+the watch area.
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area.
+
+Hurricane and Tropical Storm Warnings have been issued well inland by
+local National Weather Service offices, including the Atlanta
+metropolitan area. For storm information specific to your area,
+including possible inland watches and warnings, please monitor
+products issued by your local National Weather Service forecast
+office.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM EDT (2100 UTC), the center of Hurricane Delphine was
+located near latitude 26.4 North, longitude 85.4 West. Delphine is
+moving toward the north-northeast near 12 mph (19 km/h). A turn
+toward the north with a significant increase in forward speed is
+expected tonight and Saturday. On the forecast track, the center of
+Delphine will reach the Florida Big Bend coast early Saturday
+morning, then move rapidly northward across southwestern and central
+Georgia Saturday, passing near or over the Atlanta metropolitan area
+Saturday afternoon. Delphine is then expected to slow down over the
+Tennessee and Ohio Valleys Sunday and Monday.
+
+Maximum sustained winds are near 130 mph (215 km/h) with higher
+gusts. Delphine is a major hurricane -- a category 4 on the
+Saffir-Simpson Hurricane Wind Scale. Additional strengthening is
+forecast before landfall, and Delphine is expected to be a dangerous
+major hurricane when it reaches the coast. Because of its fast
+forward motion, Delphine is expected to remain a hurricane well
+inland over Georgia, and it is forecast to become post-tropical over
+the southern Appalachians by Sunday morning.
+
+Hurricane-force winds extend outward up to 70 miles (110 km) from the
+center and tropical-storm-force winds extend outward up to 230 miles
+(370 km).
+
+The estimated minimum central pressure is 944 mb (27.88 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+STORM SURGE:  The combination of a dangerous storm surge and the tide
+will cause normally dry areas near the coast to be flooded by rising
+waters moving inland from the shoreline. The water could reach the
+following heights above ground somewhere in the indicated areas if
+the peak surge occurs at the time of high tide...
+  - Carrabelle to Suwannee River, FL...15-20 ft
+  - Ochlockonee River to Carrabelle, FL...10-15 ft
+  - Suwannee River to Yankeetown, FL...10-15 ft
+  - Yankeetown to Chassahowitzka, FL...7-11 ft
+  - Chassahowitzka to Anclote River, FL...5-8 ft
+  - Anclote River to Middle of Longboat Key, FL, including Tampa
+    Bay...4-7 ft
+  - Indian Pass to Carrabelle, FL...4-7 ft
+The deepest water will occur along the immediate coast near and to
+the east of the landfall location, where the surge will be
+accompanied by large and destructive waves.
+
+WIND:  Hurricane conditions are expected within the Hurricane Warning
+area along the coast beginning late tonight, with tropical storm
+conditions arriving this evening. Because of Delphine's fast forward
+speed, damaging and life-threatening hurricane-force wind gusts will
+extend well inland over portions of north Florida and southern and
+central Georgia, including the Atlanta metropolitan area, Saturday.
+Widespread tree damage and prolonged power outages are likely.
+Tropical storm conditions are expected in the Tropical Storm Warning
+areas along the Florida, Georgia and South Carolina coasts Saturday.
+
+RAINFALL:  Delphine is expected to produce rainfall totals of 5 to 10
+inches with isolated totals around 15 inches across the Florida Big
+Bend, Georgia, and the southern Appalachians through Sunday. This
+rainfall will likely result in considerable and potentially
+catastrophic flash and urban flooding, with significant river
+flooding likely. Numerous landslides are possible in the steep
+terrain of the southern Appalachians.
+
+TORNADOES:  A few tornadoes are possible tonight and Saturday across
+the Florida Peninsula, southern and eastern Georgia, and South
+Carolina.
+
+SURF:  Swells generated by Delphine are affecting much of the Gulf
+Coast and will spread across the Florida Peninsula coast during the
+next day or so. These swells are likely to cause life-threatening
+surf and rip current conditions. Please consult products from your
+local weather office.
+
+
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 800 PM EDT.
+Next complete advisory at 1100 PM EDT.
+
+$$
+Forecaster Delgado/Park

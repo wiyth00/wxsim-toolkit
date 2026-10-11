@@ -1,0 +1,28 @@
+000
+ACUS01 KWNS 291428
+SWODY1
+SPC AC 291427
+
+Day 1 Convective Outlook...UPDATED
+NWS Storm Prediction Center Norman OK
+0927 AM CDT Thu Apr 29 2027
+
+Valid 291430Z - 301200Z
+
+...THERE IS A HIGH RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF EASTERN NORTH CAROLINA...FAR NORTHEAST SOUTH CAROLINA...AND SOUTHEAST VIRGINIA...AND ALONG THE I-95 CORRIDOR FROM NORTHERN VIRGINIA THROUGH THE DISTRICT OF COLUMBIA AND MARYLAND INTO NORTHERN DELAWARE AND SOUTHEAST PENNSYLVANIA...
+
+...THERE IS A MODERATE RISK OF SEVERE THUNDERSTORMS SURROUNDING THE HIGH RISK AREAS FROM SOUTHEAST GEORGIA TO SOUTHEAST PENNSYLVANIA...
+
+...SUMMARY...
+A historic severe weather outbreak is unfolding. Numerous tornadoes, including several long-track, intense tornadoes (EF3+), are expected this afternoon from the Pee Dee region of South Carolina across eastern North Carolina into southeast Virginia. Separately, an intense, derecho-like squall line will produce widespread destructive winds of 85-100 mph and embedded tornadoes along the I-95 corridor from Fredericksburg through Washington, Baltimore, and Wilmington to Philadelphia.
+
+...Special update...
+This special update introduces two High Risk areas. The first covers eastern North Carolina and southeast Virginia and is driven by tornadoes (30 percent, Conditional Intensity Group 2). The second covers the I-95 corridor from northern Virginia to southeast Pennsylvania and is driven by damaging winds (60 percent, Conditional Intensity Group 2). See MCDs 0611 and 0612 for details. The previous outlook reasoning remains valid. Trends over the past two hours support greater confidence in both threats. The warm sector is destabilizing faster than forecast, and discrete supercells are now developing near Lumberton and Goldsboro. Meanwhile, the squall line has organized quickly across northern Virginia and has already produced measured gusts of 60-70 mph.
+
+...Eastern North Carolina into southeast Virginia...
+Dewpoints of 69-71 F, MLCAPE of 1500-2200 J/kg, and LCLs of 500-800 m lie beneath 60-70 kt of flow at 1 km and effective shear near 80 kt. The resulting 0-1 km SRH of 350-500 m2/s2 and effective STP of 5-9 strongly favor tornadic supercells. Storm motions near 220/55 kt will support long tracks. Several intense, long-lived tornadoes are expected from roughly 15z through 22z, including possibly violent tornadoes. The greatest threat stretches from near Florence and Lumberton through Fayetteville, Raleigh, Goldsboro, and Rocky Mount to Emporia and the Suffolk area.
+
+...I-95 corridor: northern Virginia to southeast Pennsylvania...
+The squall line, moving east at 45-55 kt, will reach the District and Baltimore around 16-18z and Philadelphia around 18-20z. It will move in tandem with a warm front surging north. A developing rear-inflow jet and 70-80 kt of flow at 1-2 km will support a swath of 85-100 mph gusts, most likely along and near I-95. A few brief QLCS tornadoes are possible near and just south of the warm front, where 0-1 km SRH reaches 400-600 m2/s2. The widespread destructive wind swath remains the primary concern in this corridor. Given the population density of this corridor, the potential for widespread, severe impacts is very high.
+
+..Okonkwo/Brandt.. 04/29/2027

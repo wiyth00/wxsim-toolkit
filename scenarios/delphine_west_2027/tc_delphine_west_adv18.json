@@ -1,0 +1,638 @@
+{
+ "_doc": "One NHC advisory for one storm. Times are UTC ('YYYY-MM-DDTHH:MMZ'). past_track rows = [time, lat, lon, vmax_kt, mslp_mb, status]. forecast: tau 0 = advisory time; other taus count from the synoptic hour (advisory time rounded down to 00/06/12/18Z), like NHC. status: TD/TS/HU/MH (tropical), PT (post-tropical), LO (remnant low), DS (dissipated; no position). radii (nmi by quadrant) keyed '34','50','64', optional '12ft' seas (tau 0 only). coastal_ww segments run breakpoint-to-breakpoint using names in data/tc_breakpoints.json; types HU.W, HU.A, TR.W, TR.A. inland_ww are county lists ('Name ST') drawn as shaded counties (optional; set cone.show_inland false for a pure NHC look). cone.radii_nmi is ILLUSTRATIVE and configurable, not an official NHC table. text = hand-written narrative pieces for the TCP/TCM.",
+ "name": "Delphine",
+ "number": 7,
+ "basin": "AL",
+ "year": 2027,
+ "wmo_slot": 2,
+ "tz": {
+  "offset_h": -4,
+  "name": "EDT"
+ },
+ "advisory": {
+  "number": "18",
+  "time": "2027-09-24T21:00Z",
+  "next_intermediate": "2027-09-24T23:00Z",
+  "next_complete": "2027-09-25T03:00Z",
+  "forecaster": "Delgado/Park",
+  "eye_diameter_nmi": 25,
+  "position_accuracy_nmi": 15,
+  "motion": {
+   "dir_deg": 22,
+   "kt": 22
+  }
+ },
+ "reference_points": [
+  [
+   "Apalachicola",
+   "Florida",
+   29.726,
+   -84.983
+  ],
+  [
+   "Panama City",
+   "Florida",
+   30.159,
+   -85.66
+  ],
+  [
+   "Atlanta",
+   "Georgia",
+   33.749,
+   -84.388
+  ]
+ ],
+ "past_track": [
+  [
+   "2027-09-22T18:00Z",
+   18.6,
+   -87.5,
+   45,
+   996,
+   "TS"
+  ],
+  [
+   "2027-09-23T00:00Z",
+   19.3,
+   -87.6,
+   50,
+   993,
+   "TS"
+  ],
+  [
+   "2027-09-23T06:00Z",
+   20.0,
+   -87.7,
+   55,
+   990,
+   "TS"
+  ],
+  [
+   "2027-09-23T12:00Z",
+   20.8,
+   -87.7,
+   65,
+   985,
+   "HU"
+  ],
+  [
+   "2027-09-23T18:00Z",
+   21.7,
+   -87.6,
+   75,
+   978,
+   "HU"
+  ],
+  [
+   "2027-09-24T00:00Z",
+   22.7,
+   -87.4,
+   85,
+   970,
+   "HU"
+  ],
+  [
+   "2027-09-24T06:00Z",
+   23.8,
+   -87.2,
+   95,
+   962,
+   "HU"
+  ],
+  [
+   "2027-09-24T12:00Z",
+   25.0,
+   -86.8,
+   105,
+   955,
+   "MH"
+  ],
+  [
+   "2027-09-24T18:00Z",
+   26.3,
+   -86.5,
+   105,
+   954,
+   "MH"
+  ]
+ ],
+ "forecast": [
+  {
+   "tau": 0,
+   "lat": 27.3,
+   "lon": -86.2,
+   "vmax_kt": 105,
+   "gust_kt": 130,
+   "status": "MH",
+   "mslp": 955,
+   "radii": {
+    "64": {
+     "NE": 70,
+     "SE": 60,
+     "SW": 25,
+     "NW": 35
+    },
+    "50": {
+     "NE": 130,
+     "SE": 110,
+     "SW": 50,
+     "NW": 70
+    },
+    "34": {
+     "NE": 220,
+     "SE": 200,
+     "SW": 90,
+     "NW": 150
+    },
+    "12ft": {
+     "NE": 330,
+     "SE": 300,
+     "SW": 150,
+     "NW": 240
+    }
+   }
+  },
+  {
+   "tau": 12,
+   "lat": 34.3,
+   "lon": -85.15,
+   "vmax_kt": 80,
+   "gust_kt": 110,
+   "status": "HU",
+   "inland": true,
+   "radii": {
+    "64": {
+     "NE": 80,
+     "SE": 60,
+     "SW": 0,
+     "NW": 0
+    },
+    "50": {
+     "NE": 150,
+     "SE": 120,
+     "SW": 30,
+     "NW": 40
+    },
+    "34": {
+     "NE": 260,
+     "SE": 240,
+     "SW": 80,
+     "NW": 120
+    }
+   }
+  },
+  {
+   "tau": 24,
+   "lat": 37.9,
+   "lon": -84.6,
+   "vmax_kt": 55,
+   "gust_kt": 75,
+   "status": "PT",
+   "inland": true,
+   "radii": {
+    "50": {
+     "NE": 120,
+     "SE": 100,
+     "SW": 0,
+     "NW": 0
+    },
+    "34": {
+     "NE": 300,
+     "SE": 280,
+     "SW": 90,
+     "NW": 150
+    }
+   }
+  },
+  {
+   "tau": 36,
+   "lat": 40.1,
+   "lon": -83.9,
+   "vmax_kt": 45,
+   "gust_kt": 60,
+   "status": "PT",
+   "inland": true,
+   "radii": {
+    "34": {
+     "NE": 280,
+     "SE": 250,
+     "SW": 60,
+     "NW": 120
+    }
+   }
+  },
+  {
+   "tau": 48,
+   "lat": 41.5,
+   "lon": -82.8,
+   "vmax_kt": 35,
+   "gust_kt": 45,
+   "status": "PT",
+   "inland": true,
+   "radii": {
+    "34": {
+     "NE": 200,
+     "SE": 180,
+     "SW": 0,
+     "NW": 60
+    }
+   }
+  },
+  {
+   "tau": 60,
+   "status": "DS",
+   "note": "ABSORBED BY LARGER EXTRATROPICAL LOW"
+  }
+ ],
+ "coastal_ww": [
+  {
+   "type": "HU.W",
+   "from": "Okaloosa/Walton County Line",
+   "to": "Steinhatchee River"
+  },
+  {
+   "type": "TR.W",
+   "from": "Alabama/Florida Border",
+   "to": "Okaloosa/Walton County Line"
+  },
+  {
+   "type": "TR.W",
+   "from": "Steinhatchee River",
+   "to": "Anclote River"
+  },
+  {
+   "type": "TR.W",
+   "from": "Flagler/Volusia County Line",
+   "to": "Little River Inlet"
+  },
+  {
+   "type": "TR.A",
+   "from": "Mississippi/Alabama Border",
+   "to": "Alabama/Florida Border"
+  },
+  {
+   "type": "TR.A",
+   "from": "Little River Inlet",
+   "to": "Surf City"
+  }
+ ],
+ "changes": [
+  "The Hurricane Warning has been extended westward to the Okaloosa/Walton County Line.",
+  "A Tropical Storm Warning has been issued from the Alabama/Florida Border to the Okaloosa/Walton County Line.",
+  "A Tropical Storm Watch has been issued from the Mississippi/Alabama Border to the Alabama/Florida Border."
+ ],
+ "inland_ww": [
+  {
+   "type": "HU.W",
+   "counties": [
+    "Baker GA",
+    "Banks GA",
+    "Barbour AL",
+    "Barrow GA",
+    "Bartow GA",
+    "Bay FL",
+    "Bibb GA",
+    "Brooks GA",
+    "Butts GA",
+    "Calhoun FL",
+    "Calhoun GA",
+    "Carroll GA",
+    "Chambers AL",
+    "Chattahoochee GA",
+    "Cherokee GA",
+    "Clarke GA",
+    "Clay GA",
+    "Clayton GA",
+    "Cleburne AL",
+    "Cobb GA",
+    "Colquitt GA",
+    "Coweta GA",
+    "Crawford GA",
+    "Crisp GA",
+    "Dawson GA",
+    "DeKalb GA",
+    "Decatur GA",
+    "Dooly GA",
+    "Dougherty GA",
+    "Douglas GA",
+    "Early GA",
+    "Fayette GA",
+    "Floyd GA",
+    "Forsyth GA",
+    "Franklin FL",
+    "Fulton GA",
+    "Gadsden FL",
+    "Gilmer GA",
+    "Gordon GA",
+    "Grady GA",
+    "Gulf FL",
+    "Gwinnett GA",
+    "Hall GA",
+    "Haralson GA",
+    "Harris GA",
+    "Heard GA",
+    "Henry AL",
+    "Henry GA",
+    "Holmes FL",
+    "Houston AL",
+    "Houston GA",
+    "Jackson FL",
+    "Jackson GA",
+    "Jasper GA",
+    "Jefferson FL",
+    "Jones GA",
+    "Lamar GA",
+    "Lee AL",
+    "Lee GA",
+    "Leon FL",
+    "Liberty FL",
+    "Lumpkin GA",
+    "Macon GA",
+    "Madison GA",
+    "Marion GA",
+    "Meriwether GA",
+    "Miller GA",
+    "Mitchell GA",
+    "Monroe GA",
+    "Morgan GA",
+    "Muscogee GA",
+    "Newton GA",
+    "Oconee GA",
+    "Paulding GA",
+    "Peach GA",
+    "Pickens GA",
+    "Pike GA",
+    "Polk GA",
+    "Putnam GA",
+    "Quitman GA",
+    "Randolph AL",
+    "Randolph GA",
+    "Rockdale GA",
+    "Russell AL",
+    "Schley GA",
+    "Seminole GA",
+    "Spalding GA",
+    "Stewart GA",
+    "Sumter GA",
+    "Talbot GA",
+    "Taylor GA",
+    "Terrell GA",
+    "Thomas GA",
+    "Troup GA",
+    "Twiggs GA",
+    "Upson GA",
+    "Wakulla FL",
+    "Walton FL",
+    "Walton GA",
+    "Washington FL",
+    "Webster GA",
+    "White GA",
+    "Worth GA"
+   ]
+  },
+  {
+   "type": "TR.W",
+   "counties": [
+    "Abbeville SC",
+    "Anderson SC",
+    "Baldwin GA",
+    "Ben Hill GA",
+    "Berrien GA",
+    "Bleckley GA",
+    "Bullock AL",
+    "Calhoun AL",
+    "Catoosa GA",
+    "Chattooga GA",
+    "Cherokee AL",
+    "Clay AL",
+    "Coffee AL",
+    "Columbia GA",
+    "Cook GA",
+    "Coosa AL",
+    "Covington AL",
+    "Crenshaw AL",
+    "Dade GA",
+    "Dale AL",
+    "DeKalb AL",
+    "Dixie FL",
+    "Dodge GA",
+    "Echols GA",
+    "Elbert GA",
+    "Elmore AL",
+    "Escambia FL",
+    "Etowah AL",
+    "Fannin GA",
+    "Franklin GA",
+    "Geneva AL",
+    "Glascock GA",
+    "Greene GA",
+    "Greenville SC",
+    "Habersham GA",
+    "Hamilton FL",
+    "Hancock GA",
+    "Hart GA",
+    "Irwin GA",
+    "Jackson AL",
+    "Jefferson GA",
+    "Johnson GA",
+    "Lafayette FL",
+    "Lanier GA",
+    "Laurens GA",
+    "Lincoln GA",
+    "Lowndes GA",
+    "Macon AL",
+    "Madison FL",
+    "McDuffie GA",
+    "Montgomery AL",
+    "Murray GA",
+    "Oconee SC",
+    "Oglethorpe GA",
+    "Okaloosa FL",
+    "Pickens SC",
+    "Pike AL",
+    "Pulaski GA",
+    "Rabun GA",
+    "Richmond GA",
+    "Santa Rosa FL",
+    "Stephens GA",
+    "Suwannee FL",
+    "Taliaferro GA",
+    "Talladega AL",
+    "Tallapoosa AL",
+    "Taylor FL",
+    "Telfair GA",
+    "Tift GA",
+    "Towns GA",
+    "Treutlen GA",
+    "Turner GA",
+    "Union GA",
+    "Walker GA",
+    "Warren GA",
+    "Washington GA",
+    "Wheeler GA",
+    "Whitfield GA",
+    "Wilcox GA",
+    "Wilkes GA",
+    "Wilkinson GA"
+   ]
+  }
+ ],
+ "cone": {
+  "_doc": "Radii in nautical miles by forecast hour. ILLUSTRATIVE values in the spirit of NHC's 2-in-3 track-error circles; edit freely.",
+  "illustrative": true,
+  "radii_nmi": {
+   "0": 10,
+   "12": 26,
+   "24": 39,
+   "36": 52,
+   "48": 67,
+   "60": 83,
+   "72": 100,
+   "96": 142,
+   "120": 213
+  },
+  "extent": [
+   -92.5,
+   -72.0,
+   23.3,
+   43.2
+  ],
+  "show_inland": true,
+  "output": "AL072027_WEST_5day_cone_adv18.png",
+  "cities": [
+   [
+    "Atlanta",
+    33.749,
+    -84.388
+   ],
+   [
+    "Tallahassee",
+    30.438,
+    -84.281
+   ],
+   [
+    "Tampa",
+    27.95,
+    -82.46
+   ],
+   [
+    "Macon",
+    32.841,
+    -83.632
+   ],
+   [
+    "Augusta",
+    33.471,
+    -81.975
+   ],
+   [
+    "Athens",
+    33.961,
+    -83.378
+   ],
+   [
+    "Savannah",
+    32.081,
+    -81.091
+   ],
+   [
+    "Knoxville",
+    35.961,
+    -83.921
+   ],
+   [
+    "Cincinnati",
+    39.103,
+    -84.512
+   ],
+   [
+    "Cleveland",
+    41.499,
+    -81.694
+   ],
+   [
+    "Nashville",
+    36.163,
+    -86.781
+   ],
+   [
+    "Charlotte",
+    35.227,
+    -80.843
+   ],
+   [
+    "Greenville",
+    34.853,
+    -82.394
+   ],
+   [
+    "Jacksonville",
+    30.332,
+    -81.656
+   ],
+   [
+    "New Orleans",
+    29.95,
+    -90.07
+   ],
+   [
+    "Birmingham",
+    33.519,
+    -86.81
+   ],
+   [
+    "Columbus",
+    32.461,
+    -84.988
+   ],
+   [
+    "Montgomery",
+    32.377,
+    -86.3
+   ],
+   [
+    "Panama City",
+    30.159,
+    -85.66
+   ]
+  ]
+ },
+ "text": {
+  "headlines": [
+   "DELPHINE ACCELERATING RAPIDLY TOWARD THE FLORIDA PANHANDLE...EXPECTED TO MAKE LANDFALL AS A MAJOR HURRICANE THIS EVENING",
+   "CATASTROPHIC STORM SURGE WILL RISE VERY QUICKLY FROM MEXICO BEACH TO THE BIG BEND TONIGHT",
+   "DESTRUCTIVE HURRICANE-FORCE WINDS WILL SPREAD NORTH ALONG THE GEORGIA-ALABAMA LINE OVERNIGHT...WITH THE ATLANTA METRO AREA IN THE STRONGEST PART OF THE STORM"
+  ],
+  "track": "Delphine is expected to accelerate further tonight as it is captured by a strong mid-level trough over the lower Mississippi Valley, with forward speeds of 40 to 50 mph. On the forecast track, the center of Delphine will reach the Florida Panhandle coast near Mexico Beach between 8 and 9 PM EDT, then race northward near the Georgia-Alabama border overnight, passing near Columbus and LaGrange and about 40 miles west of downtown Atlanta around 2 AM EDT Saturday. Delphine is expected to turn north and slow down as it merges with the trough over the Ohio Valley Saturday and Sunday.",
+  "intensity_extra": "Little change in strength is expected before landfall. Because of Delphine's extremely fast forward speed, only gradual weakening is expected as it moves across Georgia tonight, and it is forecast to still be a hurricane when it reaches the Atlanta area. Delphine is forecast to become a powerful post-tropical cyclone over the southern Appalachians Saturday morning as it merges with the trough. Its wind field will expand, and damaging winds will extend far from the center through the weekend.",
+  "watch_extra": "Hurricane and Tropical Storm Warnings are in effect well inland from local National Weather Service offices, including the Atlanta, Columbus, and Macon metropolitan areas and portions of east Alabama. Because of Delphine's speed, conditions will deteriorate very rapidly tonight. Preparations should be rushed to completion early this evening. For storm information specific to your area, please monitor products issued by your local National Weather Service forecast office.",
+  "hazards": [
+   [
+    "STORM SURGE",
+    "The combination of a dangerous storm surge and the tide will cause normally dry areas near the coast to be flooded by rising waters moving inland from the shoreline. Because of Delphine's fast motion, the water will rise very rapidly, in some places by several feet in less than an hour. The water could reach the following heights above ground somewhere in the indicated areas if the peak surge occurs at the time of high tide...",
+    "  - Mexico Beach to Ochlockonee River, FL, including Apalachicola...14-20 ft",
+    "  - Ochlockonee River to Suwannee River, FL...10-15 ft",
+    "  - Suwannee River to Anclote River, FL...5-8 ft",
+    "  - Walton/Bay County Line to Mexico Beach, FL, including Panama City...6-10 ft",
+    "  - Okaloosa/Walton County Line to Walton/Bay County Line, FL...3-5 ft"
+   ],
+   [
+    "WIND",
+    "Hurricane conditions are expected within the Hurricane Warning area along the coast this evening. Destructive hurricane-force winds will spread north overnight along and east of the Georgia-Alabama border, including Columbus, LaGrange, and the entire Atlanta metropolitan area, which will be in the dangerous right-front quadrant of the storm. Gusts of 100 to 120 mph are possible from Columbus to Atlanta and Gainesville. After two days of heavy rain, soils are saturated across north Georgia, so widespread tree falls, structural damage, and power outages lasting days to weeks are expected. Many of these winds will occur in the middle of the night. Residents should be in their safe place, away from trees and windows, before winds increase this evening."
+   ],
+   [
+    "RAINFALL",
+    "A predecessor rain event has already produced 6 to 12 inches of rain across north Georgia since Wednesday, including about 10 inches at Atlanta Hartsfield-Jackson International Airport. Delphine will produce an additional 3 to 6 inches of rain, with isolated totals near 8 inches, across Georgia, the western Carolinas, and the southern Appalachians through Saturday. On top of saturated ground and running-high streams, this will cause considerable to catastrophic flash and urban flooding and significant to major river flooding. Landslides are possible in the southern Appalachians."
+   ],
+   [
+    "TORNADOES",
+    "Several tornadoes are possible tonight and early Saturday across the eastern Florida Panhandle, north Florida, Georgia, and South Carolina. These tornadoes will be moving very quickly and will be wrapped in rain, in many cases overnight."
+   ],
+   [
+    "SURF",
+    "Swells generated by Delphine are affecting much of the Gulf Coast and the west coast of Florida. These swells are likely to cause life-threatening surf and rip current conditions."
+   ]
+  ]
+ },
+ "_scenario": "Alternate 'fast + west' Delphine: Mexico Beach landfall, center up the GA-AL line ~40 mi west of Atlanta, metro in the right-front quadrant."
+}

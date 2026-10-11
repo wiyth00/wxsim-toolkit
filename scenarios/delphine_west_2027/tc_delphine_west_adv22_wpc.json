@@ -1,0 +1,367 @@
+{
+ "_doc": "One NHC advisory for one storm. Times are UTC ('YYYY-MM-DDTHH:MMZ'). past_track rows = [time, lat, lon, vmax_kt, mslp_mb, status]. forecast: tau 0 = advisory time; other taus count from the synoptic hour (advisory time rounded down to 00/06/12/18Z), like NHC. status: TD/TS/HU/MH (tropical), PT (post-tropical), LO (remnant low), DS (dissipated; no position). radii (nmi by quadrant) keyed '34','50','64', optional '12ft' seas (tau 0 only). coastal_ww segments run breakpoint-to-breakpoint using names in data/tc_breakpoints.json; types HU.W, HU.A, TR.W, TR.A. inland_ww are county lists ('Name ST') drawn as shaded counties (optional; set cone.show_inland false for a pure NHC look). cone.radii_nmi is ILLUSTRATIVE and configurable, not an official NHC table. text = hand-written narrative pieces for the TCP/TCM.",
+ "name": "Delphine",
+ "number": 7,
+ "basin": "AL",
+ "year": 2027,
+ "wmo_slot": 2,
+ "tz": {
+  "offset_h": -4,
+  "name": "EDT"
+ },
+ "advisory": {
+  "number": "22",
+  "time": "2027-09-25T21:00Z",
+  "center": "WPC",
+  "next_complete": "2027-09-26T03:00Z",
+  "forecaster": "Kowalski",
+  "position_accuracy_nmi": 30,
+  "motion": {
+   "dir_deg": 10,
+   "kt": 12
+  }
+ },
+ "reference_points": [
+  [
+   "Lexington",
+   "Kentucky",
+   38.04,
+   -84.5
+  ],
+  [
+   "Cincinnati",
+   "Ohio",
+   39.1,
+   -84.51
+  ],
+  [
+   "Louisville",
+   "Kentucky",
+   38.25,
+   -85.76
+  ]
+ ],
+ "past_track": [
+  [
+   "2027-09-22T18:00Z",
+   18.6,
+   -87.5,
+   45,
+   996,
+   "TS"
+  ],
+  [
+   "2027-09-23T00:00Z",
+   19.3,
+   -87.6,
+   50,
+   993,
+   "TS"
+  ],
+  [
+   "2027-09-23T06:00Z",
+   20.0,
+   -87.7,
+   55,
+   990,
+   "TS"
+  ],
+  [
+   "2027-09-23T12:00Z",
+   20.8,
+   -87.7,
+   65,
+   985,
+   "HU"
+  ],
+  [
+   "2027-09-23T18:00Z",
+   21.7,
+   -87.6,
+   75,
+   978,
+   "HU"
+  ],
+  [
+   "2027-09-24T00:00Z",
+   22.7,
+   -87.4,
+   85,
+   970,
+   "HU"
+  ],
+  [
+   "2027-09-24T06:00Z",
+   23.8,
+   -87.2,
+   95,
+   962,
+   "HU"
+  ],
+  [
+   "2027-09-24T12:00Z",
+   25.0,
+   -86.8,
+   105,
+   955,
+   "MH"
+  ],
+  [
+   "2027-09-24T18:00Z",
+   26.3,
+   -86.5,
+   105,
+   954,
+   "MH"
+  ],
+  [
+   "2027-09-25T00:00Z",
+   29.6,
+   -85.9,
+   100,
+   958,
+   "MH"
+  ],
+  [
+   "2027-09-25T06:00Z",
+   34.3,
+   -85.15,
+   80,
+   970,
+   "HU"
+  ],
+  [
+   "2027-09-25T12:00Z",
+   36.2,
+   -84.9,
+   60,
+   976,
+   "PT"
+  ],
+  [
+   "2027-09-25T18:00Z",
+   38.0,
+   -84.6,
+   50,
+   980,
+   "PT"
+  ]
+ ],
+ "forecast": [
+  {
+   "tau": 0,
+   "lat": 38.5,
+   "lon": -84.45,
+   "vmax_kt": 45,
+   "gust_kt": 60,
+   "status": "PT",
+   "mslp": 983,
+   "inland": true,
+   "radii": {
+    "34": {
+     "NE": 240,
+     "SE": 220,
+     "SW": 0,
+     "NW": 90
+    }
+   }
+  },
+  {
+   "tau": 12,
+   "lat": 40.1,
+   "lon": -83.9,
+   "vmax_kt": 40,
+   "gust_kt": 55,
+   "status": "PT",
+   "inland": true
+  },
+  {
+   "tau": 24,
+   "lat": 41.5,
+   "lon": -82.8,
+   "vmax_kt": 35,
+   "gust_kt": 45,
+   "status": "PT",
+   "inland": true
+  },
+  {
+   "tau": 36,
+   "status": "DS",
+   "note": "ABSORBED BY LARGER EXTRATROPICAL LOW"
+  }
+ ],
+ "coastal_ww": [],
+ "changes": [
+  "All Hurricane and Tropical Storm Warnings have been discontinued."
+ ],
+ "inland_ww": [],
+ "cone": {
+  "_doc": "Radii in nautical miles by forecast hour. ILLUSTRATIVE values in the spirit of NHC's 2-in-3 track-error circles; edit freely.",
+  "illustrative": true,
+  "radii_nmi": {
+   "0": 10,
+   "12": 26,
+   "24": 39,
+   "36": 52,
+   "48": 67,
+   "60": 83,
+   "72": 100,
+   "96": 142,
+   "120": 213
+  },
+  "extent": [
+   -92.5,
+   -72.0,
+   23.3,
+   43.2
+  ],
+  "show_inland": true,
+  "output": "(not drawn for WPC advisories)",
+  "cities": [
+   [
+    "Atlanta",
+    33.749,
+    -84.388
+   ],
+   [
+    "Tallahassee",
+    30.438,
+    -84.281
+   ],
+   [
+    "Tampa",
+    27.95,
+    -82.46
+   ],
+   [
+    "Macon",
+    32.841,
+    -83.632
+   ],
+   [
+    "Augusta",
+    33.471,
+    -81.975
+   ],
+   [
+    "Athens",
+    33.961,
+    -83.378
+   ],
+   [
+    "Savannah",
+    32.081,
+    -81.091
+   ],
+   [
+    "Knoxville",
+    35.961,
+    -83.921
+   ],
+   [
+    "Cincinnati",
+    39.103,
+    -84.512
+   ],
+   [
+    "Cleveland",
+    41.499,
+    -81.694
+   ],
+   [
+    "Nashville",
+    36.163,
+    -86.781
+   ],
+   [
+    "Charlotte",
+    35.227,
+    -80.843
+   ],
+   [
+    "Greenville",
+    34.853,
+    -82.394
+   ],
+   [
+    "Jacksonville",
+    30.332,
+    -81.656
+   ],
+   [
+    "New Orleans",
+    29.95,
+    -90.07
+   ],
+   [
+    "Birmingham",
+    33.519,
+    -86.81
+   ],
+   [
+    "Columbus",
+    32.461,
+    -84.988
+   ],
+   [
+    "Montgomery",
+    32.377,
+    -86.3
+   ],
+   [
+    "Panama City",
+    30.159,
+    -85.66
+   ]
+  ]
+ },
+ "text": {
+  "headlines": [
+   "DELPHINE MOVING INTO THE OHIO VALLEY AS A POWERFUL POST-TROPICAL CYCLONE",
+   "CATASTROPHIC FLOODING CONTINUES ACROSS NORTH GEORGIA...WITH MAJOR RIVER FLOODING EXPECTED INTO NEXT WEEK",
+   "DAMAGING WIND GUSTS CONTINUE ACROSS KENTUCKY...SOUTHERN OHIO...AND WEST VIRGINIA TONIGHT"
+  ],
+  "track": "A turn toward the north-northeast with a gradual decrease in forward speed is expected tonight and Sunday as Delphine merges with the parent trough. On the forecast track, the center will move across eastern Kentucky and southern Ohio tonight and reach the vicinity of Lake Erie Sunday afternoon, where it is expected to be absorbed by a larger extratropical low.",
+  "intensity_extra": "Gradual weakening is expected, but strong winds will continue well to the east of the center through Sunday.",
+  "watch_extra": "Wind Advisories and High Wind Warnings are in effect for portions of the Ohio Valley and central Appalachians, and Flood Watches and Flash Flood Warnings remain in effect across much of Georgia, the western Carolinas, eastern Tennessee, and Kentucky. For details, please monitor products issued by your local National Weather Service forecast office.",
+  "hazards": [
+   [
+    "RAINFALL",
+    "Delphine is expected to produce an additional 1 to 3 inches of rain, with isolated totals near 5 inches, across eastern Kentucky, southern Ohio, and western West Virginia through Sunday. Considerable flash flooding is possible in steep terrain. Catastrophic flash flooding and major to record river flooding are ongoing across north Georgia, where storm totals including the predecessor rain event have reached 10 to 20 inches. Rivers including the Chattahoochee, Etowah, and Oostanaula will continue rising into early next week."
+   ],
+   [
+    "WIND",
+    "Wind gusts of 45 to 60 mph are expected tonight across eastern Kentucky, southern Ohio, and western West Virginia, especially on ridgetops. Widespread wind damage and power outages from last night's hurricane-force winds are being reported across Georgia, including the Atlanta metropolitan area."
+   ],
+   [
+    "TORNADOES",
+    "A couple of tornadoes are possible this evening across eastern Kentucky and western West Virginia."
+   ]
+  ],
+  "rain_reports": {
+   "rain_config": "qpf_delphine_west.json",
+   "states": [
+    "GA",
+    "AL",
+    "TN",
+    "NC",
+    "SC",
+    "FL"
+   ],
+   "n_per_state": 5,
+   "force": [
+    "Atlanta GA"
+   ],
+   "state_names": {
+    "GA": "Georgia",
+    "AL": "Alabama",
+    "TN": "Tennessee",
+    "NC": "North Carolina",
+    "SC": "South Carolina",
+    "FL": "Florida"
+   },
+   "intro": "The following are selected storm total rainfall amounts in inches from Wednesday through 5 PM EDT Saturday, including the predecessor rain event..."
+  }
+ },
+ "_scenario": "Alternate 'fast + west' Delphine: Mexico Beach landfall, center up the GA-AL line ~40 mi west of Atlanta, metro in the right-front quadrant."
+}

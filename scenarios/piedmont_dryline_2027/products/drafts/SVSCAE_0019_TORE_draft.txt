@@ -1,0 +1,50 @@
+000
+WWUS52 KCAE 172306
+SVSCAE
+
+Severe Weather Statement
+National Weather Service Columbia SC
+706 PM EDT Sat Apr 17 2027
+
+SCC003-037-063-075-172345-
+/O.CON.KCAE.TO.W.0019.000000T0000Z-270417T2345Z/
+
+Aiken SC-Edgefield SC-Lexington SC-Orangeburg SC-
+706 PM EDT Sat Apr 17 2027
+
+...TORNADO EMERGENCY FOR AIKEN, GRANITEVILLE AND WAGENER...
+
+...A TORNADO WARNING REMAINS IN EFFECT UNTIL 745 PM EDT FOR NORTHERN AIKEN...SOUTHEASTERN EDGEFIELD...SOUTHWESTERN LEXINGTON AND NORTHWESTERN ORANGEBURG COUNTIES...
+
+At 705 PM EDT, a confirmed large and extremely dangerous tornado was located over Graniteville, or 4 miles west of Aiken, moving east at 45 mph.
+
+TORNADO EMERGENCY for Aiken, Graniteville and Wagener. This is a PARTICULARLY DANGEROUS SITUATION. TAKE COVER NOW!
+
+HAZARD...Deadly tornado and tennis ball size hail.
+
+SOURCE...Emergency management and storm spotters confirmed a large, violent tornado. Radar shows a tornado debris signature with debris lofted above 20,000 feet.
+
+IMPACT...You are in a life-threatening situation. Flying debris may be deadly to those caught without shelter. Mobile homes will be destroyed. Considerable damage to homes, businesses, and vehicles is likely and complete destruction is possible.
+
+* The tornado will be near...
+  Aiken around 710 PM EDT.
+  Wagener around 740 PM EDT.
+
+Other locations in the path of this tornado include Montmorenci and Salley.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+To repeat, a large, extremely dangerous and potentially deadly tornado is on the ground. To protect your life, TAKE COVER NOW! Move to a basement or an interior room on the lowest floor of a sturdy building. Avoid windows. If you are outdoors, in a mobile home, or in a vehicle, move to the closest substantial shelter and protect yourself from flying debris.
+
+&&
+
+LAT...LON 3364 8200 3379 8117 3353 8115 3347 8198
+TIME...MOT...LOC 2306Z 261DEG 39KT 3357 8179
+
+TORNADO...OBSERVED
+TORNADO DAMAGE THREAT...CATASTROPHIC
+MAX HAIL SIZE...2.50 IN
+
+$$
+
+Whitfield

@@ -1,0 +1,568 @@
+{
+ "_doc": "One NHC advisory for one storm. Times are UTC ('YYYY-MM-DDTHH:MMZ'). past_track rows = [time, lat, lon, vmax_kt, mslp_mb, status]. forecast: tau 0 = advisory time; other taus count from the synoptic hour (advisory time rounded down to 00/06/12/18Z), like NHC. status: TD/TS/HU/MH (tropical), PT (post-tropical), LO (remnant low), DS (dissipated; no position). radii (nmi by quadrant) keyed '34','50','64', optional '12ft' seas (tau 0 only). coastal_ww segments run breakpoint-to-breakpoint using names in data/tc_breakpoints.json; types HU.W, HU.A, TR.W, TR.A. inland_ww are county lists ('Name ST') drawn as shaded counties (optional; set cone.show_inland false for a pure NHC look). cone.radii_nmi is ILLUSTRATIVE and configurable, not an official NHC table. text = hand-written narrative pieces for the TCP/TCM.",
+ "name": "Delphine",
+ "number": 7,
+ "basin": "AL",
+ "year": 2027,
+ "wmo_slot": 2,
+ "tz": {
+  "offset_h": -4,
+  "name": "EDT"
+ },
+ "advisory": {
+  "number": "18",
+  "time": "2027-09-24T21:00Z",
+  "next_intermediate": "2027-09-25T00:00Z",
+  "next_complete": "2027-09-25T03:00Z",
+  "forecaster": "Delgado/Park",
+  "eye_diameter_nmi": 20,
+  "position_accuracy_nmi": 15,
+  "motion": {
+   "dir_deg": 20,
+   "kt": 10
+  }
+ },
+ "reference_points": [
+  [
+   "Apalachicola",
+   "Florida",
+   29.726,
+   -84.983
+  ],
+  [
+   "Tampa",
+   "Florida",
+   27.95,
+   -82.46
+  ],
+  [
+   "Cedar Key",
+   "Florida",
+   29.138,
+   -83.035
+  ],
+  [
+   "Atlanta",
+   "Georgia",
+   33.749,
+   -84.388
+  ]
+ ],
+ "past_track": [
+  [
+   "2027-09-22T18:00Z",
+   19.8,
+   -86.3,
+   45,
+   996,
+   "TS"
+  ],
+  [
+   "2027-09-23T00:00Z",
+   20.6,
+   -86.4,
+   50,
+   993,
+   "TS"
+  ],
+  [
+   "2027-09-23T06:00Z",
+   21.4,
+   -86.5,
+   55,
+   990,
+   "TS"
+  ],
+  [
+   "2027-09-23T12:00Z",
+   22.2,
+   -86.5,
+   65,
+   985,
+   "HU"
+  ],
+  [
+   "2027-09-23T18:00Z",
+   23.0,
+   -86.4,
+   75,
+   978,
+   "HU"
+  ],
+  [
+   "2027-09-24T00:00Z",
+   23.8,
+   -86.2,
+   85,
+   970,
+   "HU"
+  ],
+  [
+   "2027-09-24T06:00Z",
+   24.5,
+   -86.0,
+   95,
+   962,
+   "HU"
+  ],
+  [
+   "2027-09-24T12:00Z",
+   25.2,
+   -85.8,
+   105,
+   953,
+   "MH"
+  ],
+  [
+   "2027-09-24T18:00Z",
+   25.9,
+   -85.6,
+   110,
+   948,
+   "MH"
+  ]
+ ],
+ "forecast": [
+  {
+   "tau": 0,
+   "lat": 26.4,
+   "lon": -85.4,
+   "vmax_kt": 115,
+   "gust_kt": 140,
+   "status": "MH",
+   "mslp": 944,
+   "radii": {
+    "64": {
+     "NE": 60,
+     "SE": 55,
+     "SW": 35,
+     "NW": 45
+    },
+    "50": {
+     "NE": 110,
+     "SE": 100,
+     "SW": 60,
+     "NW": 80
+    },
+    "34": {
+     "NE": 200,
+     "SE": 180,
+     "SW": 110,
+     "NW": 140
+    },
+    "12ft": {
+     "NE": 300,
+     "SE": 270,
+     "SW": 180,
+     "NW": 240
+    }
+   }
+  },
+  {
+   "tau": 12,
+   "lat": 28.9,
+   "lon": -84.4,
+   "vmax_kt": 130,
+   "gust_kt": 160,
+   "status": "MH",
+   "radii": {
+    "64": {
+     "NE": 60,
+     "SE": 55,
+     "SW": 35,
+     "NW": 45
+    },
+    "50": {
+     "NE": 120,
+     "SE": 110,
+     "SW": 60,
+     "NW": 80
+    },
+    "34": {
+     "NE": 210,
+     "SE": 200,
+     "SW": 120,
+     "NW": 150
+    }
+   }
+  },
+  {
+   "tau": 24,
+   "lat": 33.5,
+   "lon": -84.4,
+   "vmax_kt": 65,
+   "gust_kt": 85,
+   "status": "HU",
+   "inland": true,
+   "radii": {
+    "64": {
+     "NE": 40,
+     "SE": 40,
+     "SW": 0,
+     "NW": 0
+    },
+    "50": {
+     "NE": 90,
+     "SE": 90,
+     "SW": 40,
+     "NW": 40
+    },
+    "34": {
+     "NE": 200,
+     "SE": 200,
+     "SW": 100,
+     "NW": 110
+    }
+   }
+  },
+  {
+   "tau": 36,
+   "lat": 36.6,
+   "lon": -84.0,
+   "vmax_kt": 40,
+   "gust_kt": 55,
+   "status": "PT",
+   "inland": true,
+   "radii": {
+    "34": {
+     "NE": 150,
+     "SE": 160,
+     "SW": 60,
+     "NW": 80
+    }
+   }
+  },
+  {
+   "tau": 48,
+   "lat": 38.0,
+   "lon": -84.6,
+   "vmax_kt": 30,
+   "gust_kt": 40,
+   "status": "PT",
+   "inland": true
+  },
+  {
+   "tau": 60,
+   "lat": 38.4,
+   "lon": -85.4,
+   "vmax_kt": 25,
+   "gust_kt": 35,
+   "status": "PT",
+   "inland": true
+  },
+  {
+   "tau": 72,
+   "lat": 38.5,
+   "lon": -85.9,
+   "vmax_kt": 20,
+   "gust_kt": 30,
+   "status": "PT",
+   "inland": true
+  },
+  {
+   "tau": 96,
+   "lat": 38.2,
+   "lon": -85.6,
+   "vmax_kt": 15,
+   "gust_kt": 25,
+   "status": "LO",
+   "inland": true
+  },
+  {
+   "tau": 120,
+   "status": "DS"
+  }
+ ],
+ "coastal_ww": [
+  {
+   "type": "HU.W",
+   "from": "Indian Pass",
+   "to": "Anclote River"
+  },
+  {
+   "type": "TR.W",
+   "from": "Walton/Bay County Line",
+   "to": "Indian Pass"
+  },
+  {
+   "type": "HU.A",
+   "from": "Anclote River",
+   "to": "Middle of Longboat Key"
+  },
+  {
+   "type": "TR.W",
+   "from": "Middle of Longboat Key",
+   "to": "Bonita Beach"
+  },
+  {
+   "type": "TR.A",
+   "from": "Bonita Beach",
+   "to": "East Cape Sable"
+  },
+  {
+   "type": "TR.W",
+   "from": "Flagler/Volusia County Line",
+   "to": "Edisto Beach"
+  },
+  {
+   "type": "TR.A",
+   "from": "Edisto Beach",
+   "to": "South Santee River"
+  }
+ ],
+ "changes": [
+  "The Tropical Storm Watch from the Flagler/Volusia County Line to Edisto Beach has been upgraded to a Tropical Storm Warning.",
+  "A Tropical Storm Watch has been issued from Edisto Beach to the South Santee River."
+ ],
+ "inland_ww": [
+  {
+   "type": "HU.W",
+   "counties": [
+    "Leon FL",
+    "Jefferson FL",
+    "Madison FL",
+    "Gadsden FL",
+    "Thomas GA",
+    "Grady GA",
+    "Brooks GA",
+    "Colquitt GA",
+    "Mitchell GA",
+    "Decatur GA",
+    "Baker GA",
+    "Dougherty GA",
+    "Worth GA",
+    "Lee GA",
+    "Terrell GA",
+    "Sumter GA",
+    "Crisp GA",
+    "Dooly GA",
+    "Schley GA",
+    "Macon GA",
+    "Marion GA",
+    "Taylor GA",
+    "Upson GA",
+    "Crawford GA",
+    "Peach GA",
+    "Houston GA",
+    "Bibb GA",
+    "Twiggs GA",
+    "Jones GA",
+    "Monroe GA",
+    "Lamar GA",
+    "Pike GA",
+    "Spalding GA",
+    "Butts GA",
+    "Henry GA",
+    "Fayette GA",
+    "Clayton GA",
+    "Coweta GA",
+    "Fulton GA",
+    "DeKalb GA",
+    "Rockdale GA",
+    "Newton GA",
+    "Cobb GA",
+    "Gwinnett GA",
+    "Douglas GA"
+   ]
+  },
+  {
+   "type": "TR.W",
+   "counties": [
+    "Jackson FL",
+    "Calhoun FL",
+    "Liberty FL",
+    "Hamilton FL",
+    "Suwannee FL",
+    "Lafayette FL",
+    "Lowndes GA",
+    "Cook GA",
+    "Tift GA",
+    "Turner GA",
+    "Irwin GA",
+    "Ben Hill GA",
+    "Wilcox GA",
+    "Pulaski GA",
+    "Bleckley GA",
+    "Laurens GA",
+    "Wilkinson GA",
+    "Baldwin GA",
+    "Putnam GA",
+    "Jasper GA",
+    "Morgan GA",
+    "Walton GA",
+    "Barrow GA",
+    "Jackson GA",
+    "Hall GA",
+    "Forsyth GA",
+    "Cherokee GA",
+    "Bartow GA",
+    "Paulding GA",
+    "Carroll GA",
+    "Heard GA",
+    "Troup GA",
+    "Meriwether GA",
+    "Talbot GA",
+    "Harris GA",
+    "Muscogee GA",
+    "Chattahoochee GA",
+    "Stewart GA",
+    "Webster GA",
+    "Randolph GA",
+    "Calhoun GA",
+    "Early GA",
+    "Miller GA",
+    "Seminole GA",
+    "Clay GA",
+    "Quitman GA",
+    "Berrien GA",
+    "Lanier GA",
+    "Echols GA",
+    "Atkinson GA",
+    "Coffee GA",
+    "Telfair GA",
+    "Dodge GA",
+    "Clarke GA",
+    "Oconee GA",
+    "Oglethorpe GA",
+    "Greene GA",
+    "Madison GA",
+    "Dawson GA",
+    "Pickens GA",
+    "Gordon GA",
+    "Floyd GA",
+    "Polk GA",
+    "Haralson GA"
+   ]
+  }
+ ],
+ "cone": {
+  "_doc": "Radii in nautical miles by forecast hour. ILLUSTRATIVE values in the spirit of NHC's 2-in-3 track-error circles; edit freely.",
+  "illustrative": true,
+  "radii_nmi": {
+   "0": 10,
+   "12": 26,
+   "24": 39,
+   "36": 52,
+   "48": 67,
+   "60": 83,
+   "72": 100,
+   "96": 142,
+   "120": 213
+  },
+  "extent": [
+   -92.5,
+   -72.0,
+   23.3,
+   40.2
+  ],
+  "show_inland": true,
+  "output": "AL072027_5day_cone_adv18.png",
+  "cities": [
+   [
+    "Atlanta",
+    33.749,
+    -84.388
+   ],
+   [
+    "Tallahassee",
+    30.438,
+    -84.281
+   ],
+   [
+    "Tampa",
+    27.95,
+    -82.46
+   ],
+   [
+    "Macon",
+    32.841,
+    -83.632
+   ],
+   [
+    "Albany",
+    31.578,
+    -84.156
+   ],
+   [
+    "Savannah",
+    32.081,
+    -81.091
+   ],
+   [
+    "New Orleans",
+    29.95,
+    -90.07
+   ],
+   [
+    "Nashville",
+    36.163,
+    -86.781
+   ],
+   [
+    "Louisville",
+    38.253,
+    -85.759
+   ],
+   [
+    "Charlotte",
+    35.227,
+    -80.843
+   ],
+   [
+    "Jacksonville",
+    30.332,
+    -81.656
+   ],
+   [
+    "Miami",
+    25.76,
+    -80.19
+   ],
+   [
+    "Birmingham",
+    33.519,
+    -86.81
+   ]
+  ]
+ },
+ "text": {
+  "headlines": [
+   "DELPHINE STRENGTHENING AND ACCELERATING TOWARD THE FLORIDA BIG BEND",
+   "CATASTROPHIC AND LIFE-THREATENING STORM SURGE EXPECTED ALONG THE BIG BEND COAST",
+   "DAMAGING HURRICANE-FORCE WINDS WILL SPREAD FAR INLAND ACROSS GEORGIA...INCLUDING THE ATLANTA METRO AREA"
+  ],
+  "track": "A turn toward the north with a significant increase in forward speed is expected tonight and Saturday. On the forecast track, the center of Delphine will reach the Florida Big Bend coast early Saturday morning, then move rapidly northward across southwestern and central Georgia Saturday, passing near or over the Atlanta metropolitan area Saturday afternoon. Delphine is then expected to slow down over the Tennessee and Ohio Valleys Sunday and Monday.",
+  "intensity_extra": "Additional strengthening is forecast before landfall, and Delphine is expected to be a dangerous major hurricane when it reaches the coast. Because of its fast forward motion, Delphine is expected to remain a hurricane well inland over Georgia, and it is forecast to become post-tropical over the southern Appalachians by Sunday morning.",
+  "watch_extra": "Hurricane and Tropical Storm Warnings have been issued well inland by local National Weather Service offices, including the Atlanta metropolitan area. For storm information specific to your area, including possible inland watches and warnings, please monitor products issued by your local National Weather Service forecast office.",
+  "hazards": [
+   [
+    "STORM SURGE",
+    "The combination of a dangerous storm surge and the tide will cause normally dry areas near the coast to be flooded by rising waters moving inland from the shoreline. The water could reach the following heights above ground somewhere in the indicated areas if the peak surge occurs at the time of high tide...",
+    "  - Carrabelle to Suwannee River, FL...15-20 ft",
+    "  - Ochlockonee River to Carrabelle, FL...10-15 ft",
+    "  - Suwannee River to Yankeetown, FL...10-15 ft",
+    "  - Yankeetown to Chassahowitzka, FL...7-11 ft",
+    "  - Chassahowitzka to Anclote River, FL...5-8 ft",
+    "  - Anclote River to Middle of Longboat Key, FL, including Tampa Bay...4-7 ft",
+    "  - Indian Pass to Carrabelle, FL...4-7 ft",
+    "The deepest water will occur along the immediate coast near and to the east of the landfall location, where the surge will be accompanied by large and destructive waves."
+   ],
+   [
+    "WIND",
+    "Hurricane conditions are expected within the Hurricane Warning area along the coast beginning late tonight, with tropical storm conditions arriving this evening. Because of Delphine's fast forward speed, damaging and life-threatening hurricane-force wind gusts will extend well inland over portions of north Florida and southern and central Georgia, including the Atlanta metropolitan area, Saturday. Widespread tree damage and prolonged power outages are likely. Tropical storm conditions are expected in the Tropical Storm Warning areas along the Florida, Georgia and South Carolina coasts Saturday."
+   ],
+   [
+    "RAINFALL",
+    "Delphine is expected to produce rainfall totals of 5 to 10 inches with isolated totals around 15 inches across the Florida Big Bend, Georgia, and the southern Appalachians through Sunday. This rainfall will likely result in considerable and potentially catastrophic flash and urban flooding, with significant river flooding likely. Numerous landslides are possible in the steep terrain of the southern Appalachians."
+   ],
+   [
+    "TORNADOES",
+    "A few tornadoes are possible tonight and Saturday across the Florida Peninsula, southern and eastern Georgia, and South Carolina."
+   ],
+   [
+    "SURF",
+    "Swells generated by Delphine are affecting much of the Gulf Coast and will spread across the Florida Peninsula coast during the next day or so. These swells are likely to cause life-threatening surf and rip current conditions. Please consult products from your local weather office."
+   ]
+  ]
+ }
+}

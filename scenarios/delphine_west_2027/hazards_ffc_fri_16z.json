@@ -1,0 +1,253 @@
+{
+ "_doc": "NWS-style hazards map. county_hazards: from_tc_file pulls a tc_*.json's inland_ww; style 'hatch' draws an overlay (so a Flood Watch shows under hurricane warnings); pds adds PDS labeling. Flash Flood Warnings with emergency: true are Flash Flood Emergencies (pds optional).",
+ "scenario_label": "SIMULATED",
+ "extent": [
+  -86.05,
+  -81.95,
+  31.55,
+  35.1
+ ],
+ "tz": {
+  "offset_h": -4,
+  "name": "EDT"
+ },
+ "watches": [],
+ "county_hazards": [
+  {
+   "from_tc_file": "tc_delphine_west_adv18.json"
+  },
+  {
+   "type": "Flood Watch",
+   "style": "hatch",
+   "pds": true,
+   "counties": [
+    "Baldwin GA",
+    "Banks GA",
+    "Barrow GA",
+    "Bartow GA",
+    "Bibb GA",
+    "Bleckley GA",
+    "Butts GA",
+    "Carroll GA",
+    "Catoosa GA",
+    "Chattahoochee GA",
+    "Chattooga GA",
+    "Cherokee GA",
+    "Clarke GA",
+    "Clayton GA",
+    "Cobb GA",
+    "Coweta GA",
+    "Crawford GA",
+    "Crisp GA",
+    "Dade GA",
+    "Dawson GA",
+    "DeKalb GA",
+    "Dodge GA",
+    "Dooly GA",
+    "Douglas GA",
+    "Emanuel GA",
+    "Fannin GA",
+    "Fayette GA",
+    "Floyd GA",
+    "Forsyth GA",
+    "Fulton GA",
+    "Gilmer GA",
+    "Glascock GA",
+    "Gordon GA",
+    "Greene GA",
+    "Gwinnett GA",
+    "Hall GA",
+    "Hancock GA",
+    "Haralson GA",
+    "Harris GA",
+    "Heard GA",
+    "Henry GA",
+    "Houston GA",
+    "Jackson GA",
+    "Jasper GA",
+    "Johnson GA",
+    "Jones GA",
+    "Lamar GA",
+    "Laurens GA",
+    "Lumpkin GA",
+    "Macon GA",
+    "Madison GA",
+    "Marion GA",
+    "Meriwether GA",
+    "Monroe GA",
+    "Montgomery GA",
+    "Morgan GA",
+    "Murray GA",
+    "Muscogee GA",
+    "Newton GA",
+    "Oconee GA",
+    "Oglethorpe GA",
+    "Paulding GA",
+    "Peach GA",
+    "Pickens GA",
+    "Pike GA",
+    "Polk GA",
+    "Pulaski GA",
+    "Putnam GA",
+    "Rockdale GA",
+    "Schley GA",
+    "Spalding GA",
+    "Stewart GA",
+    "Sumter GA",
+    "Talbot GA",
+    "Taliaferro GA",
+    "Taylor GA",
+    "Telfair GA",
+    "Toombs GA",
+    "Towns GA",
+    "Treutlen GA",
+    "Troup GA",
+    "Twiggs GA",
+    "Union GA",
+    "Upson GA",
+    "Walker GA",
+    "Walton GA",
+    "Warren GA",
+    "Washington GA",
+    "Webster GA",
+    "Wheeler GA",
+    "White GA",
+    "Whitfield GA",
+    "Wilcox GA",
+    "Wilkes GA",
+    "Wilkinson GA"
+   ]
+  }
+ ],
+ "cities": [
+  [
+   "Atlanta",
+   33.749,
+   -84.388
+  ],
+  [
+   "Athens",
+   33.961,
+   -83.378
+  ],
+  [
+   "Macon",
+   32.841,
+   -83.632
+  ],
+  [
+   "Columbus",
+   32.461,
+   -84.988
+  ],
+  [
+   "Rome",
+   34.257,
+   -85.165
+  ],
+  [
+   "Gainesville",
+   34.298,
+   -83.824
+  ],
+  [
+   "LaGrange",
+   33.039,
+   -85.031
+  ],
+  [
+   "Carrollton",
+   33.58,
+   -85.077
+  ],
+  [
+   "Dalton",
+   34.77,
+   -84.97
+  ],
+  [
+   "Marietta",
+   33.953,
+   -84.55
+  ],
+  [
+   "Griffin",
+   33.247,
+   -84.264
+  ],
+  [
+   "Americus",
+   32.072,
+   -84.233
+  ],
+  [
+   "Dublin",
+   32.54,
+   -82.904
+  ]
+ ],
+ "title": "North and Central Georgia: Active Hazards",
+ "subtitle": "Hurricane Delphine approaching; PDS Flood Watch for the entire area",
+ "valid_time": "12:15 PM EDT Fri Sep 24 2027",
+ "output": "Hazards_FFC_2027092416.png",
+ "warnings": [
+  {
+   "type": "Flash Flood Warning",
+   "office": "NWS FFC",
+   "polygon": [
+    [
+     33.99,
+     -84.95
+    ],
+    [
+     34.02,
+     -84.55
+    ],
+    [
+     33.72,
+     -84.52
+    ],
+    [
+     33.66,
+     -84.93
+    ]
+   ],
+   "expires": "3:15 PM EDT",
+   "expire_ddhhmm": "241915",
+   "tags": {
+    "flood": "OBSERVED",
+    "damage": "CONSIDERABLE"
+   }
+  },
+  {
+   "type": "Flash Flood Warning",
+   "office": "NWS FFC",
+   "polygon": [
+    [
+     34.5,
+     -84.05
+    ],
+    [
+     34.47,
+     -83.62
+    ],
+    [
+     34.18,
+     -83.6
+    ],
+    [
+     34.17,
+     -84.02
+    ]
+   ],
+   "expires": "2:45 PM EDT",
+   "expire_ddhhmm": "241845",
+   "tags": {
+    "flood": "RADAR INDICATED"
+   }
+  }
+ ],
+ "colors": {
+  "Tropical Storm Warning": "#3a6fe0"
+ }
+}

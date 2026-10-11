@@ -1,0 +1,66 @@
+000
+WFUS52 KTAE 170540
+EWWTAE
+FLC029-065-067-079-123-GAC027-185-275-170800-
+/O.NEW.KTAE.EW.W.0001.261217T0540Z-261217T0800Z/
+
+BULLETIN - EAS ACTIVATION REQUESTED
+Extreme Wind Warning
+National Weather Service Tallahassee FL
+1240 AM EST Thu Dec 17 2026
+
+The National Weather Service in Tallahassee has issued a
+
+* Extreme Wind Warning for...
+  Dixie County in the Big Bend of Florida...
+  Jefferson County in the Big Bend of Florida...
+  Lafayette County in the Big Bend of Florida...
+  Madison County in the Big Bend of Florida...
+  Taylor County in the Big Bend of Florida...
+  Brooks County in south central Georgia...
+  Lowndes County in south central Georgia...
+  Thomas County in south central Georgia...
+
+* Until 300 AM EST.
+
+* At 1240 AM EST, the center of an extremely intense 941 mb low was
+  coming ashore near St. Marks, moving north-northeast at 25 mph.
+  Destructive winds on the east and southeast side of the center are
+  spreading inland across the eastern Big Bend and into south central
+  Georgia.
+
+  HAZARD...Extreme winds. Sustained winds of 80 to 90 mph with gusts
+    of 110 to 125 mph.
+
+  SOURCE...Surface observations and Doppler radar. A gust of 119 mph
+    was measured at Keaton Beach at 1218 AM EST, and Doppler radar
+    shows 110 to 120 mph winds less than 2000 feet above the ground.
+
+  IMPACT...Widespread destructive winds. Well-built homes will have
+    major roof damage, and some will lose exterior walls. Most trees
+    will be snapped or uprooted. Mobile homes will be destroyed.
+    Power and water will be out for weeks.
+
+* Locations impacted include...
+  Perry, Madison, Monticello, Quitman, Valdosta, Mayo, Steinhatchee,
+    Keaton Beach, Greenville, Lee, Boston, Pinetta, Lamont, and
+    Hahira.
+
+This is an extremely dangerous and life-threatening situation. Treat
+these imminent extreme winds as if a tornado was approaching and move
+immediately to the safe room in your shelter. Take action now to
+protect your life!
+
+This is the first Extreme Wind Warning ever issued for a non-tropical
+storm. The gusts are comparable to the strongest part of a
+landfalling hurricane. Take shelter now.
+
+&&
+
+LAT...LON 3008 8405 3060 8402 3095 8370 3095 8320
+      3062 8338 3025 8330 2962 8330 2985 8380
+TIME...MOT...LOC 0540Z 200DEG 22KT 3003 8424
+
+$$
+
+Okafor

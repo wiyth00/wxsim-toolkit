@@ -1,0 +1,274 @@
+{
+ "_doc": "Tornado Emergency snapshot (NWS Columbia SC area) for the generated seed-1 EF5 on storm G03. Watch 126 is an assumed later watch covering east-central GA and the SC Midlands (Aiken is not in WW 124). The warning is the original TOR polygon (issued 2252Z, radar indicated), upgraded to a TORNADO EMERGENCY by SVS at 2306Z; SVS upgrades keep the polygon.",
+ "title": "Tornado Emergency: Aiken, SC",
+ "subtitle": "Central Savannah River Area & SC Midlands",
+ "valid_time": "7:06 PM EDT Sat Apr 17 2027 (2306Z)",
+ "valid": "2027-04-17T23:06Z",
+ "tz": {
+  "offset_h": -4,
+  "name": "EDT"
+ },
+ "scenario_label": "SIMULATED \u2014 Piedmont Dryline Event (generated seed 1)",
+ "extent": [
+  -82.55,
+  -80.6,
+  32.95,
+  34.3
+ ],
+ "storms_file": "storms_gen_seed1_frozen.json",
+ "watches": [
+  {
+   "type": "Tornado Watch",
+   "counties": [
+    "Columbia GA",
+    "Richmond GA",
+    "McDuffie GA",
+    "Burke GA",
+    "Jefferson GA",
+    "Warren GA",
+    "Glascock GA",
+    "Lincoln GA",
+    "Wilkes GA",
+    "Aiken SC",
+    "Edgefield SC",
+    "Saluda SC",
+    "Lexington SC",
+    "Richland SC",
+    "Barnwell SC",
+    "Orangeburg SC",
+    "Calhoun SC",
+    "Newberry SC",
+    "Allendale SC",
+    "Bamberg SC",
+    "Kershaw SC",
+    "Fairfield SC",
+    "Sumter SC"
+   ]
+  }
+ ],
+ "warnings": [
+  {
+   "type": "Tornado Warning",
+   "office": "NWS CAE",
+   "storm_id": "G03",
+   "issue": "2027-04-17T22:52Z",
+   "expire": "2027-04-17T23:45Z",
+   "shape": {
+    "back_mi": 8,
+    "front_mi": 16
+   },
+   "emergency": true,
+   "tags": {
+    "tornado": "OBSERVED",
+    "damage": "CATASTROPHIC",
+    "hail": "2.50 IN"
+   },
+   "polygon": [
+    [
+     33.64,
+     -82.0
+    ],
+    [
+     33.79,
+     -81.17
+    ],
+    [
+     33.53,
+     -81.15
+    ],
+    [
+     33.47,
+     -81.98
+    ]
+   ],
+   "_polygon_doc": "hand-drawn along the mesocyclone track (Graniteville -> Aiken -> Wagener); all of Aiken inside",
+   "loc": "meso"
+  }
+ ],
+ "radar_underlay": {
+  "config": "radar_KCAE_2306z.json",
+  "product": "base",
+  "alpha": 0.8
+ },
+ "cities": [
+  [
+   "Augusta",
+   33.471,
+   -81.975
+  ],
+  [
+   "Aiken",
+   33.56,
+   -81.72
+  ],
+  [
+   "Wagener",
+   33.653,
+   -81.363
+  ],
+  [
+   "Edgefield",
+   33.79,
+   -81.93
+  ],
+  [
+   "Johnston",
+   33.832,
+   -81.801
+  ],
+  [
+   "Batesburg-Leesville",
+   33.91,
+   -81.535
+  ],
+  [
+   "Lexington",
+   33.981,
+   -81.236
+  ],
+  [
+   "Columbia",
+   34.001,
+   -81.035
+  ],
+  [
+   "Orangeburg",
+   33.497,
+   -80.855
+  ],
+  [
+   "Barnwell",
+   33.245,
+   -81.358
+  ],
+  [
+   "Williston",
+   33.403,
+   -81.42
+  ],
+  [
+   "Saluda",
+   34.001,
+   -81.772
+  ],
+  [
+   "Thomson",
+   33.471,
+   -82.504
+  ],
+  [
+   "Waynesboro",
+   33.09,
+   -82.016
+  ],
+  [
+   "New Ellenton",
+   33.421,
+   -81.686
+  ],
+  [
+   "Swansea",
+   33.738,
+   -81.1
+  ]
+ ],
+ "interstates": {
+  "I-20": [
+   [
+    -82.6,
+    33.5
+   ],
+   [
+    -81.97,
+    33.47
+   ],
+   [
+    -81.84,
+    33.57
+   ],
+   [
+    -81.62,
+    33.66
+   ],
+   [
+    -81.4,
+    33.8
+   ],
+   [
+    -81.25,
+    33.92
+   ],
+   [
+    -81.03,
+    34.0
+   ],
+   [
+    -80.3,
+    34.3
+   ]
+  ],
+  "I-26": [
+   [
+    -81.6,
+    34.3
+   ],
+   [
+    -81.25,
+    34.1
+   ],
+   [
+    -81.1,
+    34.02
+   ],
+   [
+    -80.98,
+    33.9
+   ],
+   [
+    -80.87,
+    33.72
+   ],
+   [
+    -80.78,
+    33.55
+   ],
+   [
+    -80.6,
+    33.35
+   ]
+  ],
+  "I-77": [
+   [
+    -81.03,
+    34.0
+   ],
+   [
+    -80.95,
+    34.3
+   ],
+   [
+    -80.9,
+    34.7
+   ]
+  ],
+  "I-520": [
+   [
+    -82.07,
+    33.43
+   ],
+   [
+    -81.99,
+    33.39
+   ],
+   [
+    -81.93,
+    33.45
+   ],
+   [
+    -81.95,
+    33.52
+   ]
+  ]
+ },
+ "output": "Hazards_TORE_CAE_2027041723.png"
+}

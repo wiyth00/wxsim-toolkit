@@ -1,0 +1,121 @@
+{
+ "_doc": "WPC Day 1 Excessive Rainfall Outlook (16Z update). Risk = smoothed window rain / FFG from qpf_apalachee.json. pre_in_window = share of the frontal bands falling in this window. No predecessor event, so antecedent_pre = 0.",
+ "rain_config": "qpf_apalachee.json",
+ "day": 1,
+ "valid": {
+  "start": "2026-12-16T16:00Z",
+  "end": "2026-12-17T12:00Z"
+ },
+ "issued_local": "1055 AM EST Wed Dec 16 2026",
+ "wmo_time": "161555",
+ "pre_in_window": 0.55,
+ "antecedent_pre": 0.0,
+ "ffg": {
+  "base": 3.0,
+  "min": 1.2,
+  "per_inch_antecedent": 0.3
+ },
+ "ratio_thresholds": {
+  "MRGL": 0.4,
+  "SLGT": 0.55,
+  "MDT": 0.85,
+  "HIGH": 1.6
+ },
+ "smooth": 5,
+ "extent": [
+  -89.0,
+  -78.0,
+  27.0,
+  35.5
+ ],
+ "county_extent": [
+  -86.5,
+  -80.5,
+  29.5,
+  33.5
+ ],
+ "cities": [
+  [
+   "Tallahassee",
+   30.438,
+   -84.281
+  ],
+  [
+   "Valdosta",
+   30.833,
+   -83.28
+  ],
+  [
+   "Albany",
+   31.578,
+   -84.156
+  ],
+  [
+   "Savannah",
+   32.081,
+   -81.091
+  ],
+  [
+   "Jacksonville",
+   30.332,
+   -81.656
+  ],
+  [
+   "Atlanta",
+   33.749,
+   -84.388
+  ],
+  [
+   "Macon",
+   32.841,
+   -83.632
+  ],
+  [
+   "Dothan",
+   31.223,
+   -85.39
+  ],
+  [
+   "Orlando",
+   28.538,
+   -81.379
+  ],
+  [
+   "Tampa",
+   27.95,
+   -82.458
+  ],
+  [
+   "Charleston",
+   32.776,
+   -79.931
+  ],
+  [
+   "Panama City",
+   30.159,
+   -85.66
+  ]
+ ],
+ "note": "SIMULATED. Risk areas derived from the scenario's rule-based rainfall field vs. simulated flash flood guidance.",
+ "output": "ERO_day1_apalachee_16z.png",
+ "text_output": "QPFERD_day1_2026121616.txt",
+ "text": {
+  "headlines": [
+   "THERE IS A MODERATE RISK OF EXCESSIVE RAINFALL ACROSS PORTIONS OF THE EASTERN FLORIDA PANHANDLE...THE BIG BEND...AND SOUTH GEORGIA TO NEAR SAVANNAH",
+   "THERE IS A SLIGHT RISK OF EXCESSIVE RAINFALL ACROSS PORTIONS OF SOUTHEAST ALABAMA...NORTH FLORIDA...SOUTH-CENTRAL GEORGIA...AND THE SOUTH CAROLINA LOWCOUNTRY"
+  ],
+  "update": "16Z Update",
+  "regions": [
+   [
+    "Florida Big Bend, South Georgia, and the Southeast Coastal Plain",
+    [
+     "The inherited Slight Risk was upgraded to a Moderate Risk from the eastern Florida Panhandle across the Big Bend and south Georgia to near Savannah after coordination with WFOs TAE and JAX. The Slight Risk was expanded northeast along the coastal plain to the South Carolina Lowcountry. An extraordinarily intense extratropical low over the eastern Gulf, near 962 mb at 15Z and still deepening rapidly, is forecast to make landfall near St. Marks around 06Z at 940 to 945 mb. It will then slow and begin a cyclonic loop over southwest Georgia that continues through Day 2.",
+     "Two rain regimes overlap in the Moderate Risk. First, a strongly forced squall line with embedded supercells crosses the Big Bend and the Florida peninsula this afternoon and evening, with brief rates of 2 to 3 inches per hour. Second, the warm conveyor belt wraps into the cloud head overnight. PWs of 1.7 to 1.9 inches are forecast, near the daily record for mid-December and about 250 percent of normal. Strong isentropic ascent over the coastal front will support a long-lived band of 1 to 1.5 inch per hour rates from the Big Bend to the Okefenokee and Waycross between 03Z and 12Z. The 12Z REFS and HREF both show neighborhood probabilities of 5 inches in 6 hours above 40 percent there. The 12Z RRFS, GFS, ECMWF and ECMWF-AIFS all have storm totals of 6 to 10 inches across the Moderate Risk by the end of Day 2, with local amounts to 12 inches near Valdosta and Waycross.",
+     "Mid-December flash flood guidance on the sandy soils of the coastal plain is higher than in the warm season, mostly 3 to 4 inches in 3 hours. Still, the expected rates and duration are enough to exceed it in many places, and in Tallahassee, Valdosta and Thomasville urban runoff will be efficient. Wind-driven coastal flooding will also block drainage on the tidal reaches of the St. Marks, Aucilla, Econfina and Steinhatchee Rivers through 12Z. Downed trees and power outages will slow response and make flooded roads harder to see overnight. Numerous instances of flash flooding are expected, some of them significant.",
+     "Over the Florida peninsula, the squall line will produce 1 to 2 inches in an hour this evening, but its forward speed should hold totals to 1 to 3 inches, below guidance outside of urban areas."
+    ]
+   ]
+  ],
+  "forecaster": "Castellanos"
+ }
+}

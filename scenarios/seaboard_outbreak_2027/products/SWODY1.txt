@@ -1,0 +1,82 @@
+000
+ACUS01 KWNS 291245
+SWODY1
+SPC AC 291244
+
+Day 1 Convective Outlook
+NWS Storm Prediction Center Norman OK
+0744 AM CDT Thu Apr 29 2027
+
+Valid 291300Z - 301200Z
+
+...THERE IS A MODERATE RISK OF SEVERE THUNDERSTORMS FROM SOUTHEAST
+GEORGIA ACROSS MUCH OF THE CAROLINAS AND VIRGINIA INTO
+MARYLAND...DELAWARE...AND SOUTHEAST PENNSYLVANIA...
+
+...SUMMARY...
+A widespread and dangerous severe weather outbreak is expected today
+from southeast Georgia and the Carolinas north through Virginia and
+the Delmarva into southeast Pennsylvania. Numerous tornadoes, some
+strong to intense (EF3+), are possible with discrete supercells from
+the coastal plain of the Carolinas into southeast Virginia and the
+Delmarva. A fast-moving, intense squall line will also sweep east
+across the region from midday into the evening. It will produce
+widespread damaging winds, with gusts of 85-100 mph possible along
+the I-95 corridor from central North Carolina to Philadelphia, along
+with embedded tornadoes.
+
+...SYNOPSIS...
+A deep, negatively tilted upper trough over the Ohio Valley this
+morning will pivot rapidly northeast through the period. A 110-130 kt
+500 mb jet streak rounding its base will overspread the Carolinas and
+Virginia by early afternoon, then the Mid-Atlantic by evening. At the
+surface, a 984 mb low over central Pennsylvania will deepen to around
+976 mb as it moves into northern New York by 00z. A warm front now
+draped from near Richmond to the southern Delmarva will surge north
+to near Philadelphia by midafternoon. The trailing cold front will
+cross the Appalachians today and reach the coast late tonight. A
+strong pre-frontal trough is already evident across the western
+Piedmont.
+
+...Carolinas into Virginia and the Delmarva...
+An exceptionally moist warm sector is in place for late April.
+Surface dewpoints are in the upper 60s to low 70s F across the
+Carolinas and southeast Virginia, and mid 60s F are already streaming
+north into the Delmarva. Combined with modest midlevel lapse rates
+and some morning sun, this will yield MLCAPE of 1500-2500 J/kg across
+the Carolinas and 1000-1500 J/kg into Virginia and Maryland. The wind
+field is extreme. Effective bulk shear of 70-90 kt and a 60-75 kt
+southerly low-level jet will produce large, looping low-level
+hodographs, with 0-1 km SRH of 300-500 m2/s2 and effective-layer STP
+of 4-8 in both the RRFS and REFS.
+
+Scattered discrete supercells should develop within the warm sector
+by 16-17z, ahead of the main line, along confluence bands over the
+coastal plain of South Carolina and North Carolina. Given the
+moisture, low LCLs (500-800 m), and very strong low-level shear,
+these storms will be capable of long-track, strong to intense
+tornadoes as they race north-northeast at 50-60 kt. The greatest
+concentration of intense tornado potential is from near Florence and
+Fayetteville through Raleigh and Rocky Mount into southeast Virginia
+(Richmond to Hampton Roads) and the lower Delmarva, mainly 17z-00z.
+
+...Squall line: Piedmont to the I-95 corridor...
+A squall line now over the Blue Ridge and western Piedmont will
+accelerate east this afternoon as the cold pool strengthens beneath
+the intense wind field. It is expected to reach the I-95 corridor
+from Fayetteville to Richmond around 20-22z and Washington,
+Baltimore, and Philadelphia between 22z and 01z. Line-embedded
+mesovortices and QLCS tornadoes are likely, and 85-100 mph gusts are
+possible where bowing segments develop, which supports the Intensity
+2 wind area. Wind damage is likely to be widespread in the densely
+populated corridor from Richmond to Philadelphia.
+
+...Southeast Georgia and southern South Carolina...
+Midlevel lapse rates are somewhat steeper farther south, and this
+area remains farther from the strongest forcing. Discrete to
+semi-discrete supercells are still expected this afternoon, with
+tornadoes, damaging winds, and large hail, a few stones up to 2
+inches in diameter. The threat should diminish after 03z as the line
+moves offshore.
+
+..Okonkwo/Brandt.. 04/29/2027

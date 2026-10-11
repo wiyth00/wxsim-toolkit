@@ -1,0 +1,147 @@
+{
+ "_doc": "WPC Excessive Rainfall Outlook. Risk = smoothed (window rain / FFG); FFG lowered by antecedent rain from the 'pre' part of rain_config. ratio_thresholds are illustrative proxies for the 5/15/30/50% categories. text = discussion (one paragraph per string).",
+ "rain_config": "qpf_delphine_west.json",
+ "day": 1,
+ "valid": {
+  "start": "2027-09-22T12:00Z",
+  "end": "2027-09-23T12:00Z"
+ },
+ "issued_local": "359 AM EDT Wed Sep 22 2027",
+ "wmo_time": "220759",
+ "ffg": {
+  "base": 3.5,
+  "min": 0.8,
+  "per_inch_antecedent": 0.26
+ },
+ "ratio_thresholds": {
+  "MRGL": 0.35,
+  "SLGT": 0.65,
+  "MDT": 1.05,
+  "HIGH": 1.75
+ },
+ "smooth": 5,
+ "extent": [
+  -90.5,
+  -77.0,
+  28.8,
+  41.6
+ ],
+ "county_extent": [
+  -86.0,
+  -81.8,
+  31.5,
+  35.2
+ ],
+ "cities": [
+  [
+   "Atlanta",
+   33.749,
+   -84.388
+  ],
+  [
+   "Athens",
+   33.961,
+   -83.378
+  ],
+  [
+   "Macon",
+   32.841,
+   -83.632
+  ],
+  [
+   "Columbus",
+   32.461,
+   -84.988
+  ],
+  [
+   "Gainesville",
+   34.298,
+   -83.824
+  ],
+  [
+   "Tallahassee",
+   30.438,
+   -84.281
+  ],
+  [
+   "Panama City",
+   30.159,
+   -85.66
+  ],
+  [
+   "Birmingham",
+   33.519,
+   -86.81
+  ],
+  [
+   "Greenville",
+   34.853,
+   -82.394
+  ],
+  [
+   "Asheville",
+   35.595,
+   -82.551
+  ],
+  [
+   "Chattanooga",
+   35.046,
+   -85.309
+  ],
+  [
+   "Montgomery",
+   32.377,
+   -86.3
+  ],
+  [
+   "Nashville",
+   36.163,
+   -86.781
+  ],
+  [
+   "Knoxville",
+   35.961,
+   -83.921
+  ],
+  [
+   "Lexington",
+   38.04,
+   -84.5
+  ],
+  [
+   "Cincinnati",
+   39.103,
+   -84.512
+  ],
+  [
+   "Charleston WV",
+   38.35,
+   -81.63
+  ],
+  [
+   "Columbus OH",
+   39.96,
+   -83.0
+  ]
+ ],
+ "output": "ERO_day1_wed_20270922.png",
+ "text_output": "QPFERD_day1_wed_20270922.txt",
+ "pre_in_window": 0.35,
+ "antecedent_pre": 0.0,
+ "text": {
+  "forecaster": "Nguyen-Oakes",
+  "headlines": [
+   "THERE IS A SLIGHT RISK OF EXCESSIVE RAINFALL ACROSS PORTIONS OF NORTH GEORGIA...THE SOUTH CAROLINA UPSTATE...AND EAST-CENTRAL ALABAMA"
+  ],
+  "regions": [
+   [
+    "Southern Appalachians and Southeast",
+    [
+     "A Slight Risk was introduced from east-central Alabama through the Atlanta metro and into the South Carolina Upstate, with a surrounding Marginal Risk. A quasi-stationary front draped from the Tennessee Valley into the western Carolinas will become the focus for repeated rounds of heavy rain today and tonight as deep tropical moisture streams north well ahead of Hurricane Delphine over the northwestern Caribbean. This is the early stage of what is increasingly likely to become a multi-day predecessor rain event (PRE).",
+     "PWs of 2.0 to 2.3 inches, near the 97th percentile for late September, will pool along the boundary. The mean 850-300 mb flow will be nearly parallel to the front, which favors training. The 00Z HREF paints a narrow corridor of 2 to 4 inches with localized 5 inch amounts along and just north of I-85, and hourly rates of 1 to 2 inches are possible. Soils are near normal and 3-hour FFG is generally 2.5 to 3.5 inches, so today's risk is mostly tied to urban areas and repeated rounds over the same locations.",
+     "Of greater concern is the trend. Guidance keeps the front nearly in place through Friday, and WPC is already carrying a Moderate Risk in the Day 2 outlook for Thursday. Rain falling today will steadily lower flash flood guidance ahead of Delphine's arrival late in the week."
+    ]
+   ]
+  ]
+ }
+}

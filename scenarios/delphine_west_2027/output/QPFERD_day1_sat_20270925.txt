@@ -1,0 +1,39 @@
+000
+FOUS30 KWBC 250804
+QPFERD
+
+Excessive Rainfall Discussion
+NWS Weather Prediction Center College Park MD
+404 AM EDT Sat Sep 25 2027
+Day 1
+Valid 12Z Sat Sep 25 2027 - 12Z Sun Sep 26 2027
+
+...THERE IS A MODERATE RISK OF EXCESSIVE RAINFALL ACROSS PORTIONS OF
+MIDDLE AND EAST TENNESSEE...NORTH GEORGIA...AND CENTRAL KENTUCKY...
+
+...Tennessee and Ohio Valleys and the Southern Appalachians...
+
+The High Risk from the previous period was downgraded as Delphine
+races into the Tennessee Valley and becomes post-tropical this
+morning. A Moderate Risk remains over middle and east Tennessee, far
+north Georgia, and central Kentucky, with a broad Slight and Marginal
+Risk extending into southern Ohio. Catastrophic flash flooding
+occurred overnight across the Atlanta metro and north Georgia, and
+major river flooding will continue there for days. River flooding is
+not part of this outlook, but those areas remain extremely sensitive
+to any additional rain.
+
+As Delphine merges with the parent trough, its forward motion slows
+and the rain shield shifts to the northwest of the center, typical of
+extratropical transition. A 6 to 10 hour period of moderate to heavy
+rain, with rates of 0.5 to 1 inch per hour, is expected across the
+Cumberland Plateau and into central Kentucky, bringing totals of 2 to
+4 inches with isolated 5 to 6 inches. FFG over Tennessee and Kentucky
+is higher than in Georgia, but steep terrain and the fast onset
+support a Moderate Risk. Flash flooding in the north Georgia
+mountains and near Chattanooga is especially likely where the
+predecessor rain event and Delphine's core overlapped.
+
+..Whitfield..
+
+Day 1 threat area: www.wpc.ncep.noaa.gov/qpf/94epoints.txt

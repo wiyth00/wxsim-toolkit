@@ -1,0 +1,118 @@
+{
+ "_doc": "WPC Excessive Rainfall Outlook. Risk = smoothed (window rain / FFG); FFG lowered by antecedent rain from the 'pre' part of rain_config. ratio_thresholds are illustrative proxies for the 5/15/30/50% categories. text = discussion (one paragraph per string).",
+ "rain_config": "qpf_delphine_west.json",
+ "day": 1,
+ "valid": {
+  "start": "2027-09-24T16:00Z",
+  "end": "2027-09-25T12:00Z"
+ },
+ "issued_local": "1127 AM EDT Fri Sep 24 2027",
+ "wmo_time": "241527",
+ "ffg": {
+  "base": 3.5,
+  "min": 0.8,
+  "per_inch_antecedent": 0.26
+ },
+ "ratio_thresholds": {
+  "MRGL": 0.35,
+  "SLGT": 0.65,
+  "MDT": 1.05,
+  "HIGH": 1.75
+ },
+ "smooth": 5,
+ "extent": [
+  -89.5,
+  -78.5,
+  28.3,
+  37.0
+ ],
+ "county_extent": [
+  -86.0,
+  -81.8,
+  31.5,
+  35.2
+ ],
+ "cities": [
+  [
+   "Atlanta",
+   33.749,
+   -84.388
+  ],
+  [
+   "Athens",
+   33.961,
+   -83.378
+  ],
+  [
+   "Macon",
+   32.841,
+   -83.632
+  ],
+  [
+   "Columbus",
+   32.461,
+   -84.988
+  ],
+  [
+   "Gainesville",
+   34.298,
+   -83.824
+  ],
+  [
+   "Tallahassee",
+   30.438,
+   -84.281
+  ],
+  [
+   "Panama City",
+   30.159,
+   -85.66
+  ],
+  [
+   "Birmingham",
+   33.519,
+   -86.81
+  ],
+  [
+   "Greenville",
+   34.853,
+   -82.394
+  ],
+  [
+   "Asheville",
+   35.595,
+   -82.551
+  ],
+  [
+   "Chattanooga",
+   35.046,
+   -85.309
+  ],
+  [
+   "Montgomery",
+   32.377,
+   -86.3
+  ]
+ ],
+ "output": "ERO_day1_delphine_west_16z.png",
+ "text_output": "QPFERD_day1_2027092416.txt",
+ "text": {
+  "headlines": [
+   "THERE IS A HIGH RISK OF EXCESSIVE RAINFALL ACROSS PORTIONS OF NORTH GEORGIA AND EAST-CENTRAL ALABAMA...INCLUDING THE ATLANTA METROPOLITAN AREA",
+   "THERE IS A MODERATE RISK OF EXCESSIVE RAINFALL ACROSS PORTIONS OF EAST ALABAMA...WEST-CENTRAL GEORGIA...SOUTHEAST TENNESSEE...AND THE SOUTHERN APPALACHIANS"
+  ],
+  "update": "16Z Update",
+  "regions": [
+   [
+    "North Georgia, Florida Panhandle, and Southern Appalachians",
+    [
+     "The inherited Moderate Risk was upgraded to a High Risk across north Georgia, including metro Atlanta, and into east-central Alabama, in coordination with WFOs FFC, BMX, GSP, and MRX and the Southeast River Forecast Center. The surrounding Moderate Risk was expanded south to near Columbus and north into southeast Tennessee and the southern Appalachians. The Slight Risk now reaches the Florida Panhandle coast near the forecast landfall point of Hurricane Delphine, where faster motion and higher flash flood guidance keep the threat lower despite heavy rates.",
+     "The upgrade is driven more by antecedent conditions than by storm-total QPF. A predecessor rain event (PRE) has been nearly stationary since Wednesday along a stalled baroclinic zone from east Alabama through the Atlanta metro into the South Carolina Upstate. It has produced 7 to 11 inches of rain, including about 10 inches at Atlanta Hartsfield-Jackson International Airport in three days. Soils are saturated, most small streams are running bankfull, and 3-hour flash flood guidance has fallen below 1 inch across much of the metro and below 1.5 inches over most of north Georgia. Urban runoff in the metro will be especially efficient.",
+     "Delphine's forward speed near 50 mph will limit storm totals at any one point, but that matters much less with FFG this low. The 12Z HREF and REFS show a 3 to 5 hour window of 1 to 2.5 inch per hour rates in the inner core and the right-front quadrant between roughly 03Z and 09Z. That is enough to exceed guidance nearly everywhere along and within 60 miles of the track. PWs of 2.3 to 2.6 inches are forecast, above the 99th percentile for late September. The 12Z RRFS, HAFS-A/B, AI-GFS and ECMWF-AIFS agree on the overall track and timing, and spread in rainfall placement is mostly tied to where the center crosses the Georgia-Alabama border.",
+     "Farther north, strong southerly flow will push up the Blue Ridge escarpment late in the period, and upslope enhancement is likely over the north Georgia mountains and southwest North Carolina. There, 3 to 6 additional inches on already saturated slopes could trigger flash flooding and landslides. Considerable to catastrophic flash flooding is expected within the High Risk, including life-threatening flooding of urban creeks in the Atlanta metro overnight when visibility and warning reception will be poor."
+    ]
+   ]
+  ],
+  "forecaster": "Ramirez"
+ }
+}

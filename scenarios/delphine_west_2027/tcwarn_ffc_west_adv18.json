@@ -1,0 +1,192 @@
+{
+ "_doc": "Zoomed local-office inland warning map. storm_file = tc_*.json (relative to this folder). cwa_counties = office area ('Name ST'), approximate. track_window = UTC span for hourly center positions.",
+ "storm_file": "tc_delphine_west_adv18.json",
+ "office_label": "Peachtree City (FFC) forecast area",
+ "title": "Hurricane Delphine: Inland Warnings, North and Central Georgia",
+ "subtitle": "Center forecast to pass about 40 mi west of downtown Atlanta around 2 AM Saturday. The entire metro is in the right-front quadrant.",
+ "cwa_counties": [
+  "Baldwin GA",
+  "Banks GA",
+  "Barrow GA",
+  "Bartow GA",
+  "Bibb GA",
+  "Bleckley GA",
+  "Butts GA",
+  "Carroll GA",
+  "Catoosa GA",
+  "Chattahoochee GA",
+  "Chattooga GA",
+  "Cherokee GA",
+  "Clarke GA",
+  "Clayton GA",
+  "Cobb GA",
+  "Coweta GA",
+  "Crawford GA",
+  "Crisp GA",
+  "Dade GA",
+  "Dawson GA",
+  "DeKalb GA",
+  "Dodge GA",
+  "Dooly GA",
+  "Douglas GA",
+  "Emanuel GA",
+  "Fannin GA",
+  "Fayette GA",
+  "Floyd GA",
+  "Forsyth GA",
+  "Fulton GA",
+  "Gilmer GA",
+  "Glascock GA",
+  "Gordon GA",
+  "Greene GA",
+  "Gwinnett GA",
+  "Hall GA",
+  "Hancock GA",
+  "Haralson GA",
+  "Harris GA",
+  "Heard GA",
+  "Henry GA",
+  "Houston GA",
+  "Jackson GA",
+  "Jasper GA",
+  "Johnson GA",
+  "Jones GA",
+  "Lamar GA",
+  "Laurens GA",
+  "Lumpkin GA",
+  "Macon GA",
+  "Madison GA",
+  "Marion GA",
+  "Meriwether GA",
+  "Monroe GA",
+  "Montgomery GA",
+  "Morgan GA",
+  "Murray GA",
+  "Muscogee GA",
+  "Newton GA",
+  "Oconee GA",
+  "Oglethorpe GA",
+  "Paulding GA",
+  "Peach GA",
+  "Pickens GA",
+  "Pike GA",
+  "Polk GA",
+  "Pulaski GA",
+  "Putnam GA",
+  "Rockdale GA",
+  "Schley GA",
+  "Spalding GA",
+  "Stewart GA",
+  "Sumter GA",
+  "Talbot GA",
+  "Taliaferro GA",
+  "Taylor GA",
+  "Telfair GA",
+  "Toombs GA",
+  "Towns GA",
+  "Treutlen GA",
+  "Troup GA",
+  "Twiggs GA",
+  "Union GA",
+  "Upson GA",
+  "Walker GA",
+  "Walton GA",
+  "Warren GA",
+  "Washington GA",
+  "Webster GA",
+  "Wheeler GA",
+  "White GA",
+  "Whitfield GA",
+  "Wilcox GA",
+  "Wilkes GA",
+  "Wilkinson GA"
+ ],
+ "extent": [
+  -86.05,
+  -81.95,
+  31.55,
+  35.1
+ ],
+ "track_window": {
+  "start": "2027-09-24T23:00Z",
+  "end": "2027-09-25T08:00Z"
+ },
+ "output": "FFC_inland_warnings_west_adv18.png",
+ "cities": [
+  [
+   "Atlanta",
+   33.749,
+   -84.388
+  ],
+  [
+   "Athens",
+   33.961,
+   -83.378
+  ],
+  [
+   "Macon",
+   32.841,
+   -83.632
+  ],
+  [
+   "Columbus",
+   32.461,
+   -84.988
+  ],
+  [
+   "Gainesville",
+   34.298,
+   -83.824
+  ],
+  [
+   "LaGrange",
+   33.039,
+   -85.031
+  ],
+  [
+   "Carrollton",
+   33.58,
+   -85.077
+  ],
+  [
+   "Dalton",
+   34.77,
+   -84.97
+  ],
+  [
+   "Warner Robins",
+   32.615,
+   -83.627
+  ],
+  [
+   "Dublin",
+   32.54,
+   -82.904
+  ],
+  [
+   "Americus",
+   32.072,
+   -84.233
+  ],
+  [
+   "Newnan",
+   33.381,
+   -84.8
+  ],
+  [
+   "Marietta",
+   33.953,
+   -84.55
+  ],
+  [
+   "Griffin",
+   33.247,
+   -84.264
+  ],
+  [
+   "Blue Ridge",
+   34.864,
+   -84.324
+  ]
+ ]
+}

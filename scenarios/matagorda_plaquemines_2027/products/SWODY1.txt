@@ -1,0 +1,92 @@
+*** MOCK / SIMULATION ONLY — NOT AN OFFICIAL NWS PRODUCT ***
+
+SPC AC 241250
+
+Day 1 Convective Outlook
+NWS Storm Prediction Center Norman OK
+0650 AM CST Wed Feb 24 2027
+
+Valid 241300Z - 251200Z
+
+...THERE IS A HIGH RISK OF SEVERE THUNDERSTORMS ALONG THE TEXAS
+AND LOUISIANA COAST FROM MATAGORDA BAY TO LOWER PLAQUEMINES PARISH...
+
+...SUMMARY...
+A concentrated coastal tornado outbreak is expected today into
+tonight from Matagorda Bay through the immediate upper Texas and
+Louisiana coasts to lower Plaquemines Parish. Repeated rounds of
+surface-based supercells will pose a threat for several strong to
+intense tornadoes, with a few potentially violent tornadoes possible.
+The greatest threat will occupy a narrow corridor near the shoreline,
+with a sharp decrease in tornado potential farther inland.
+
+...SYNOPSIS...
+A strong shortwave trough will move from northeastern Mexico across
+the northwest Gulf and lower Mississippi Valley. A surface low will
+move from southeast Texas into central Louisiana, while an associated
+warm front moves inland and stalls across the immediate coastal
+plain. Rain-cooled continental air will resist substantial northward
+movement of the boundary. A prefrontal coastal trough and successive
+weak disturbances will focus repeated convection along its warm side.
+The trailing cold front will reach the coast from west to east during
+the evening and overnight.
+
+...Matagorda Bay through the upper Texas coast...
+Surface dewpoints of 69-73 F, MLCAPE of 1500-2500 J/kg, and only weak
+inhibition will support surface-based storms near and just inland
+from the coast. Backed surface winds beneath a 55-70 kt southerly
+low-level jet will yield 0-1 km storm-relative helicity of
+350-550 m2/s2. Effective bulk shear of 60-80 kt and low cloud bases
+will support sustained supercells and significant tornadoes.
+
+Repeated development near the coastal trough is expected from
+16-22Z. Storms reaching the warm side of the front will encounter a
+particularly favorable low-level environment, while those moving
+well inland will become elevated over the cool surface layer.
+The greatest threat is shifted toward Matagorda, Freeport, Galveston,
+the Bolivar Peninsula, and Sabine Pass. Central and northern Houston
+are outside the High Risk core in this scenario, although the broader
+surrounding risk still supports tornadoes and damaging winds.
+
+...Southwest Louisiana through the lower Mississippi delta...
+The corridor of favorable surface-based inflow will continue along
+Cameron Parish, the Vermilion and Atchafalaya coastal basins, southern
+Terrebonne and Lafourche Parishes, and lower Plaquemines Parish.
+MLCAPE of 1000-2000 J/kg and strengthening low-level shear will
+support strong tornadoes into the evening and overnight.
+
+The principal threat will progress into southwest Louisiana around
+19-01Z, south-central Louisiana around 22-05Z, and lower Plaquemines
+around 02-08Z. The eastern extension of the High Risk assumes that
+warm, surface-based inflow remains established over the delta and
+that separate supercells continue to develop ahead of the main line.
+Discrete or semi-discrete storms are expected for several hours
+before frontal convection consolidates. A 30 percent tornado area
+with Intensity 2 spans the coastal strip; a localized Intensity 3
+area is retained from the upper Texas coast toward Vermilion Bay.
+
+This is a corridor of repeated storm development, rather than the
+forecast track of one supercell. Individual cells will generally move
+east-northeastward and may cross into stable air inland. New cells
+farther east will maintain the coastal threat, especially where
+confluence and local boundary intersections favor sustained inflow.
+The changing shoreline orientation near the delta makes storm mode
+and the location of the surface boundary particularly consequential.
+
+...Inland extent and forecast confidence...
+The High Risk corridor is approximately 45-55 miles wide before
+clipping to land. Its location reflects a narrow overlap of
+surface-based instability and intense low-level shear; the shoreline
+itself does not enhance tornado intensity. Inland storms will
+primarily be elevated where the rain-cooled layer persists. Baton
+Rouge and central New Orleans remain outside the High Risk core.
+
+A boundary displacement of 15-25 miles would materially change which
+communities lie in the greatest threat corridor. High Risk confidence
+also depends on sufficient supercell coverage over land. If most
+storms remain offshore, the warm front fails to reach the delta, or
+cold pools force early upscale growth, the elongated High Risk would
+need to be reduced. Damaging winds of 65-80 mph and hail of 1-1.75
+inches are secondary threats.
+
+..SIMULATION.. 02/24/2027

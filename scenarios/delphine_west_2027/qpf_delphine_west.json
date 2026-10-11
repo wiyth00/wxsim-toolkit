@@ -1,0 +1,201 @@
+{
+ "_doc": "Rule-based rainfall field (see wxsim/wpc/rain.py). pre = predecessor rain event bands (axis [lon,lat], per-vertex peak inches, half-width km). track = Delphine's rain sampled hourly along the storm file's track between start/end (UTC). orog = upslope multipliers [lon, lat, radius_km, factor]. panels = maps drawn side by side, each listing which parts to include.",
+ "grid_extent": [
+  -91.0,
+  -75.0,
+  27.0,
+  43.5
+ ],
+ "res": 0.04,
+ "seed": 3,
+ "texture": 0.14,
+ "pre": [
+  {
+   "axis": [
+    [
+     -86.9,
+     33.0
+    ],
+    [
+     -85.6,
+     33.45
+    ],
+    [
+     -84.4,
+     33.8
+    ],
+    [
+     -83.4,
+     34.35
+    ],
+    [
+     -82.3,
+     34.95
+    ],
+    [
+     -81.2,
+     35.5
+    ]
+   ],
+   "peak_in": [
+    4.5,
+    8.0,
+    10.5,
+    10.0,
+    8.0,
+    5.0
+   ],
+   "width_km": 65
+  },
+  {
+   "axis": [
+    [
+     -84.9,
+     34.9
+    ],
+    [
+     -83.9,
+     35.0
+    ],
+    [
+     -83.0,
+     35.4
+    ]
+   ],
+   "peak_in": [
+    5.0,
+    7.0,
+    6.0
+   ],
+   "width_km": 40
+  }
+ ],
+ "track": {
+  "storm_file": "tc_delphine_west_adv18.json",
+  "start": "2027-09-24T12:00Z",
+  "end": "2027-09-26T18:00Z",
+  "rate_in_hr": 1.05,
+  "width_km": 165,
+  "post_tropical_rate_factor": 0.5,
+  "post_tropical_width_factor": 1.35,
+  "shift_km": {
+   "tropical": 0,
+   "post_tropical": 90
+  },
+  "shift_dir_deg": 290,
+  "post_tropical_decay_hr": 10
+ },
+ "orog": [
+  [
+   -84.1,
+   34.75,
+   60,
+   1.3
+  ],
+  [
+   -83.3,
+   35.15,
+   55,
+   1.3
+  ],
+  [
+   -82.5,
+   35.55,
+   55,
+   1.35
+  ]
+ ],
+ "extent": [
+  -88.8,
+  -79.2,
+  29.2,
+  37.2
+ ],
+ "county_extent": [
+  -86.0,
+  -81.8,
+  31.5,
+  35.2
+ ],
+ "title": "Hurricane Delphine: Rainfall, Predecessor Event and Storm Total",
+ "subtitle": "Left: observed predecessor rain event, Wed Sep 22 through Fri afternoon. Right: storm total through Sun Sep 26, including Delphine.",
+ "panels": [
+  {
+   "title": "Observed so far (predecessor rain event)",
+   "parts": [
+    "pre"
+   ]
+  },
+  {
+   "title": "Storm total through Sunday",
+   "parts": [
+    "pre",
+    "track",
+    "orog"
+   ]
+  }
+ ],
+ "cities": [
+  [
+   "Atlanta",
+   33.64,
+   -84.43
+  ],
+  [
+   "Athens",
+   33.961,
+   -83.378
+  ],
+  [
+   "Macon",
+   32.841,
+   -83.632
+  ],
+  [
+   "Columbus",
+   32.461,
+   -84.988
+  ],
+  [
+   "Gainesville",
+   34.298,
+   -83.824
+  ],
+  [
+   "Rome",
+   34.257,
+   -85.165
+  ],
+  [
+   "Tallahassee",
+   30.438,
+   -84.281
+  ],
+  [
+   "Birmingham",
+   33.519,
+   -86.81
+  ],
+  [
+   "Greenville",
+   34.853,
+   -82.394
+  ],
+  [
+   "Asheville",
+   35.595,
+   -82.551
+  ],
+  [
+   "Chattanooga",
+   35.046,
+   -85.309
+  ],
+  [
+   "Augusta",
+   33.471,
+   -81.975
+  ]
+ ],
+ "output": "QPF_delphine_west_totals.png"
+}

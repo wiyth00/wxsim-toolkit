@@ -1,0 +1,45 @@
+000
+FOUS30 KWBC 230801
+QPFERD
+
+Excessive Rainfall Discussion
+NWS Weather Prediction Center College Park MD
+401 AM EDT Thu Sep 23 2027
+Day 1
+Valid 12Z Thu Sep 23 2027 - 12Z Fri Sep 24 2027
+
+...THERE IS A MODERATE RISK OF EXCESSIVE RAINFALL ACROSS PORTIONS OF
+NORTH GEORGIA...INCLUDING THE ATLANTA METROPOLITAN AREA...AND THE
+SOUTH CAROLINA UPSTATE...
+
+...North Georgia and the Southern Appalachians...
+
+The Moderate Risk carried from the Day 2 outlook was maintained and
+extended slightly west to the Alabama state line. The Slight and
+Marginal Risks were largely unchanged. Observed rainfall over the
+past 24 hours was 2 to 4.5 inches along the front from west-central
+Georgia through the Atlanta metro to the Upstate, including 3.6
+inches at Atlanta Hartsfield-Jackson International Airport. Several
+Flash Flood Warnings were issued overnight for urban flooding in the
+metro.
+
+The front has not moved and will not move much today, with the
+predecessor rain event continuing to be fed by a deep plume of
+tropical moisture. PWs of 2.2 to 2.5 inches are near the daily
+maximum for late September. Another 3 to 5 inches with localized
+amounts over 6 inches are likely along the axis through tonight. The
+00Z RRFS and HREF members consistently place the heaviest band from
+Carrollton through Atlanta and Gainesville toward Greenville, with
+good agreement on placement.
+
+Flash flood guidance has already dropped to 1.5 to 2 inches in 3
+hours across the metro. Additional heavy rain on saturated ground
+will lead to numerous instances of flash flooding, and some could be
+significant, especially in the urban core and along small creeks.
+Looking ahead, Hurricane Delphine is forecast to cross Georgia Friday
+night. With the ground this wet, a High Risk upgrade is being
+considered for the Day 2 outlook.
+
+..Castillo..
+
+Day 1 threat area: www.wpc.ncep.noaa.gov/qpf/94epoints.txt

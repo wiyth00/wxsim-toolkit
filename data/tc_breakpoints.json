@@ -1,0 +1,445 @@
+{
+ "_doc": "NHC-style coastal breakpoints, TX to NC in coastal order. lat/lon = hand-entered location; snap_lat/snap_lon = the point on the mainland coastline of nation.geojson (written by `python -m wxsim.tropical.coast --snap`). Watch/warning segments in tc_*.json reference these by name. Outer Banks and Keys points snap to the mainland shore because the bundled outline treats barrier islands as separate polygons.",
+ "breakpoints": [
+  {
+   "name": "Mouth of the Rio Grande",
+   "state": "TX",
+   "lat": 26.1,
+   "lon": -97.14,
+   "snap_lat": 26.0965,
+   "snap_lon": -97.1595
+  },
+  {
+   "name": "Port Mansfield",
+   "state": "TX",
+   "lat": 26.55,
+   "lon": -97.18,
+   "snap_lat": 26.5199,
+   "snap_lon": -97.2604
+  },
+  {
+   "name": "Baffin Bay",
+   "state": "TX",
+   "lat": 27.27,
+   "lon": -97.28,
+   "snap_lat": 27.2839,
+   "snap_lon": -97.344
+  },
+  {
+   "name": "Port Aransas",
+   "state": "TX",
+   "lat": 27.83,
+   "lon": -97.0,
+   "snap_lat": 27.8495,
+   "snap_lon": -97.0352
+  },
+  {
+   "name": "Port O'Connor",
+   "state": "TX",
+   "lat": 28.36,
+   "lon": -96.38,
+   "snap_lat": 28.3734,
+   "snap_lon": -96.3959
+  },
+  {
+   "name": "Sargent",
+   "state": "TX",
+   "lat": 28.77,
+   "lon": -95.62,
+   "snap_lat": 28.7675,
+   "snap_lon": -95.6188
+  },
+  {
+   "name": "San Luis Pass",
+   "state": "TX",
+   "lat": 29.08,
+   "lon": -95.12,
+   "snap_lat": 29.0786,
+   "snap_lon": -95.1179
+  },
+  {
+   "name": "High Island",
+   "state": "TX",
+   "lat": 29.56,
+   "lon": -94.39,
+   "snap_lat": 29.5493,
+   "snap_lon": -94.3859
+  },
+  {
+   "name": "Sabine Pass",
+   "state": "TX",
+   "lat": 29.73,
+   "lon": -93.87,
+   "snap_lat": 29.6792,
+   "snap_lon": -93.8708
+  },
+  {
+   "name": "Cameron",
+   "state": "LA",
+   "lat": 29.78,
+   "lon": -93.33,
+   "snap_lat": 29.7673,
+   "snap_lon": -93.327
+  },
+  {
+   "name": "Intracoastal City",
+   "state": "LA",
+   "lat": 29.77,
+   "lon": -92.15,
+   "snap_lat": 29.7644,
+   "snap_lon": -92.1488
+  },
+  {
+   "name": "Morgan City",
+   "state": "LA",
+   "lat": 29.6,
+   "lon": -91.21,
+   "snap_lat": 29.4812,
+   "snap_lon": -91.3237
+  },
+  {
+   "name": "Port Fourchon",
+   "state": "LA",
+   "lat": 29.11,
+   "lon": -90.2,
+   "snap_lat": 29.1016,
+   "snap_lon": -90.195
+  },
+  {
+   "name": "Grand Isle",
+   "state": "LA",
+   "lat": 29.24,
+   "lon": -89.99,
+   "snap_lat": 29.2347,
+   "snap_lon": -89.9862
+  },
+  {
+   "name": "Mouth of the Mississippi River",
+   "state": "LA",
+   "lat": 29.15,
+   "lon": -89.25,
+   "snap_lat": 29.1476,
+   "snap_lon": -89.2794
+  },
+  {
+   "name": "Mouth of the Pearl River",
+   "state": "LA",
+   "lat": 30.17,
+   "lon": -89.53,
+   "snap_lat": 30.1795,
+   "snap_lon": -89.5326
+  },
+  {
+   "name": "Bay St. Louis",
+   "state": "MS",
+   "lat": 30.31,
+   "lon": -89.33,
+   "snap_lat": 30.31,
+   "snap_lon": -89.3296
+  },
+  {
+   "name": "Mississippi/Alabama Border",
+   "state": "MS",
+   "lat": 30.37,
+   "lon": -88.4,
+   "snap_lat": 30.3636,
+   "snap_lon": -88.3922
+  },
+  {
+   "name": "Alabama/Florida Border",
+   "state": "AL",
+   "lat": 30.28,
+   "lon": -87.52,
+   "snap_lat": 30.2805,
+   "snap_lon": -87.5201
+  },
+  {
+   "name": "Navarre",
+   "state": "FL",
+   "lat": 30.4,
+   "lon": -86.86,
+   "snap_lat": 30.3783,
+   "snap_lon": -86.8572
+  },
+  {
+   "name": "Okaloosa/Walton County Line",
+   "state": "FL",
+   "lat": 30.38,
+   "lon": -86.39,
+   "snap_lat": 30.3774,
+   "snap_lon": -86.3904
+  },
+  {
+   "name": "Walton/Bay County Line",
+   "state": "FL",
+   "lat": 30.28,
+   "lon": -85.99,
+   "snap_lat": 30.2661,
+   "snap_lon": -85.9954
+  },
+  {
+   "name": "Mexico Beach",
+   "state": "FL",
+   "lat": 29.94,
+   "lon": -85.41,
+   "snap_lat": 29.9378,
+   "snap_lon": -85.4118
+  },
+  {
+   "name": "Indian Pass",
+   "state": "FL",
+   "lat": 29.68,
+   "lon": -85.25,
+   "snap_lat": 29.6803,
+   "snap_lon": -85.25
+  },
+  {
+   "name": "Ochlockonee River",
+   "state": "FL",
+   "lat": 29.97,
+   "lon": -84.38,
+   "snap_lat": 29.9799,
+   "snap_lon": -84.354
+  },
+  {
+   "name": "Aucilla River",
+   "state": "FL",
+   "lat": 30.08,
+   "lon": -83.99,
+   "snap_lat": 30.0798,
+   "snap_lon": -83.9901
+  },
+  {
+   "name": "Steinhatchee River",
+   "state": "FL",
+   "lat": 29.67,
+   "lon": -83.39,
+   "snap_lat": 29.6644,
+   "snap_lon": -83.4123
+  },
+  {
+   "name": "Suwannee River",
+   "state": "FL",
+   "lat": 29.32,
+   "lon": -83.15,
+   "snap_lat": 29.3169,
+   "snap_lon": -83.1731
+  },
+  {
+   "name": "Yankeetown",
+   "state": "FL",
+   "lat": 29.03,
+   "lon": -82.72,
+   "snap_lat": 29.0267,
+   "snap_lon": -82.7533
+  },
+  {
+   "name": "Chassahowitzka",
+   "state": "FL",
+   "lat": 28.7,
+   "lon": -82.65,
+   "snap_lat": 28.696,
+   "snap_lon": -82.6671
+  },
+  {
+   "name": "Anclote River",
+   "state": "FL",
+   "lat": 28.17,
+   "lon": -82.79,
+   "snap_lat": 28.1695,
+   "snap_lon": -82.7944
+  },
+  {
+   "name": "Middle of Longboat Key",
+   "state": "FL",
+   "lat": 27.39,
+   "lon": -82.64,
+   "snap_lat": 27.3888,
+   "snap_lon": -82.6416
+  },
+  {
+   "name": "Englewood",
+   "state": "FL",
+   "lat": 26.96,
+   "lon": -82.35,
+   "snap_lat": 26.9453,
+   "snap_lon": -82.374
+  },
+  {
+   "name": "Bonita Beach",
+   "state": "FL",
+   "lat": 26.33,
+   "lon": -81.84,
+   "snap_lat": 26.3287,
+   "snap_lon": -81.8448
+  },
+  {
+   "name": "East Cape Sable",
+   "state": "FL",
+   "lat": 25.12,
+   "lon": -81.08,
+   "snap_lat": 25.1189,
+   "snap_lon": -81.0799
+  },
+  {
+   "name": "Flamingo",
+   "state": "FL",
+   "lat": 25.14,
+   "lon": -80.92,
+   "snap_lat": 25.1365,
+   "snap_lon": -80.9194
+  },
+  {
+   "name": "Card Sound Bridge",
+   "state": "FL",
+   "lat": 25.29,
+   "lon": -80.37,
+   "snap_lat": 25.2897,
+   "snap_lon": -80.366
+  },
+  {
+   "name": "Golden Beach",
+   "state": "FL",
+   "lat": 25.97,
+   "lon": -80.12,
+   "snap_lat": 25.97,
+   "snap_lon": -80.1187
+  },
+  {
+   "name": "Jupiter Inlet",
+   "state": "FL",
+   "lat": 26.94,
+   "lon": -80.07,
+   "snap_lat": 26.9395,
+   "snap_lon": -80.0719
+  },
+  {
+   "name": "Sebastian Inlet",
+   "state": "FL",
+   "lat": 27.86,
+   "lon": -80.45,
+   "snap_lat": 27.8601,
+   "snap_lon": -80.4497
+  },
+  {
+   "name": "Flagler/Volusia County Line",
+   "state": "FL",
+   "lat": 29.42,
+   "lon": -81.1,
+   "snap_lat": 29.4198,
+   "snap_lon": -81.1004
+  },
+  {
+   "name": "Ponte Vedra Beach",
+   "state": "FL",
+   "lat": 30.24,
+   "lon": -81.38,
+   "snap_lat": 30.2406,
+   "snap_lon": -81.3774
+  },
+  {
+   "name": "Mouth of the St. Marys River",
+   "state": "FL",
+   "lat": 30.71,
+   "lon": -81.44,
+   "snap_lat": 30.7084,
+   "snap_lon": -81.4413
+  },
+  {
+   "name": "Altamaha Sound",
+   "state": "GA",
+   "lat": 31.32,
+   "lon": -81.3,
+   "snap_lat": 31.3264,
+   "snap_lon": -81.2816
+  },
+  {
+   "name": "Savannah River",
+   "state": "GA",
+   "lat": 32.03,
+   "lon": -80.85,
+   "snap_lat": 32.0274,
+   "snap_lon": -80.8512
+  },
+  {
+   "name": "Edisto Beach",
+   "state": "SC",
+   "lat": 32.48,
+   "lon": -80.3,
+   "snap_lat": 32.4938,
+   "snap_lon": -80.3083
+  },
+  {
+   "name": "South Santee River",
+   "state": "SC",
+   "lat": 33.12,
+   "lon": -79.26,
+   "snap_lat": 33.1196,
+   "snap_lon": -79.2598
+  },
+  {
+   "name": "Little River Inlet",
+   "state": "SC",
+   "lat": 33.85,
+   "lon": -78.54,
+   "snap_lat": 33.8569,
+   "snap_lon": -78.542
+  },
+  {
+   "name": "Surf City",
+   "state": "NC",
+   "lat": 34.43,
+   "lon": -77.55,
+   "snap_lat": 34.4231,
+   "snap_lon": -77.546
+  },
+  {
+   "name": "Cape Lookout",
+   "state": "NC",
+   "lat": 34.61,
+   "lon": -76.54,
+   "snap_lat": 34.6095,
+   "snap_lon": -76.5419
+  },
+  {
+   "name": "Ocracoke Inlet",
+   "state": "NC",
+   "lat": 35.07,
+   "lon": -76.02,
+   "snap_lat": 35.059,
+   "snap_lon": -76.0377
+  },
+  {
+   "name": "Cape Hatteras",
+   "state": "NC",
+   "lat": 35.22,
+   "lon": -75.53,
+   "snap_lat": 35.5796,
+   "snap_lon": -75.7757
+  },
+  {
+   "name": "Oregon Inlet",
+   "state": "NC",
+   "lat": 35.77,
+   "lon": -75.53,
+   "snap_lat": 35.7875,
+   "snap_lon": -75.5316
+  },
+  {
+   "name": "Duck",
+   "state": "NC",
+   "lat": 36.17,
+   "lon": -75.75,
+   "snap_lat": 36.1713,
+   "snap_lon": -75.747
+  },
+  {
+   "name": "North Carolina/Virginia Border",
+   "state": "NC",
+   "lat": 36.55,
+   "lon": -75.87,
+   "snap_lat": 36.5505,
+   "snap_lon": -75.8668
+  }
+ ]
+}

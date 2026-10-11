@@ -1,0 +1,92 @@
+{
+  "_doc": "Simulated, site-independent MRMS-style maximum reflectivity. Sources storms from the chosen generator seed, not actual radar data.",
+  "storms": "storms_gen_seaboard_seed1.json",
+  "extent": [
+    -83.3,
+    -74.0,
+    31.5,
+    40.9
+  ],
+  "resolution_km": 2.0,
+  "heights_km": [
+    0.5,
+    1.5,
+    3.5,
+    5.5
+  ],
+  "start": "2027-04-29T13:00Z",
+  "end": "2027-04-30T00:20Z",
+  "step_min": 20,
+  "seed": 24,
+  "output_dir": "output/mrms",
+  "keep_frames": true,
+  "stills": [
+    "2027-04-29T15:00Z",
+    "2027-04-29T17:00Z",
+    "2027-04-29T19:00Z",
+    "2027-04-29T21:00Z",
+    "2027-04-29T23:00Z"
+  ],
+  "cities": [
+    [
+      "Savannah",
+      32.081,
+      -81.091
+    ],
+    [
+      "Charleston",
+      32.776,
+      -79.931
+    ],
+    [
+      "Columbia",
+      34.001,
+      -81.035
+    ],
+    [
+      "Florence",
+      34.195,
+      -79.762
+    ],
+    [
+      "Fayetteville",
+      35.053,
+      -78.878
+    ],
+    [
+      "Raleigh",
+      35.78,
+      -78.639
+    ],
+    [
+      "Norfolk",
+      36.851,
+      -76.285
+    ],
+    [
+      "Richmond",
+      37.541,
+      -77.436
+    ],
+    [
+      "Washington",
+      38.907,
+      -77.037
+    ],
+    [
+      "Baltimore",
+      39.29,
+      -76.612
+    ],
+    [
+      "Philadelphia",
+      39.953,
+      -75.164
+    ],
+    [
+      "Greenville",
+      35.613,
+      -77.366
+    ]
+  ]
+}

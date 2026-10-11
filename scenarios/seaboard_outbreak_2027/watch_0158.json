@@ -1,0 +1,147 @@
+{
+  "_doc": "SIMULATED broad PDS Severe Thunderstorm Watch for a destructive derecho-like QLCS from central VA across the Mid-Atlantic into southeast PA/southwest NJ; brief embedded tornadoes possible.",
+  "type": "Severe Thunderstorm",
+  "number": "158",
+  "pds": true,
+  "valid_until": "7:00 PM EDT\nThu Apr 29, 2027",
+  "updated": "04/29/27 11:10 AM EDT",
+  "axis": {
+    "orientation": "east_west",
+    "half_width_mi": 110,
+    "from": {
+      "miles": 20,
+      "dir": "SSW",
+      "city": "Richmond VA",
+      "lat": 37.541,
+      "lon": -77.436
+    },
+    "to": {
+      "miles": 40,
+      "dir": "NNE",
+      "city": "Philadelphia PA",
+      "lat": 39.953,
+      "lon": -75.164
+    }
+  },
+  "state_fips": [
+    "10",
+    "11",
+    "24",
+    "34",
+    "42",
+    "51"
+  ],
+  "state_filters": {
+    "51": {
+      "lat_min": 37.3
+    },
+    "42": {
+      "lat_max": 40.8
+    },
+    "34": {
+      "lat_max": 40.7
+    },
+    "24": {
+      "lat_max": 40.3
+    }
+  },
+  "probabilities": [
+    [
+      "Severe Wind",
+      ">95%",
+      96
+    ],
+    [
+      "75+ mph\\nWind",
+      "90%",
+      90
+    ],
+    [
+      "Tornadoes",
+      "50%",
+      50
+    ],
+    [
+      "EF2-EF5\\nTornado",
+      "10%",
+      10
+    ],
+    [
+      "Severe Hail",
+      "40%",
+      40
+    ],
+    [
+      "2+ inches Hail",
+      "5%",
+      5
+    ]
+  ],
+  "max_hail": "1.75 inches",
+  "max_wind": "100 mph",
+  "extent": [
+    -80.8,
+    -72.9,
+    36.5,
+    41.5
+  ],
+  "cities": [
+    [
+      "Richmond",
+      37.541,
+      -77.436
+    ],
+    [
+      "Charlottesville",
+      38.03,
+      -78.476
+    ],
+    [
+      "Fredericksburg",
+      38.303,
+      -77.461
+    ],
+    [
+      "Washington",
+      38.907,
+      -77.037
+    ],
+    [
+      "Baltimore",
+      39.29,
+      -76.612
+    ],
+    [
+      "Dover",
+      39.159,
+      -75.524
+    ],
+    [
+      "Wilmington",
+      39.746,
+      -75.548
+    ],
+    [
+      "Philadelphia",
+      39.953,
+      -75.164
+    ],
+    [
+      "Trenton",
+      40.221,
+      -74.759
+    ],
+    [
+      "Harrisburg",
+      40.274,
+      -76.887
+    ],
+    [
+      "Atlantic City",
+      39.364,
+      -74.423
+    ]
+  ],
+  "scenario_label": "SIMULATED — Atlantic Seaboard Outbreak",
+  "output": "SPC_WW0158_graphic.png"
+}

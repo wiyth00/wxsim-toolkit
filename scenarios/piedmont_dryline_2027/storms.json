@@ -1,0 +1,123 @@
+{
+ "_doc": "Single source of truth for storm positions. anchor = where the storm is at a given time; position at any other time follows the motion vector. archetype names: classic_supercell, lp_supercell, hp_supercell, elevated_hail, high_based_cell, multicell, pulse, qlcs_segment, stratiform. params: scale, dz (dBZ offset), hail (hail-core dBZ), ffd_rot, anvil. split: right|left. life/evolve optional (ISO times).",
+ "storms": [
+  {
+   "id": "S1",
+   "label": "Carrollton storm (now Upstate SC)",
+   "archetype": "classic_supercell",
+   "anchor": {
+    "time": "2027-04-17T22:38Z",
+    "lat": 34.45,
+    "lon": -82.62
+   },
+   "motion": {
+    "dir_from": 250,
+    "speed_kt": 42
+   },
+   "params": {
+    "scale": 1.35,
+    "hail": 69
+   },
+   "evolve": [
+    {
+     "at": "2027-04-17T18:30Z",
+     "archetype": "lp_supercell"
+    },
+    {
+     "at": "2027-04-17T21:45Z",
+     "archetype": "classic_supercell"
+    }
+   ]
+  },
+  {
+   "id": "S2",
+   "label": "Athens tornadic supercell",
+   "archetype": "classic_supercell",
+   "anchor": {
+    "time": "2027-04-17T22:31Z",
+    "lat": 33.8,
+    "lon": -83.62
+   },
+   "motion": {
+    "dir_from": 250,
+    "speed_kt": 40
+   },
+   "params": {
+    "scale": 1.4,
+    "hail": 68,
+    "dz": 1
+   }
+  },
+  {
+   "id": "S3",
+   "label": "Madison giant-hail LP supercell",
+   "archetype": "lp_supercell",
+   "anchor": {
+    "time": "2027-04-17T22:40Z",
+    "lat": 33.42,
+    "lon": -83.78
+   },
+   "motion": {
+    "dir_from": 250,
+    "speed_kt": 38
+   },
+   "params": {
+    "scale": 1.35,
+    "hail": 72
+   }
+  },
+  {
+   "id": "S4",
+   "label": "Gainesville elevated hail storm",
+   "archetype": "elevated_hail",
+   "anchor": {
+    "time": "2027-04-17T22:35Z",
+    "lat": 34.25,
+    "lon": -83.98
+   },
+   "motion": {
+    "dir_from": 240,
+    "speed_kt": 35
+   },
+   "params": {
+    "hail": 65,
+    "scale": 1.2
+   }
+  },
+  {
+   "id": "S5",
+   "label": "Thomaston high-based dry-microburst cell",
+   "archetype": "high_based_cell",
+   "anchor": {
+    "time": "2027-04-17T22:22Z",
+    "lat": 32.92,
+    "lon": -84.4
+   },
+   "motion": {
+    "dir_from": 245,
+    "speed_kt": 35
+   },
+   "params": {
+    "scale": 1.1
+   }
+  },
+  {
+   "id": "S6",
+   "label": "Developing cells near Covington (unwarned)",
+   "archetype": "multicell",
+   "anchor": {
+    "time": "2027-04-17T22:45Z",
+    "lat": 33.62,
+    "lon": -83.93
+   },
+   "motion": {
+    "dir_from": 245,
+    "speed_kt": 34
+   },
+   "params": {
+    "scale": 1.0,
+    "dz": -6
+   }
+  }
+ ]
+}

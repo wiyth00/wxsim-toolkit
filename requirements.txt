@@ -4,3 +4,4 @@ matplotlib
 metpy>=1.6
 shapely>=2.0
 pyproj
+pillow

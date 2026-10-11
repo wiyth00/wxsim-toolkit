@@ -54,7 +54,7 @@ def watch_counties(cfg):
     keep = []
     for f in geo.counties():
         fid = str(f['id']).zfill(5)
-        if fid[:2] not in cfg['state_fips']:
+        if fid[:2] not in cfg['state_fips'] or fid in cfg.get('exclude_fips', []):   # e.g. counties already in another watch
             continue
         g = shape(f['geometry']).buffer(0)
         c = g.representative_point()
@@ -64,14 +64,14 @@ def watch_counties(cfg):
         if ('lon_min' in r and c.x < r['lon_min']) or ('lon_max' in r and c.x > r['lon_max']) or \
            ('lat_min' in r and c.y < r['lat_min']) or ('lat_max' in r and c.y > r['lat_max']):
             continue
-        keep.append(g)
+        keep.append((fid, g))
     return keep, para
 
 
 def render(cfg, outdir):
     matplotlib.rcdefaults()
     counties_in, para = watch_counties(cfg)
-    wu = unary_union(counties_in).buffer(0.004).buffer(-0.004)
+    wu = unary_union([g for _, g in counties_in]).buffer(0.004).buffer(-0.004)
     lon0, lon1, lat0, lat1 = cfg['extent']
     EXT = geo.extent_box(lon0, lon1, lat0, lat1, pad=1.5)
     tr = geo.transformer(lat_0=(lat0 + lat1) / 2, lon_0=(lon0 + lon1) / 2)
@@ -122,7 +122,8 @@ def render(cfg, outdir):
         y -= h + 0.019
     lp.text(0.07, 0.125, f"Max Expected Hail: {cfg['max_hail']}", color='white', fontsize=13.5, va='center')
     lp.text(0.07, 0.065, f"Max Expected Wind:  {cfg['max_wind']}", color='white', fontsize=13.5, va='center')
-    fig.text(0.14, 0.022, f"{wtype} Watch #{cfg['number']}  •  Storm Prediction Center", ha='center', va='center',
+    footer_x = 0.19 if wtype == 'Severe Thunderstorm' else 0.14
+    fig.text(footer_x, 0.022, f"{wtype} Watch #{cfg['number']}  •  Storm Prediction Center", ha='center', va='center',
              color='white', fontsize=9.5, bbox=dict(facecolor='black', edgecolor='white', lw=0.8, pad=3))
 
     out = Path(outdir) / cfg.get('output', f"WW{cfg['number']}_graphic.png")

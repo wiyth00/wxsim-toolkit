@@ -1,0 +1,240 @@
+{
+ "_doc": "KCAE (Columbia SC) base reflectivity at the Tornado Emergency time, generated seed-1 storms (frozen copy).",
+ "site": {
+  "id": "KCAE",
+  "name": "Columbia, SC",
+  "lat": 33.9486,
+  "lon": -81.1184,
+  "max_range_km": 230
+ },
+ "time": "2027-04-17T23:06Z",
+ "tz": {
+  "offset_h": -4,
+  "name": "EDT"
+ },
+ "storms_file": "storms_gen_seed1_frozen.json",
+ "seed": 17,
+ "clutter": true,
+ "products": [
+  "base"
+ ],
+ "view": [
+  -82.55,
+  -80.6,
+  32.95,
+  34.3
+ ],
+ "extra_views": [
+  {
+   "name": "aiken_zoom",
+   "view": [
+    -82.0,
+    -81.35,
+    33.45,
+    33.82
+   ]
+  }
+ ],
+ "overlays": {
+  "hazards_file": "hazards_CAE_2306z.json",
+  "warnings": true,
+  "watch_outline": true,
+  "storm_ids": true,
+  "tornado_markers": true,
+  "range_rings": false
+ },
+ "interstates": {
+  "I-20": [
+   [
+    -82.6,
+    33.5
+   ],
+   [
+    -81.97,
+    33.47
+   ],
+   [
+    -81.84,
+    33.57
+   ],
+   [
+    -81.62,
+    33.66
+   ],
+   [
+    -81.4,
+    33.8
+   ],
+   [
+    -81.25,
+    33.92
+   ],
+   [
+    -81.03,
+    34.0
+   ],
+   [
+    -80.3,
+    34.3
+   ]
+  ],
+  "I-26": [
+   [
+    -81.6,
+    34.3
+   ],
+   [
+    -81.25,
+    34.1
+   ],
+   [
+    -81.1,
+    34.02
+   ],
+   [
+    -80.98,
+    33.9
+   ],
+   [
+    -80.87,
+    33.72
+   ],
+   [
+    -80.78,
+    33.55
+   ],
+   [
+    -80.6,
+    33.35
+   ]
+  ],
+  "I-77": [
+   [
+    -81.03,
+    34.0
+   ],
+   [
+    -80.95,
+    34.3
+   ],
+   [
+    -80.9,
+    34.7
+   ]
+  ],
+  "I-520": [
+   [
+    -82.07,
+    33.43
+   ],
+   [
+    -81.99,
+    33.39
+   ],
+   [
+    -81.93,
+    33.45
+   ],
+   [
+    -81.95,
+    33.52
+   ]
+  ]
+ },
+ "cities": [
+  [
+   "Augusta",
+   33.471,
+   -81.975
+  ],
+  [
+   "North Augusta",
+   33.502,
+   -81.965
+  ],
+  [
+   "Aiken",
+   33.56,
+   -81.72
+  ],
+  [
+   "Graniteville",
+   33.563,
+   -81.807
+  ],
+  [
+   "Wagener",
+   33.653,
+   -81.363
+  ],
+  [
+   "Edgefield",
+   33.79,
+   -81.93
+  ],
+  [
+   "Johnston",
+   33.832,
+   -81.801
+  ],
+  [
+   "Batesburg-Leesville",
+   33.91,
+   -81.535
+  ],
+  [
+   "Lexington",
+   33.981,
+   -81.236
+  ],
+  [
+   "Columbia",
+   34.001,
+   -81.035
+  ],
+  [
+   "Orangeburg",
+   33.497,
+   -80.855
+  ],
+  [
+   "Barnwell",
+   33.245,
+   -81.358
+  ],
+  [
+   "Williston",
+   33.403,
+   -81.42
+  ],
+  [
+   "Saluda",
+   34.001,
+   -81.772
+  ],
+  [
+   "Thomson",
+   33.471,
+   -82.504
+  ],
+  [
+   "Waynesboro",
+   33.09,
+   -82.016
+  ],
+  [
+   "New Ellenton",
+   33.421,
+   -81.686
+  ],
+  [
+   "Swansea",
+   33.738,
+   -81.1
+  ]
+ ],
+ "scenario_label": "SIMULATED RADAR \u2014 generated storms (seed 1)",
+ "outputs": {
+  "base": "KCAE_BREF_202704172306.png"
+ }
+}

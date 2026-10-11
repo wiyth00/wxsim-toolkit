@@ -1,0 +1,94 @@
+000
+ACUS01 KWNS 241245
+SWODY1
+SPC AC 241244
+
+Day 1 Convective Outlook
+NWS Storm Prediction Center Norman OK
+0644 AM CST Wed Feb 24 2027
+
+Valid 241300Z - 251200Z
+
+...THERE IS A HIGH RISK OF SEVERE THUNDERSTORMS ALONG THE MIDDLE AND
+UPPER TEXAS COAST AND THE COASTAL PARISHES OF SOUTHWEST AND
+SOUTH-CENTRAL LOUISIANA TO THE MISSISSIPPI RIVER DELTA...
+
+...SUMMARY...
+A tornado outbreak is expected today into tonight within a narrow
+coastal corridor stretching roughly 400 miles from Matagorda Bay
+through Galveston, Cameron, Vermilion Bay, and Houma to the mouth of
+the Mississippi River. Numerous tornadoes, several of which will be
+long-tracked and strong to intense (EF3+), are expected. An EF4+
+tornado is possible from Galveston Bay to Vermilion Bay. Supercells
+moving onshore from the Gulf will travel east-northeast parallel to
+the coast along a warm front pinned just inland. The threat will
+continue overnight across coastal southeast Louisiana.
+
+...SYNOPSIS...
+A vigorous, compact shortwave trough over northern Coahuila early
+this morning will eject east-northeast and take on a negative tilt as
+it crosses the northwest Gulf today. It is embedded within an
+exceptionally strong subtropical jet, with 250 mb winds of 150-170 kt
+from northern Mexico into the central Gulf Coast. At the surface, a
+1001 mb low just offshore of Port O'Connor will deepen to around 990
+mb as it tracks east-northeast. The low will stay within 20-40 miles
+of the coastline, passing just south of Cameron by 00z and near Grand
+Isle by 06z. A warm front extends east from the low. It is moving
+onto the coast this morning but will make little further inland
+progress, remaining 10-40 miles inland. Its movement will be blocked
+by a deep, rain-cooled layer across southeast Texas and southern
+Louisiana, where temperatures are in the 50s F and widespread
+elevated convection continues. The warm sector is therefore confined
+to a thin coastal strip and the adjacent Gulf waters.
+
+...Middle/upper Texas coast through coastal Louisiana...
+Buoy and platform observations south of the front show dewpoints of
+70-74 F over the northwest Gulf. Surface-based MLCAPE of 1500-2500
+J/kg is available over the shelf waters and the immediate coastal
+plain. It falls off sharply inland, to less than 500 J/kg across the
+Houston, Beaumont, Lake Charles, and Lafayette metros if the front
+holds as expected. A 70-85 kt low-level jet will surge across the
+coast from late morning onward, beneath 80-100 kt of effective bulk
+shear. Surface winds are backed to east-southeast along the front,
+which will lengthen the low-level hodographs substantially. RRFS and
+REFS forecast soundings show 0-1 km SRH of 400-600 m2/s2 in the
+coastal warm sector and 600-800 m2/s2 along the front. Combined with
+LCLs of 300-600 m, this supports effective-layer STP of 6-12, with
+some values above 15 along the coast from Galveston Bay to Vermilion
+Bay this afternoon.
+
+Supercells forming over the Gulf will move east-northeast at 45-55
+kt, nearly parallel to the coastline. This is the primary concern.
+Storms that come ashore will not quickly reach stable air. Instead
+they can remain in the coastal warm sector and near the front for 100
+miles or more, which favors long-track, strong to intense tornadoes.
+The greatest concern is from the Bolivar Peninsula and the southern
+Houston/Galveston Bay area east through Sabine Pass, Cameron, and
+Vermilion Bay from 16z through 01z. The same threat will then shift
+into Terrebonne, Lafourche, and Plaquemines Parishes from 01z to 07z.
+Many of these areas are sparsely populated marsh and coastal
+communities, with limited road networks and evacuation routes.
+Several tornadoes may occur after dark.
+
+The inland edge of the risk depends heavily on where the warm front
+stalls. A 15-30 mile northward adjustment would bring the High Risk
+tornado threat into Houston, Beaumont, Lake Charles, and Lafayette,
+and trends will be monitored closely through the morning. North of
+the front, storms will be elevated. They will mainly produce hail and
+gusty winds, though a tornado or two is possible with any storm that
+roots along the boundary.
+
+...Southeast Louisiana and the Mississippi/Alabama coast tonight...
+The Pacific front will overtake the coastal supercells overnight, and
+activity will consolidate into a QLCS that sweeps across the New
+Orleans metro and the Mississippi coast between 06z and 10z. MLCAPE
+of 500-1000 J/kg and 400+ m2/s2 of 0-1 km SRH will persist near the
+coast. The line will produce mesovortex tornadoes and 60-80 mph gusts
+before the severe threat decreases near Mobile Bay toward 12z.
+
+...Inland southeast Texas into central Louisiana and southern
+Mississippi...
+Elevated storms atop the rain-cooled layer may produce isolated large
+hail of 1-1.75 inches and occasional damaging gusts through tonight.
+
+..Delacroix/Vance.. 02/24/2027

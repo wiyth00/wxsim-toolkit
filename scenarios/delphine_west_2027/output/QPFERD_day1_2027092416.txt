@@ -1,0 +1,66 @@
+000
+FOUS30 KWBC 241527
+QPFERD
+
+Excessive Rainfall Discussion
+NWS Weather Prediction Center College Park MD
+1127 AM EDT Fri Sep 24 2027
+Day 1
+Valid 16Z Fri Sep 24 2027 - 12Z Sat Sep 25 2027
+
+...THERE IS A HIGH RISK OF EXCESSIVE RAINFALL ACROSS PORTIONS OF
+NORTH GEORGIA AND EAST-CENTRAL ALABAMA...INCLUDING THE ATLANTA
+METROPOLITAN AREA...
+
+...THERE IS A MODERATE RISK OF EXCESSIVE RAINFALL ACROSS PORTIONS OF
+EAST ALABAMA...WEST-CENTRAL GEORGIA...SOUTHEAST TENNESSEE...AND THE
+SOUTHERN APPALACHIANS...
+
+...16Z Update...
+
+...North Georgia, Florida Panhandle, and Southern Appalachians...
+
+The inherited Moderate Risk was upgraded to a High Risk across north
+Georgia, including metro Atlanta, and into east-central Alabama, in
+coordination with WFOs FFC, BMX, GSP, and MRX and the Southeast River
+Forecast Center. The surrounding Moderate Risk was expanded south to
+near Columbus and north into southeast Tennessee and the southern
+Appalachians. The Slight Risk now reaches the Florida Panhandle coast
+near the forecast landfall point of Hurricane Delphine, where faster
+motion and higher flash flood guidance keep the threat lower despite
+heavy rates.
+
+The upgrade is driven more by antecedent conditions than by
+storm-total QPF. A predecessor rain event (PRE) has been nearly
+stationary since Wednesday along a stalled baroclinic zone from east
+Alabama through the Atlanta metro into the South Carolina Upstate. It
+has produced 7 to 11 inches of rain, including about 10 inches at
+Atlanta Hartsfield-Jackson International Airport in three days. Soils
+are saturated, most small streams are running bankfull, and 3-hour
+flash flood guidance has fallen below 1 inch across much of the metro
+and below 1.5 inches over most of north Georgia. Urban runoff in the
+metro will be especially efficient.
+
+Delphine's forward speed near 50 mph will limit storm totals at any
+one point, but that matters much less with FFG this low. The 12Z HREF
+and REFS show a 3 to 5 hour window of 1 to 2.5 inch per hour rates in
+the inner core and the right-front quadrant between roughly 03Z and
+09Z. That is enough to exceed guidance nearly everywhere along and
+within 60 miles of the track. PWs of 2.3 to 2.6 inches are forecast,
+above the 99th percentile for late September. The 12Z RRFS, HAFS-A/B,
+AI-GFS and ECMWF-AIFS agree on the overall track and timing, and
+spread in rainfall placement is mostly tied to where the center
+crosses the Georgia-Alabama border.
+
+Farther north, strong southerly flow will push up the Blue Ridge
+escarpment late in the period, and upslope enhancement is likely over
+the north Georgia mountains and southwest North Carolina. There, 3 to
+6 additional inches on already saturated slopes could trigger flash
+flooding and landslides. Considerable to catastrophic flash flooding
+is expected within the High Risk, including life-threatening flooding
+of urban creeks in the Atlanta metro overnight when visibility and
+warning reception will be poor.
+
+..Ramirez..
+
+Day 1 threat area: www.wpc.ncep.noaa.gov/qpf/94epoints.txt

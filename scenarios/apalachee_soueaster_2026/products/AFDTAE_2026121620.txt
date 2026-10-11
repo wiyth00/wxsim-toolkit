@@ -1,0 +1,234 @@
+000
+FXUS62 KTAE 162042
+AFDTAE
+
+Area Forecast Discussion
+National Weather Service Tallahassee FL
+342 PM EST Wed Dec 16 2026
+
+...HISTORIC WIND EVENT TONIGHT INTO FRIDAY...
+...LOW EXPECTED TO MAKE LANDFALL NEAR ST. MARKS AROUND 1 AM EST AT OR
+BELOW 941 MB...
+...LIFE-THREATENING COASTAL FLOODING OF 10 TO 15 FEET ABOVE GROUND
+FROM KEATON BEACH TO STEINHATCHEE...
+
+.KEY MESSAGES...
+
+  - A rapidly deepening extratropical low over the eastern Gulf is
+    forecast to come ashore near St. Marks around 1 AM EST Thursday
+    with a central pressure near 941 mb. That would be the lowest
+    pressure on record for a non-tropical low anywhere along the Gulf
+    Coast. The low will then loop slowly over southwest Georgia
+    through Friday before exiting east Saturday.
+
+  - A High Wind Warning is in effect for the entire area from 7 PM
+    EST this evening through 7 PM EST Friday. Gusts of 80 to 110 mph
+    are expected along and east of the track, with peak gusts near
+    125 mph possible from Perry to Valdosta. Gusts of 75 to 95 mph
+    are expected west of the Apalachicola River. Expect widespread,
+    long-duration power outages, numerous downed trees, and
+    structural damage. If the extreme winds near the core
+    materialize, Extreme Wind Warnings will be issued as the low
+    comes ashore.
+
+  - A Coastal Flood Warning is in effect for the Big Bend coast.
+    Inundation of 10 to 15 feet above ground is forecast from Keaton
+    Beach to Steinhatchee, 8 to 12 feet from St. Marks to Econfina,
+    and 4 to 7 feet along the Franklin County coast. The water will
+    rise very quickly late tonight. Leave evacuation zones before
+    dark.
+
+  - A squall line with embedded supercells will cross the Big Bend
+    this evening. SPC has an Enhanced Risk (level 3 of 5) for the
+    southeast Big Bend. Tornadoes may be brief and rain-wrapped, with
+    little warning.
+
+  - Rain totals of 5 to 10 inches, locally 12 inches near Valdosta,
+    will cause flash flooding and river flooding in the Big Bend and
+    south Georgia into the weekend.
+
+&&
+
+.NEAR TERM...
+(Through Thursday)
+Issued at 342 PM EST Wed Dec 16 2026
+
+The 18Z surface analysis put the low near 27.9N 87.0W, about 230
+miles southwest of Apalachicola, at 962 mb and falling about 3 mb per
+hour. That is 35 mb in the last 12 hours, a pace of more than 5
+Bergerons once adjusted for latitude, and the bottom is not in yet.
+This is not a tropical cyclone and does not have a closed warm core
+in the usual sense, but it is acting like one near the center.
+GOES-19 shows a clear slot and a tightly wrapped cloud head around a
+developing warm seclusion, and recon by an Air Force C-130 out of
+Keesler at 1830Z found 87 kt at 1500 ft southeast of the center. The
+setup is about as favorable for explosive deepening as the Gulf ever
+gets. An extremely strong subtropical jet with 200-plus kt at 250 mb
+sits over the north Gulf, and a sharp northern-stream wave is phasing
+with it over Louisiana. The Loop Current eddy has kept sea surface
+temperatures 2 to 3 C above normal because no hurricane mixed the
+Gulf this season. A 1046 mb Arctic high over Quebec is wedging cold
+air down the east side of the Appalachians, so the thermal contrast
+across the Southeast is the strongest any of us has seen.
+
+All guidance agrees on landfall between Apalachicola and Keaton Beach
+around 06Z, including the 12Z GFS, ECMWF, AIFS, RRFS, and the HAFS
+runs being produced for this system as a special request. We favor
+St. Marks, near the middle of the envelope, at 04Z to 07Z. The 12Z
+RRFS and REFS bottom the low out at 936 to 943 mb near 03Z, and the
+AI guidance is only a few mb weaker. We are forecasting 939 mb at the
+minimum and 941 mb at landfall.
+
+The wind forecast is the headline. The strongest winds will be east
+and southeast of the center, where the bent-back front wraps around
+the south side of the low. Over the Big Bend coast and the eastern
+Florida counties, 925 mb winds of 95 to 110 kt are forecast tonight
+as the low comes ashore. Momentum transfer will be efficient in the
+convective bands and in the dry slot behind the bent-back front.
+Expect gusts of 100 to 125 mph from Perry and Keaton Beach to Madison
+and Valdosta from about 11 PM tonight through 4 AM Thursday.
+Sustained winds will mostly be 60 to 85 mph there, which is lower
+than a hurricane producing the same gusts, but the gusts are what
+will take down trees and power lines. Tallahassee will be close to
+the center during the early morning hours and may get a lull of 30 to
+60 minutes before the winds come back from the west and southwest. Do
+not go outside during the lull. Peak gusts in Tallahassee are
+forecast near 110 mph, mainly after sunrise Thursday.
+
+A second, separate wind maximum is likely Thursday morning over
+south-central Georgia. As the low occludes and turns north, a sting
+jet descending out of the cloud head should reach the surface from
+Moultrie and Quitman to Valdosta and Lakeland between about 5 AM and
+9 AM EST. The RRFS shows it as a narrow, 20- to 40-mile-wide streak
+of 90-plus kt winds at 850 mb with subsidence and drying below the
+cloud head. Gusts of 100 to 125 mph are possible under it. Sting jets
+are hard to pin down, so treat the location as uncertain by 30 to 50
+miles.
+
+Ahead of the low, a strongly forced squall line with embedded
+supercells will race east across the Big Bend between 4 PM and 9 PM
+this evening. MLCAPE of 500 to 1000 J/kg sits under 0-1 km SRH of 400
+to 600 m2/s2 and effective shear over 80 kt. That is enough for
+damaging gusts of 70 to 90 mph in the line and a few tornadoes,
+especially in the southeast Big Bend.
+
+Surge: south and southeast winds east of the center will pile water
+into Apalachee Bay and the Big Bend coast as the low approaches. The
+shallow shelf there amplifies surge efficiently, and this low's wind
+field is far larger than a hurricane's. Peak inundation will occur
+near and just after landfall, between 2 AM and 6 AM EST, close to the
+4:51 AM high tide at Cedar Key. The highest values, 10 to 15 feet
+above ground, are expected from Keaton Beach to Steinhatchee. This is
+a life-threatening situation. Anyone still in Dixie, Taylor,
+Jefferson, or Wakulla County evacuation zones must leave before dark.
+
+Cold air wraps in quickly behind the low Thursday. Temperatures in
+the low 70s ahead of the line will fall into the 40s across the
+western half of the area by Thursday afternoon, with wind chills in
+the 30s.
+
+&&
+
+.SHORT TERM...
+(Thursday night through Friday night)
+Issued at 342 PM EST Wed Dec 16 2026
+
+The low makes a slow cyclonic loop over southwest Georgia Thursday
+night and Friday as it becomes vertically stacked under the cutoff
+upper low. It will fill slowly, from about 955 mb Thursday evening to
+965 mb Friday afternoon. Winds will drop off from their peak, but
+this is a long-duration event. Gusts of 50 to 70 mph will continue
+across south Georgia and the Big Bend through Friday, and 40 to 55
+mph in the Panhandle. Additional trees will fall in saturated soils
+long after the peak winds pass. Wraparound rain bands will keep rain
+going over southwest Georgia and the Panhandle. Highs will only reach
+the mid 40s to around 50 Friday. Lows Friday night will be in the low
+to mid 30s with a raw north wind.
+
+&&
+
+.LONG TERM...
+(Saturday through Tuesday)
+Issued at 342 PM EST Wed Dec 16 2026
+
+The low exits east off the Georgia coast Saturday. Winds will
+diminish, and drier air and sunshine will return Saturday afternoon.
+Recovery conditions will be cold: lows in the upper 20s to low 30s
+Sunday and Monday mornings, with a freeze likely north of I-10. Many
+people will still be without power, so plan for heat safely and never
+run generators indoors. Rivers will keep rising into early next week.
+
+&&
+
+.AVIATION...
+(18Z TAFS)
+Issued at 1240 PM EST Wed Dec 16 2026
+
+Conditions deteriorate from west to east this afternoon as the squall
+line arrives. Expect TSRA with gusts of 50 to 70 kt at ECP after 21Z,
+TLH and ABY after 23Z, and VLD after 01Z. Behind the line, south to
+southeast winds of 35 to 50 kt with gusts of 80 to 105 kt are
+forecast at TLH and VLD between 04Z and 12Z, highest at VLD between
+10Z and 14Z. Low-level wind shear is extreme throughout. Airport
+operations at TLH and VLD will likely be suspended overnight. IFR to
+LIFR in +RA continues through Thursday morning.
+
+&&
+
+.MARINE...
+Issued at 342 PM EST Wed Dec 16 2026
+
+A Hurricane Force Wind Warning is in effect for all waters tonight
+into Thursday, with south to southwest winds of 65 to 85 kt and seas
+of 25 to 35 ft offshore. Winds turn west and northwest Thursday and
+stay at storm force into Friday. This is a dangerous, potentially
+life-threatening marine event. All vessels should already be in port.
+
+&&
+
+.HYDROLOGY...
+Issued at 342 PM EST Wed Dec 16 2026
+
+WPC has a Moderate Risk (level 3 of 4) of excessive rainfall through
+7 AM Thursday from the eastern Panhandle across the Big Bend and
+south Georgia. Storm totals of 5 to 10 inches, locally 12 near
+Valdosta, are forecast through Friday. Flash flooding is likely in
+Tallahassee and Valdosta. The Ochlockonee, Aucilla, Withlacoochee,
+and Little Rivers are forecast to reach moderate to major flood stage
+this weekend. Coastal flooding will block outflow on the lower
+Ochlockonee and St. Marks Rivers through Thursday.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Tallahassee   64  52  43  34 / 100 100  80  20
+Panama City   58  50  44  36 / 100  90  60  10
+Albany        62  48  41  32 / 100 100  80  30
+Valdosta      66  54  45  35 / 100 100  80  20
+Cross City    68  58  48  37 / 100 100  60  10
+Apalachicola  62  53  46  38 / 100  90  60  10
+
+&&
+
+.TAE WATCHES/WARNINGS/ADVISORIES...
+FL...High Wind Warning from 7 PM EST this evening through Friday
+     evening for
+     FLZ007>019-026>029-034-108-112-114-115-118-127-128-134.
+     Coastal Flood Warning from 7 PM EST this evening through
+     Thursday evening for FLZ108-112-114-115-118-127-128-134.
+GA...High Wind Warning from 7 PM EST this evening through Friday
+     evening for GAZ120>131-142>148-155>161.
+AL...High Wind Warning from 7 PM EST this evening through Friday
+     evening for ALZ065>069.
+GM...Hurricane Force Wind Warning until 7 PM EST Thursday for
+     GMZ730-750-751-752-755-765-770-772-775.
+&&
+
+$$
+
+NEAR TERM...Okafor
+SHORT TERM...Okafor
+LONG TERM....Delacroix
+AVIATION...Hensley
+MARINE...Delacroix
+HYDROLOGY...Hensley

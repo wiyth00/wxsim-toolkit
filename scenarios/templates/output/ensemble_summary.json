@@ -1,0 +1,202 @@
+[
+ {
+  "seed": 1,
+  "storms": 42,
+  "supercells": 42,
+  "tornadoes": 16,
+  "strong_tornadoes": 1,
+  "max_ef": 2,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.6
+ },
+ {
+  "seed": 2,
+  "storms": 56,
+  "supercells": 56,
+  "tornadoes": 19,
+  "strong_tornadoes": 3,
+  "max_ef": 3,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.64
+ },
+ {
+  "seed": 3,
+  "storms": 49,
+  "supercells": 49,
+  "tornadoes": 13,
+  "strong_tornadoes": 2,
+  "max_ef": 3,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.73
+ },
+ {
+  "seed": 4,
+  "storms": 50,
+  "supercells": 50,
+  "tornadoes": 24,
+  "strong_tornadoes": 3,
+  "max_ef": 2,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.7
+ },
+ {
+  "seed": 5,
+  "storms": 59,
+  "supercells": 59,
+  "tornadoes": 18,
+  "strong_tornadoes": 3,
+  "max_ef": 2,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.62
+ },
+ {
+  "seed": 6,
+  "storms": 57,
+  "supercells": 57,
+  "tornadoes": 18,
+  "strong_tornadoes": 2,
+  "max_ef": 2,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.59
+ },
+ {
+  "seed": 7,
+  "storms": 52,
+  "supercells": 52,
+  "tornadoes": 14,
+  "strong_tornadoes": 1,
+  "max_ef": 2,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.58
+ },
+ {
+  "seed": 8,
+  "storms": 41,
+  "supercells": 41,
+  "tornadoes": 16,
+  "strong_tornadoes": 1,
+  "max_ef": 2,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.63
+ },
+ {
+  "seed": 9,
+  "storms": 43,
+  "supercells": 43,
+  "tornadoes": 15,
+  "strong_tornadoes": 2,
+  "max_ef": 2,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.81
+ },
+ {
+  "seed": 10,
+  "storms": 47,
+  "supercells": 47,
+  "tornadoes": 19,
+  "strong_tornadoes": 1,
+  "max_ef": 3,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.55
+ },
+ {
+  "seed": 11,
+  "storms": 55,
+  "supercells": 55,
+  "tornadoes": 17,
+  "strong_tornadoes": 3,
+  "max_ef": 4,
+  "hail_2in_storms": 1,
+  "max_hail_in": 2.04
+ },
+ {
+  "seed": 12,
+  "storms": 52,
+  "supercells": 52,
+  "tornadoes": 18,
+  "strong_tornadoes": 4,
+  "max_ef": 4,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.62
+ },
+ {
+  "seed": 13,
+  "storms": 53,
+  "supercells": 53,
+  "tornadoes": 7,
+  "strong_tornadoes": 0,
+  "max_ef": 1,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.74
+ },
+ {
+  "seed": 14,
+  "storms": 61,
+  "supercells": 60,
+  "tornadoes": 24,
+  "strong_tornadoes": 1,
+  "max_ef": 3,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.76
+ },
+ {
+  "seed": 15,
+  "storms": 44,
+  "supercells": 44,
+  "tornadoes": 17,
+  "strong_tornadoes": 0,
+  "max_ef": 1,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.54
+ },
+ {
+  "seed": 16,
+  "storms": 48,
+  "supercells": 48,
+  "tornadoes": 18,
+  "strong_tornadoes": 0,
+  "max_ef": 1,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.68
+ },
+ {
+  "seed": 17,
+  "storms": 42,
+  "supercells": 42,
+  "tornadoes": 18,
+  "strong_tornadoes": 1,
+  "max_ef": 2,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.68
+ },
+ {
+  "seed": 18,
+  "storms": 42,
+  "supercells": 42,
+  "tornadoes": 17,
+  "strong_tornadoes": 2,
+  "max_ef": 3,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.64
+ },
+ {
+  "seed": 19,
+  "storms": 42,
+  "supercells": 42,
+  "tornadoes": 19,
+  "strong_tornadoes": 2,
+  "max_ef": 3,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.67
+ },
+ {
+  "seed": 20,
+  "storms": 42,
+  "supercells": 42,
+  "tornadoes": 19,
+  "strong_tornadoes": 0,
+  "max_ef": 1,
+  "hail_2in_storms": 0,
+  "max_hail_in": 1.6
+ }
+]

@@ -1,0 +1,146 @@
+{
+ "_doc": "WPC Excessive Rainfall Outlook. Risk = smoothed (window rain / FFG); FFG lowered by antecedent rain from the 'pre' part of rain_config. ratio_thresholds are illustrative proxies for the 5/15/30/50% categories. text = discussion (one paragraph per string).",
+ "rain_config": "qpf_delphine_west.json",
+ "day": 1,
+ "valid": {
+  "start": "2027-09-26T12:00Z",
+  "end": "2027-09-27T12:00Z"
+ },
+ "issued_local": "357 AM EDT Sun Sep 26 2027",
+ "wmo_time": "260757",
+ "ffg": {
+  "base": 3.5,
+  "min": 0.8,
+  "per_inch_antecedent": 0.26
+ },
+ "ratio_thresholds": {
+  "MRGL": 0.35,
+  "SLGT": 0.65,
+  "MDT": 1.05,
+  "HIGH": 1.75
+ },
+ "smooth": 5,
+ "extent": [
+  -90.5,
+  -77.0,
+  28.8,
+  41.6
+ ],
+ "county_extent": [
+  -86.0,
+  -81.8,
+  31.5,
+  35.2
+ ],
+ "cities": [
+  [
+   "Atlanta",
+   33.749,
+   -84.388
+  ],
+  [
+   "Athens",
+   33.961,
+   -83.378
+  ],
+  [
+   "Macon",
+   32.841,
+   -83.632
+  ],
+  [
+   "Columbus",
+   32.461,
+   -84.988
+  ],
+  [
+   "Gainesville",
+   34.298,
+   -83.824
+  ],
+  [
+   "Tallahassee",
+   30.438,
+   -84.281
+  ],
+  [
+   "Panama City",
+   30.159,
+   -85.66
+  ],
+  [
+   "Birmingham",
+   33.519,
+   -86.81
+  ],
+  [
+   "Greenville",
+   34.853,
+   -82.394
+  ],
+  [
+   "Asheville",
+   35.595,
+   -82.551
+  ],
+  [
+   "Chattanooga",
+   35.046,
+   -85.309
+  ],
+  [
+   "Montgomery",
+   32.377,
+   -86.3
+  ],
+  [
+   "Nashville",
+   36.163,
+   -86.781
+  ],
+  [
+   "Knoxville",
+   35.961,
+   -83.921
+  ],
+  [
+   "Lexington",
+   38.04,
+   -84.5
+  ],
+  [
+   "Cincinnati",
+   39.103,
+   -84.512
+  ],
+  [
+   "Charleston WV",
+   38.35,
+   -81.63
+  ],
+  [
+   "Columbus OH",
+   39.96,
+   -83.0
+  ]
+ ],
+ "output": "ERO_day1_sun_20270926.png",
+ "text_output": "QPFERD_day1_sun_20270926.txt",
+ "pre_in_window": 0.0,
+ "antecedent_pre": 1.0,
+ "text": {
+  "forecaster": "Nguyen-Oakes",
+  "headlines": [
+   "THE PROBABILITY OF RAINFALL EXCEEDING FLASH FLOOD GUIDANCE IS LESS THAN 5 PERCENT"
+  ],
+  "regions": [
+   [
+    "Ohio Valley and Great Lakes",
+    [
+     "No risk areas are in effect for this period. Post-Tropical Cyclone Delphine is forecast to be absorbed by a larger extratropical low near Lake Erie this afternoon. Lingering showers across Ohio, western Pennsylvania, and West Virginia should total generally less than an inch, well below flash flood guidance.",
+     "Major to record river flooding continues across north Georgia, eastern Tennessee, and the western Carolinas following storm totals of 10 to 20 inches since Wednesday. River flooding is covered by local NWS offices and the River Forecast Centers, not by this outlook. Please consult those products for river forecasts."
+    ]
+   ]
+  ]
+ }
+}

@@ -1,0 +1,146 @@
+{
+ "_doc": "WPC Excessive Rainfall Outlook. Risk = smoothed (window rain / FFG); FFG lowered by antecedent rain from the 'pre' part of rain_config. ratio_thresholds are illustrative proxies for the 5/15/30/50% categories. text = discussion (one paragraph per string).",
+ "rain_config": "qpf_delphine_west.json",
+ "day": 1,
+ "valid": {
+  "start": "2027-09-25T12:00Z",
+  "end": "2027-09-26T12:00Z"
+ },
+ "issued_local": "404 AM EDT Sat Sep 25 2027",
+ "wmo_time": "250804",
+ "ffg": {
+  "base": 3.5,
+  "min": 0.8,
+  "per_inch_antecedent": 0.26
+ },
+ "ratio_thresholds": {
+  "MRGL": 0.35,
+  "SLGT": 0.65,
+  "MDT": 1.05,
+  "HIGH": 2.6
+ },
+ "smooth": 5,
+ "extent": [
+  -90.5,
+  -77.0,
+  28.8,
+  41.6
+ ],
+ "county_extent": [
+  -86.0,
+  -81.8,
+  31.5,
+  35.2
+ ],
+ "cities": [
+  [
+   "Atlanta",
+   33.749,
+   -84.388
+  ],
+  [
+   "Athens",
+   33.961,
+   -83.378
+  ],
+  [
+   "Macon",
+   32.841,
+   -83.632
+  ],
+  [
+   "Columbus",
+   32.461,
+   -84.988
+  ],
+  [
+   "Gainesville",
+   34.298,
+   -83.824
+  ],
+  [
+   "Tallahassee",
+   30.438,
+   -84.281
+  ],
+  [
+   "Panama City",
+   30.159,
+   -85.66
+  ],
+  [
+   "Birmingham",
+   33.519,
+   -86.81
+  ],
+  [
+   "Greenville",
+   34.853,
+   -82.394
+  ],
+  [
+   "Asheville",
+   35.595,
+   -82.551
+  ],
+  [
+   "Chattanooga",
+   35.046,
+   -85.309
+  ],
+  [
+   "Montgomery",
+   32.377,
+   -86.3
+  ],
+  [
+   "Nashville",
+   36.163,
+   -86.781
+  ],
+  [
+   "Knoxville",
+   35.961,
+   -83.921
+  ],
+  [
+   "Lexington",
+   38.04,
+   -84.5
+  ],
+  [
+   "Cincinnati",
+   39.103,
+   -84.512
+  ],
+  [
+   "Charleston WV",
+   38.35,
+   -81.63
+  ],
+  [
+   "Columbus OH",
+   39.96,
+   -83.0
+  ]
+ ],
+ "output": "ERO_day1_sat_20270925.png",
+ "text_output": "QPFERD_day1_sat_20270925.txt",
+ "pre_in_window": 0.0,
+ "antecedent_pre": 1.0,
+ "text": {
+  "forecaster": "Whitfield",
+  "headlines": [
+   "THERE IS A MODERATE RISK OF EXCESSIVE RAINFALL ACROSS PORTIONS OF MIDDLE AND EAST TENNESSEE...NORTH GEORGIA...AND CENTRAL KENTUCKY"
+  ],
+  "regions": [
+   [
+    "Tennessee and Ohio Valleys and the Southern Appalachians",
+    [
+     "The High Risk from the previous period was downgraded as Delphine races into the Tennessee Valley and becomes post-tropical this morning. A Moderate Risk remains over middle and east Tennessee, far north Georgia, and central Kentucky, with a broad Slight and Marginal Risk extending into southern Ohio. Catastrophic flash flooding occurred overnight across the Atlanta metro and north Georgia, and major river flooding will continue there for days. River flooding is not part of this outlook, but those areas remain extremely sensitive to any additional rain.",
+     "As Delphine merges with the parent trough, its forward motion slows and the rain shield shifts to the northwest of the center, typical of extratropical transition. A 6 to 10 hour period of moderate to heavy rain, with rates of 0.5 to 1 inch per hour, is expected across the Cumberland Plateau and into central Kentucky, bringing totals of 2 to 4 inches with isolated 5 to 6 inches. FFG over Tennessee and Kentucky is higher than in Georgia, but steep terrain and the fast onset support a Moderate Risk. Flash flooding in the north Georgia mountains and near Chattanooga is especially likely where the predecessor rain event and Delphine's core overlapped."
+    ]
+   ]
+  ]
+ }
+}

@@ -1,0 +1,555 @@
+{
+ "_doc": "Hazards map. watches: county-based (from_watch_file or counties list). county_hazards: advisories/other county products ('Name ST'). warnings: storm-based; give 'storm' (issue position/motion; polygon auto-built) or explicit 'polygon' [[lat, lon], ...]. elapsed_min = minutes since issuance at the map's valid time (moves the storm marker). tags: tornado / damage / hail / wind. With storms_file set, a warning can reference storm_id + issue/expire (ISO) and everything else (polygon, expiry text, UGC time, marker position) is derived from the storm track. Optional radar_underlay: {config: radar_*.json, product: base|composite, alpha}.",
+ "title": "Active Watches & Warnings",
+ "subtitle": "North Georgia & Upstate South Carolina",
+ "valid_time": "6:45 PM EDT Sat Apr 17 2027 (2245Z)",
+ "scenario_label": "SIMULATED \u2014 Piedmont Dryline Event",
+ "extent": [
+  -86.2,
+  -81.2,
+  32.3,
+  35.45
+ ],
+ "watches": [
+  {
+   "type": "Tornado Watch",
+   "from_watch_file": "watch_0124.json"
+  }
+ ],
+ "county_hazards": [
+  {
+   "type": "Red Flag Warning",
+   "counties": [
+    "Carroll GA",
+    "Heard GA",
+    "Troup GA",
+    "Coweta GA",
+    "Meriwether GA",
+    "Harris GA",
+    "Talbot GA",
+    "Muscogee GA",
+    "Upson GA",
+    "Pike GA",
+    "Lamar GA",
+    "Marion GA",
+    "Chattahoochee GA",
+    "Taylor GA",
+    "Spalding GA",
+    "Fayette GA"
+   ]
+  },
+  {
+   "type": "Wind Advisory",
+   "counties": [
+    "Carroll GA",
+    "Heard GA",
+    "Troup GA",
+    "Coweta GA",
+    "Meriwether GA",
+    "Harris GA",
+    "Talbot GA",
+    "Muscogee GA",
+    "Upson GA",
+    "Pike GA",
+    "Lamar GA",
+    "Marion GA",
+    "Chattahoochee GA",
+    "Taylor GA",
+    "Spalding GA",
+    "Fayette GA",
+    "Polk GA",
+    "Haralson GA",
+    "Paulding GA",
+    "Douglas GA",
+    "Floyd GA",
+    "Bartow GA",
+    "Cobb GA",
+    "Stewart GA",
+    "Webster GA",
+    "Sumter GA",
+    "Schley GA",
+    "Macon GA",
+    "Crawford GA",
+    "Butts GA",
+    "Monroe GA",
+    "Henry GA",
+    "Clayton GA"
+   ]
+  }
+ ],
+ "warnings": [
+  {
+   "type": "Tornado Warning",
+   "office": "NWS FFC",
+   "storm_id": "S2",
+   "issue": "2027-04-17T22:31Z",
+   "expire": "2027-04-17T23:15Z",
+   "shape": {
+    "back_mi": 6,
+    "front_mi": 16
+   },
+   "tags": {
+    "tornado": "RADAR CONFIRMED",
+    "damage": "CONSIDERABLE",
+    "hail": "2.75 IN"
+   }
+  },
+  {
+   "type": "Tornado Warning",
+   "office": "NWS GSP",
+   "storm_id": "S1",
+   "issue": "2027-04-17T22:38Z",
+   "expire": "2027-04-17T23:15Z",
+   "shape": {
+    "back_mi": 6,
+    "front_mi": 15
+   },
+   "tags": {
+    "tornado": "RADAR INDICATED",
+    "hail": "3.00 IN"
+   }
+  },
+  {
+   "type": "Severe Thunderstorm Warning",
+   "office": "NWS FFC",
+   "storm_id": "S3",
+   "issue": "2027-04-17T22:40Z",
+   "expire": "2027-04-17T23:30Z",
+   "shape": {
+    "back_mi": 7,
+    "front_mi": 18
+   },
+   "tags": {
+    "damage": "DESTRUCTIVE",
+    "hail": "4.00 IN",
+    "wind": "60 MPH"
+   }
+  },
+  {
+   "type": "Severe Thunderstorm Warning",
+   "office": "NWS FFC",
+   "storm_id": "S4",
+   "issue": "2027-04-17T22:35Z",
+   "expire": "2027-04-17T23:30Z",
+   "shape": {
+    "back_mi": 7,
+    "front_mi": 16
+   },
+   "tags": {
+    "hail": "2.50 IN",
+    "wind": "60 MPH"
+   }
+  },
+  {
+   "type": "Severe Thunderstorm Warning",
+   "office": "NWS FFC",
+   "storm_id": "S5",
+   "issue": "2027-04-17T22:22Z",
+   "expire": "2027-04-17T23:15Z",
+   "shape": {
+    "back_mi": 8,
+    "front_mi": 16
+   },
+   "tags": {
+    "wind": "70 MPH",
+    "hail": "1.00 IN"
+   }
+  }
+ ],
+ "cities": [
+  [
+   "Atlanta",
+   33.749,
+   -84.388
+  ],
+  [
+   "Athens",
+   33.961,
+   -83.378
+  ],
+  [
+   "Gainesville",
+   34.298,
+   -83.824
+  ],
+  [
+   "Macon",
+   32.841,
+   -83.632
+  ],
+  [
+   "Columbus",
+   32.461,
+   -84.988
+  ],
+  [
+   "LaGrange",
+   33.039,
+   -85.031
+  ],
+  [
+   "Rome",
+   34.257,
+   -85.165
+  ],
+  [
+   "Carrollton",
+   33.58,
+   -85.077
+  ],
+  [
+   "Greenville",
+   34.853,
+   -82.394
+  ],
+  [
+   "Anderson",
+   34.503,
+   -82.65
+  ],
+  [
+   "Augusta",
+   33.471,
+   -81.975
+  ],
+  [
+   "Madison",
+   33.596,
+   -83.468
+  ],
+  [
+   "Greensboro",
+   33.576,
+   -83.182
+  ],
+  [
+   "Thomaston",
+   32.888,
+   -84.327
+  ],
+  [
+   "Commerce",
+   34.204,
+   -83.457
+  ],
+  [
+   "Toccoa",
+   34.577,
+   -83.332
+  ],
+  [
+   "Hartwell",
+   34.353,
+   -82.932
+  ],
+  [
+   "Griffin",
+   33.247,
+   -84.264
+  ],
+  [
+   "Covington",
+   33.597,
+   -83.86
+  ],
+  [
+   "Milledgeville",
+   33.08,
+   -83.232
+  ],
+  [
+   "Chattanooga",
+   35.046,
+   -85.309
+  ],
+  [
+   "Anniston",
+   33.66,
+   -85.831
+  ],
+  [
+   "Spartanburg",
+   34.95,
+   -81.932
+  ],
+  [
+   "Elberton",
+   34.111,
+   -82.867
+  ],
+  [
+   "Washington",
+   33.736,
+   -82.739
+  ],
+  [
+   "Abbeville",
+   34.178,
+   -82.379
+  ],
+  [
+   "Greenwood",
+   34.195,
+   -82.162
+  ]
+ ],
+ "interstates": {
+  "I-85": [
+   [
+    -86.3,
+    32.37
+   ],
+   [
+    -85.48,
+    32.61
+   ],
+   [
+    -85.03,
+    33.04
+   ],
+   [
+    -84.8,
+    33.38
+   ],
+   [
+    -84.39,
+    33.75
+   ],
+   [
+    -84.05,
+    33.97
+   ],
+   [
+    -83.6,
+    34.25
+   ],
+   [
+    -83.05,
+    34.45
+   ],
+   [
+    -82.65,
+    34.55
+   ],
+   [
+    -82.39,
+    34.85
+   ],
+   [
+    -81.95,
+    34.95
+   ],
+   [
+    -81.35,
+    35.1
+   ],
+   [
+    -80.84,
+    35.23
+   ],
+   [
+    -80.3,
+    35.5
+   ]
+  ],
+  "I-75": [
+   [
+    -85.31,
+    35.05
+   ],
+   [
+    -84.97,
+    34.77
+   ],
+   [
+    -84.8,
+    34.17
+   ],
+   [
+    -84.55,
+    33.95
+   ],
+   [
+    -84.39,
+    33.75
+   ],
+   [
+    -84.2,
+    33.4
+   ],
+   [
+    -83.95,
+    33.05
+   ],
+   [
+    -83.63,
+    32.84
+   ],
+   [
+    -83.6,
+    32.45
+   ],
+   [
+    -83.51,
+    31.45
+   ],
+   [
+    -83.4,
+    30.9
+   ]
+  ],
+  "I-20": [
+   [
+    -86.81,
+    33.52
+   ],
+   [
+    -85.83,
+    33.66
+   ],
+   [
+    -85.1,
+    33.62
+   ],
+   [
+    -84.39,
+    33.75
+   ],
+   [
+    -83.85,
+    33.6
+   ],
+   [
+    -83.4,
+    33.57
+   ],
+   [
+    -82.6,
+    33.5
+   ],
+   [
+    -81.97,
+    33.47
+   ],
+   [
+    -81.03,
+    34.0
+   ],
+   [
+    -80.3,
+    34.3
+   ]
+  ],
+  "I-16": [
+   [
+    -83.63,
+    32.84
+   ],
+   [
+    -82.9,
+    32.55
+   ],
+   [
+    -82.2,
+    32.35
+   ],
+   [
+    -81.1,
+    32.08
+   ]
+  ],
+  "I-185": [
+   [
+    -85.03,
+    33.04
+   ],
+   [
+    -84.98,
+    32.46
+   ]
+  ],
+  "I-59": [
+   [
+    -86.81,
+    33.52
+   ],
+   [
+    -86.0,
+    34.02
+   ],
+   [
+    -85.31,
+    35.05
+   ]
+  ],
+  "I-65": [
+   [
+    -86.3,
+    32.37
+   ],
+   [
+    -86.81,
+    33.52
+   ],
+   [
+    -86.8,
+    34.5
+   ],
+   [
+    -86.78,
+    35.9
+   ]
+  ],
+  "I-26": [
+   [
+    -81.03,
+    34.0
+   ],
+   [
+    -81.6,
+    34.45
+   ],
+   [
+    -82.1,
+    34.95
+   ],
+   [
+    -82.55,
+    35.6
+   ],
+   [
+    -82.6,
+    35.9
+   ]
+  ],
+  "I-40": [
+   [
+    -84.5,
+    35.85
+   ],
+   [
+    -83.2,
+    35.75
+   ],
+   [
+    -82.55,
+    35.6
+   ],
+   [
+    -81.7,
+    35.72
+   ],
+   [
+    -80.3,
+    35.8
+   ]
+  ]
+ },
+ "output": "Hazards_2027041722.png",
+ "storms_file": "storms.json",
+ "valid": "2027-04-17T22:45Z",
+ "tz": {
+  "offset_h": -4,
+  "name": "EDT"
+ }
+}

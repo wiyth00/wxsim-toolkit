@@ -1,0 +1,84 @@
+000
+FXUS62 KFFC 241600
+AFDFFC
+
+Area Forecast Discussion
+National Weather Service Peachtree City GA
+1200 PM EDT Fri Sep 24 2027
+
+...HURRICANE WARNING ISSUED FOR THE ATLANTA METRO AREA AND MUCH OF CENTRAL GEORGIA...
+...LIFE-THREATENING HURRICANE-FORCE WIND GUSTS, CATASTROPHIC FLASH FLOODING, AND TORNADOES EXPECTED SATURDAY...
+
+.KEY MESSAGES...
+
+  - Hurricane Delphine will make landfall in the Florida Big Bend as a major hurricane early Saturday morning, then race north across Georgia at 25 to 30 mph. Its center is forecast to pass near or over metro Atlanta Saturday afternoon while still a hurricane. This has never happened in the modern record for north Georgia.
+
+  - A Hurricane Warning is in effect for metro Atlanta and central Georgia, and a Tropical Storm Warning is in effect for the rest of the area except the far northeast mountains. Sustained winds of 55 to 75 mph with gusts of 85 to 100 mph are expected within the Hurricane Warning Saturday, highest near and east of the track. Expect widespread, prolonged power outages and catastrophic tree damage. Some areas may be without power for weeks.
+
+  - A Flood Watch is in effect for all of north and central Georgia. Rain from a predecessor rain event tonight plus Delphine's rain Saturday will total 6 to 10 inches, with isolated 12 to 15 inches along and west of I-75 and in the north Georgia mountains. WPC has a High Risk (level 4 of 4) of excessive rainfall for much of north Georgia Saturday. Catastrophic flash flooding and major river flooding are possible, along with landslides in the mountains.
+
+  - SPC has a Slight Risk (level 2 of 5) for severe weather Saturday for areas east of the track. Several quick-moving tornadoes are possible, with little warning, inside the rain bands.
+
+  - All preparations should be completed by sunset tonight. Tropical-storm-force winds will reach central Georgia by around daybreak Saturday and metro Atlanta by midmorning.
+
+&&
+
+.SHORT TERM...
+(Today through Saturday night)
+Issued at 1200 PM EDT Fri Sep 24 2027
+
+At 11 AM EDT, Delphine was a category 4 hurricane with 125 mph sustained winds, about 280 miles south-southwest of Apalachicola, moving north-northeast near 10 mph. The 12Z guidance is in unusually tight agreement on both track and timing, including the GFS, ECMWF, AIFS, the HAFS-A/B hurricane models, and the 12Z RRFS as far as it goes. All of it shows a sharp acceleration tonight as a deep mid-level trough digging into the lower Mississippi Valley captures the hurricane. The NHC track brings the center ashore near Keaton Beach around 5 AM Saturday, then almost due north near Albany by mid-morning, Americus around 11 AM, and Griffin and south metro Atlanta between 1 and 3 PM. Along-track spread in the GEFS/EPS is only about 2 hours through Saturday afternoon, which is about as good as it gets. The hurricane models spread about 40 miles east to west, so small shifts in track will still decide which neighborhoods see the worst winds.
+
+The wind forecast is the headline and the reason for the Hurricane Warning. Normally, a Gulf hurricane spends 12 to 18 hours over land before reaching central Georgia and arrives as a tropical storm or depression. Delphine will cover that distance in about 8 hours, so it has much less time to decay. Inland decay models starting from a 130-kt landfall, adjusted for forward speed, keep maximum sustained winds near 65 kt as the center reaches the metro Saturday afternoon. The HAFS runs are similar or slightly stronger. The fast motion also stacks the storm's forward speed onto the winds on its east side. Expect the strongest gusts along and up to about 60 miles east of the track: Macon, Warner Robins, McDonough, Conyers, the east and south metro, and possibly Athens. The 12Z RRFS and HREF members show 925 mb winds of 80 to 95 kt over central Georgia Saturday. There is enough convective mixing in the rain bands to bring gusts of 85 to 100 mph down to the surface, especially in the stronger cells. West of the track, winds will be somewhat lower but still at tropical storm strength with gusts of 50 to 70 mph from Columbus to Rome.
+
+Saturated soils will make tree damage much worse. The predecessor rain event (PRE) is already forming this morning along a stalled front from east Alabama into north Georgia, fed by deep tropical moisture well ahead of Delphine. Precipitable water values near 2.4 inches, about 250 percent of normal, are forecast over the area by tonight. Periods of heavy rain will continue tonight, with 2 to 4 inches likely along and north of I-20 before the core of Delphine's rain even arrives. By the time hurricane-force gusts reach the metro Saturday afternoon, the ground will be waterlogged under a heavily forested canopy. This is the setup for widespread uprooted trees, blocked roads, and structural damage from falling trees, in the metro and in rural areas alike. Please treat this with the seriousness the Hurricane Warning implies.
+
+The main rain shield will spread north Saturday morning and hit hardest along and just west of the track, where the trough's forcing and the hurricane's core overlap. Hourly rain rates of 2 to 3 inches are likely in the rain bands. Storm totals are 6 to 10 inches, with isolated 12 to 15 inches in the Chattahoochee and Etowah basins and the north Georgia mountains, where the southerly flow is forced up the terrain. Expect catastrophic flash flooding on urban creeks in the metro, including Peachtree, Nancy, Sope, and Sweetwater Creeks. Major to record flooding is possible on the Chattahoochee, Etowah, Flint, and Ocmulgee rivers into early next week. Landslides are possible on steep slopes in the mountains.
+
+Tornado threat: the low-level wind field on the storm's east side will be very strong, with 0-1 km SRH of 300 to 500 m2/s2 from the RRFS over east-central Georgia Saturday. Surface-based instability will be marginal but sufficient, around 500 to 1000 J/kg of MLCAPE, in the outer bands east of the track. Expect brief, fast-moving tornadoes moving north-northwest at 40 to 50 mph inside rain-wrapped cells, mainly from mid-morning Saturday into the evening for areas east of a Columbus to Atlanta to Gainesville line.
+
+Delphine will move quickly into east Tennessee Saturday night while losing its tropical characteristics. Winds will drop off quickly from south to north after 6 PM, though gusts of 40 to 50 mph will continue across north Georgia and the mountains until after midnight. Rain tapers off from the south overnight.
+
+&&
+
+.LONG TERM...
+(Sunday through Thursday)
+Issued at 1200 PM EDT Fri Sep 24 2027
+
+Drier air wraps in behind the post-tropical low on Sunday and some sunshine returns, but recovery and flooding will be the main concerns. Rivers will keep rising into Monday and Tuesday as water from the headwaters moves downstream, and some mainstem points may not crest until midweek. Heat and humidity are modest behind the system, with highs in the low to mid 80s and lows in the 60s. That's still uncomfortable for anyone without power, so check on neighbors. Another front may bring scattered showers Wednesday or Thursday; forecast confidence is low.
+
+&&
+
+.AVIATION...
+(18Z TAFS)
+Issued at 1150 AM EDT Fri Sep 24 2027
+
+Periods of SHRA and MVFR to IFR cigs will develop through the afternoon at the ATL-area sites and AHN as the PRE rain band organizes, with IFR likely after 00Z. East to southeast winds of 10 to 15 kt this afternoon will increase overnight to 15 to 25 kt with gusts to 35 kt after 09Z. At MCN, winds increase to 25 to 35 kt gusting to 50 kt by 13Z Saturday. At the ATL sites, winds reach 30 to 40 kt gusting to 60 kt or more after 16Z Saturday, and hurricane-force gusts of 65 to 85 kt are possible from 17Z to 21Z. Winds veer from east through south to southwest as the center passes. Expect LIFR in +RA with isolated embedded TS. Airport operations will likely be suspended Saturday afternoon.
+
+//ATL Confidence...18Z Update...
+
+Medium on timing of wind onset, high on hurricane-force gusts Saturday afternoon.
+
+Nguyen
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Athens          71  77  67  81 /  90 100  70  10
+Atlanta         70  75  66  80 / 100 100  60  10
+Columbus        72  79  68  84 /  80 100  40   5
+Macon           73  80  68  84 /  70 100  40   5
+
+&&
+
+.FFC WATCHES/WARNINGS/ADVISORIES...
+Hurricane Warning for GAZ022-023-030>034-041>046-052>057-060>062-066>076-078>086.
+Tropical Storm Warning for GAZ001>021-024>029-035>040-047>051-058-059-063>065-077-087>089.
+Flood Watch from this afternoon through Sunday morning for GAZ001>089.
+&&
+
+$$
+
+SHORT TERM...Whitaker
+LONG TERM....Castellanos
+AVIATION...Nguyen

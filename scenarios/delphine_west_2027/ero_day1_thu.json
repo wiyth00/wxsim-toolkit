@@ -1,0 +1,147 @@
+{
+ "_doc": "WPC Excessive Rainfall Outlook. Risk = smoothed (window rain / FFG); FFG lowered by antecedent rain from the 'pre' part of rain_config. ratio_thresholds are illustrative proxies for the 5/15/30/50% categories. text = discussion (one paragraph per string).",
+ "rain_config": "qpf_delphine_west.json",
+ "day": 1,
+ "valid": {
+  "start": "2027-09-23T12:00Z",
+  "end": "2027-09-24T12:00Z"
+ },
+ "issued_local": "401 AM EDT Thu Sep 23 2027",
+ "wmo_time": "230801",
+ "ffg": {
+  "base": 3.5,
+  "min": 0.8,
+  "per_inch_antecedent": 0.26
+ },
+ "ratio_thresholds": {
+  "MRGL": 0.35,
+  "SLGT": 0.65,
+  "MDT": 1.05,
+  "HIGH": 1.75
+ },
+ "smooth": 5,
+ "extent": [
+  -90.5,
+  -77.0,
+  28.8,
+  41.6
+ ],
+ "county_extent": [
+  -86.0,
+  -81.8,
+  31.5,
+  35.2
+ ],
+ "cities": [
+  [
+   "Atlanta",
+   33.749,
+   -84.388
+  ],
+  [
+   "Athens",
+   33.961,
+   -83.378
+  ],
+  [
+   "Macon",
+   32.841,
+   -83.632
+  ],
+  [
+   "Columbus",
+   32.461,
+   -84.988
+  ],
+  [
+   "Gainesville",
+   34.298,
+   -83.824
+  ],
+  [
+   "Tallahassee",
+   30.438,
+   -84.281
+  ],
+  [
+   "Panama City",
+   30.159,
+   -85.66
+  ],
+  [
+   "Birmingham",
+   33.519,
+   -86.81
+  ],
+  [
+   "Greenville",
+   34.853,
+   -82.394
+  ],
+  [
+   "Asheville",
+   35.595,
+   -82.551
+  ],
+  [
+   "Chattanooga",
+   35.046,
+   -85.309
+  ],
+  [
+   "Montgomery",
+   32.377,
+   -86.3
+  ],
+  [
+   "Nashville",
+   36.163,
+   -86.781
+  ],
+  [
+   "Knoxville",
+   35.961,
+   -83.921
+  ],
+  [
+   "Lexington",
+   38.04,
+   -84.5
+  ],
+  [
+   "Cincinnati",
+   39.103,
+   -84.512
+  ],
+  [
+   "Charleston WV",
+   38.35,
+   -81.63
+  ],
+  [
+   "Columbus OH",
+   39.96,
+   -83.0
+  ]
+ ],
+ "output": "ERO_day1_thu_20270923.png",
+ "text_output": "QPFERD_day1_thu_20270923.txt",
+ "pre_in_window": 0.4,
+ "antecedent_pre": 0.35,
+ "text": {
+  "forecaster": "Castillo",
+  "headlines": [
+   "THERE IS A MODERATE RISK OF EXCESSIVE RAINFALL ACROSS PORTIONS OF NORTH GEORGIA...INCLUDING THE ATLANTA METROPOLITAN AREA...AND THE SOUTH CAROLINA UPSTATE"
+  ],
+  "regions": [
+   [
+    "North Georgia and the Southern Appalachians",
+    [
+     "The Moderate Risk carried from the Day 2 outlook was maintained and extended slightly west to the Alabama state line. The Slight and Marginal Risks were largely unchanged. Observed rainfall over the past 24 hours was 2 to 4.5 inches along the front from west-central Georgia through the Atlanta metro to the Upstate, including 3.6 inches at Atlanta Hartsfield-Jackson International Airport. Several Flash Flood Warnings were issued overnight for urban flooding in the metro.",
+     "The front has not moved and will not move much today, with the predecessor rain event continuing to be fed by a deep plume of tropical moisture. PWs of 2.2 to 2.5 inches are near the daily maximum for late September. Another 3 to 5 inches with localized amounts over 6 inches are likely along the axis through tonight. The 00Z RRFS and HREF members consistently place the heaviest band from Carrollton through Atlanta and Gainesville toward Greenville, with good agreement on placement.",
+     "Flash flood guidance has already dropped to 1.5 to 2 inches in 3 hours across the metro. Additional heavy rain on saturated ground will lead to numerous instances of flash flooding, and some could be significant, especially in the urban core and along small creeks. Looking ahead, Hurricane Delphine is forecast to cross Georgia Friday night. With the ground this wet, a High Risk upgrade is being considered for the Day 2 outlook."
+    ]
+   ]
+  ]
+ }
+}

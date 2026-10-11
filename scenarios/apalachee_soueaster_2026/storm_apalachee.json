@@ -1,0 +1,349 @@
+{
+ "_doc": "Storm file for the Apalachee Bay sou'easter, in the wxsim tropical storm-file format (see tc_*.json _doc). Status EX = extratropical low; no NHC cone or coastal TC watches. Read by wxsim.tropical.windmap (wind swath) and wxsim.wpc.rain (track rain). Advisory = WPC Storm Summary 4, Wed Dec 16 18Z. Times UTC; December, so local time is EST (UTC-5).",
+ "name": "Apalachee",
+ "number": 90,
+ "basin": "AL",
+ "year": 2026,
+ "tz": {
+  "offset_h": -5,
+  "name": "EST"
+ },
+ "advisory": {
+  "number": "4",
+  "center": "WPC",
+  "time": "2026-12-16T18:00Z",
+  "forecaster": "WPC/Simulated",
+  "motion": {
+   "dir_deg": 52,
+   "kt": 18
+  }
+ },
+ "past_track": [
+  [
+   "2026-12-15T12:00Z",
+   25.4,
+   -96.2,
+   30,
+   1006,
+   "EX"
+  ],
+  [
+   "2026-12-15T18:00Z",
+   25.45,
+   -94.7,
+   30,
+   1004,
+   "EX"
+  ],
+  [
+   "2026-12-16T00:00Z",
+   25.5,
+   -93.2,
+   35,
+   1003,
+   "EX"
+  ],
+  [
+   "2026-12-16T06:00Z",
+   26.2,
+   -90.6,
+   45,
+   997,
+   "EX"
+  ],
+  [
+   "2026-12-16T12:00Z",
+   26.9,
+   -88.7,
+   60,
+   982,
+   "EX"
+  ]
+ ],
+ "forecast": [
+  {
+   "tau": 0,
+   "lat": 27.9,
+   "lon": -87.0,
+   "vmax_kt": 75,
+   "gust_kt": 95,
+   "status": "EX",
+   "mslp": 962,
+   "radii": {
+    "64": {
+     "NE": 0,
+     "SE": 60,
+     "SW": 0,
+     "NW": 0
+    },
+    "50": {
+     "NE": 110,
+     "SE": 120,
+     "SW": 70,
+     "NW": 40
+    },
+    "34": {
+     "NE": 260,
+     "SE": 240,
+     "SW": 180,
+     "NW": 150
+    }
+   }
+  },
+  {
+   "tau": 12,
+   "lat": 30.05,
+   "lon": -84.2,
+   "vmax_kt": 75,
+   "gust_kt": 100,
+   "status": "EX",
+   "mslp": 941,
+   "inland": true,
+   "note": "LANDFALL NEAR ST. MARKS FL; MINIMUM PRESSURE 939 MB NEAR 03Z",
+   "radii": {
+    "64": {
+     "NE": 0,
+     "SE": 80,
+     "SW": 0,
+     "NW": 0
+    },
+    "50": {
+     "NE": 130,
+     "SE": 150,
+     "SW": 60,
+     "NW": 40
+    },
+    "34": {
+     "NE": 260,
+     "SE": 280,
+     "SW": 200,
+     "NW": 150
+    }
+   }
+  },
+  {
+   "tau": 24,
+   "lat": 31.2,
+   "lon": -84.2,
+   "vmax_kt": 65,
+   "gust_kt": 95,
+   "status": "EX",
+   "mslp": 951,
+   "inland": true,
+   "radii": {
+    "64": {
+     "NE": 0,
+     "SE": 60,
+     "SW": 0,
+     "NW": 0
+    },
+    "50": {
+     "NE": 110,
+     "SE": 140,
+     "SW": 50,
+     "NW": 30
+    },
+    "34": {
+     "NE": 240,
+     "SE": 260,
+     "SW": 170,
+     "NW": 120
+    }
+   }
+  },
+  {
+   "tau": 36,
+   "lat": 31.4,
+   "lon": -84.9,
+   "vmax_kt": 58,
+   "gust_kt": 80,
+   "status": "EX",
+   "mslp": 960,
+   "inland": true,
+   "radii": {
+    "64": {
+     "NE": 0,
+     "SE": 0,
+     "SW": 0,
+     "NW": 0
+    },
+    "50": {
+     "NE": 100,
+     "SE": 120,
+     "SW": 50,
+     "NW": 0
+    },
+    "34": {
+     "NE": 230,
+     "SE": 250,
+     "SW": 160,
+     "NW": 100
+    }
+   }
+  },
+  {
+   "tau": 48,
+   "lat": 30.9,
+   "lon": -84.2,
+   "vmax_kt": 55,
+   "gust_kt": 75,
+   "status": "EX",
+   "mslp": 965,
+   "inland": true,
+   "radii": {
+    "64": {
+     "NE": 0,
+     "SE": 0,
+     "SW": 0,
+     "NW": 0
+    },
+    "50": {
+     "NE": 100,
+     "SE": 110,
+     "SW": 40,
+     "NW": 0
+    },
+    "34": {
+     "NE": 230,
+     "SE": 240,
+     "SW": 150,
+     "NW": 100
+    }
+   }
+  },
+  {
+   "tau": 60,
+   "lat": 31.2,
+   "lon": -82.4,
+   "vmax_kt": 60,
+   "gust_kt": 80,
+   "status": "EX",
+   "mslp": 972,
+   "inland": true,
+   "radii": {
+    "64": {
+     "NE": 0,
+     "SE": 0,
+     "SW": 0,
+     "NW": 0
+    },
+    "50": {
+     "NE": 120,
+     "SE": 120,
+     "SW": 40,
+     "NW": 30
+    },
+    "34": {
+     "NE": 330,
+     "SE": 260,
+     "SW": 150,
+     "NW": 120
+    }
+   }
+  },
+  {
+   "tau": 72,
+   "lat": 31.85,
+   "lon": -79.9,
+   "vmax_kt": 55,
+   "gust_kt": 75,
+   "status": "EX",
+   "mslp": 978,
+   "radii": {
+    "64": {
+     "NE": 0,
+     "SE": 0,
+     "SW": 0,
+     "NW": 0
+    },
+    "50": {
+     "NE": 120,
+     "SE": 120,
+     "SW": 40,
+     "NW": 30
+    },
+    "34": {
+     "NE": 330,
+     "SE": 270,
+     "SW": 150,
+     "NW": 170
+    }
+   }
+  },
+  {
+   "tau": 96,
+   "lat": 34.8,
+   "lon": -73.5,
+   "vmax_kt": 55,
+   "gust_kt": 70,
+   "status": "EX",
+   "mslp": 984,
+   "radii": {
+    "64": {
+     "NE": 0,
+     "SE": 0,
+     "SW": 0,
+     "NW": 0
+    },
+    "50": {
+     "NE": 120,
+     "SE": 100,
+     "SW": 0,
+     "NW": 40
+    },
+    "34": {
+     "NE": 300,
+     "SE": 260,
+     "SW": 120,
+     "NW": 160
+    }
+   }
+  },
+  {
+   "tau": 120,
+   "lat": 37.5,
+   "lon": -67.0,
+   "vmax_kt": 45,
+   "gust_kt": 60,
+   "status": "EX",
+   "mslp": 990,
+   "radii": {
+    "64": {
+     "NE": 0,
+     "SE": 0,
+     "SW": 0,
+     "NW": 0
+    },
+    "50": {
+     "NE": 0,
+     "SE": 0,
+     "SW": 0,
+     "NW": 0
+    },
+    "34": {
+     "NE": 260,
+     "SE": 220,
+     "SW": 100,
+     "NW": 120
+    }
+   }
+  }
+ ],
+ "coastal_ww": [],
+ "cone": {
+  "_doc": "Unused for an extratropical low; kept because the storm loader validates it.",
+  "illustrative": true,
+  "radii_nmi": {
+   "0": 10,
+   "12": 26,
+   "24": 39,
+   "36": 52,
+   "48": 67,
+   "60": 83,
+   "72": 100,
+   "96": 142,
+   "120": 213
+  }
+ },
+ "_scenario": "Fictional. Record El Nino winter; Gulf low bombs 997 -> 939 mb in 21 h, lands near St. Marks FL at 941 mb Thu 06Z, loops over SW Georgia, exits off Brunswick Sat."
+}
