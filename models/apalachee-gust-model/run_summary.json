@@ -1,0 +1,16 @@
+{
+  "simulated": true,
+  "version": "v3.0",
+  "control_grid_max_mph": 149.69,
+  "control_land_max_mph": 135.72,
+  "control_water_max_mph": 149.69,
+  "v2_grid_max_mph": 123.14,
+  "v2_land_max_mph": 121.66,
+  "ensemble_member_max_min_mph": 139.2,
+  "ensemble_member_max_max_mph": 153.67,
+  "control_station_12min_loss_median_mph": 0.0,
+  "control_station_12min_loss_max_mph": 0.148,
+  "synthetic_outages": 4,
+  "terrain": "coarse land/water roughness + schematic ridge proxy (no DEM)",
+  "reference_status": "physics-informed; not quantitatively calibrated to analog observations"
+}

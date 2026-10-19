@@ -1,0 +1,68 @@
+{
+  "simulated": true,
+  "scenarios": [
+    {
+      "radius_scale": 2.5,
+      "pressure_min_mb": 939.0,
+      "grid_peak_gust_mph": 106.63,
+      "land_peak_gust_mph": 95.52,
+      "event_gust_footprint_km2": {
+        "40": 1338273,
+        "58": 680832,
+        "74": 266454,
+        "100": 20754
+      },
+      "interior_frontogenesis_minmax_K_100km_3h": [
+        -10.69578742980957,
+        17.32309913635254
+      ],
+      "hour54_frontogenesis_minmax_K_100km_3h": [
+        -10.69578742980957,
+        3.2549400329589844
+      ],
+      "hour54_frontogenesis_p01_p99_K_100km_3h": [
+        -0.3577668860554695,
+        2.211617951393127
+      ],
+      "theta_minmax_K": [
+        283.527099609375,
+        297.1158447265625
+      ],
+      "source_fingerprint": "f5b9ef39eb69d995d0444fd20f60068eb916e31e259b78eac5b4cd943aa055c9",
+      "simulated": true
+    },
+    {
+      "radius_scale": 3.0,
+      "pressure_min_mb": 939.0,
+      "grid_peak_gust_mph": 104.59,
+      "land_peak_gust_mph": 94.61,
+      "event_gust_footprint_km2": {
+        "40": 1411155,
+        "58": 752166,
+        "74": 301158,
+        "100": 18171
+      },
+      "interior_frontogenesis_minmax_K_100km_3h": [
+        -9.80565071105957,
+        20.098445892333984
+      ],
+      "hour54_frontogenesis_minmax_K_100km_3h": [
+        -8.710208892822266,
+        3.191244125366211
+      ],
+      "hour54_frontogenesis_p01_p99_K_100km_3h": [
+        -0.3296841272711754,
+        2.190376760959603
+      ],
+      "theta_minmax_K": [
+        283.5746154785156,
+        297.1206970214844
+      ],
+      "source_fingerprint": "f5b9ef39eb69d995d0444fd20f60068eb916e31e259b78eac5b4cd943aa055c9",
+      "simulated": true
+    }
+  ],
+  "scope": "Dry, prescribed-flow transport and horizontal kinematic frontogenesis; axisymmetric pressure component in gradient balance. No moist two-way atmospheric dynamics.",
+  "area_definition": "Projected grid area inside the original Southeast map only; not the full storm footprint.",
+  "gust_definition": "Surface gust closure target, not time-resolved observed 3-second gusts; complete station series, no synthetic reporting/outage layer."
+}

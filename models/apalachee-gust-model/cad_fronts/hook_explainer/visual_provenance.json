@@ -1,0 +1,53 @@
+{
+  "source_fingerprint": "0a5a143578b010d086bbf58fdf24a57f6ad717d0641fd5b85ada0c317051ed8f",
+  "source_case": "/Users/joshuataylor/Downloads/apalachee-gust-model/cad_fronts/size_3x",
+  "simulated": true,
+  "start_hour": 64.0,
+  "end_hour": 80.0,
+  "reference_hour": 70.0,
+  "dt_s": 60,
+  "tracer_seed_lonlat": [
+    [
+      -82.1997497806348,
+      33.06542013800415
+    ],
+    [
+      -83.76822509133045,
+      33.293726315182425
+    ],
+    [
+      -85.33682868118893,
+      32.869051236185626
+    ],
+    [
+      -87.0,
+      28.2
+    ],
+    [
+      -85.5,
+      28.3
+    ],
+    [
+      -84.4,
+      28.5
+    ]
+  ],
+  "max_half_step_difference_m": 3.4554791171268926,
+  "hook_reference_targets_xy_m": [
+    [
+      465000.0,
+      885000.0
+    ],
+    [
+      423000.0,
+      729000.0
+    ],
+    [
+      486000.0,
+      561000.0
+    ]
+  ],
+  "max_backward_forward_return_error_m": 0.09908627612320581,
+  "wind_time_interpolation": "linear between stored half-hour winds",
+  "note": "2-D prescribed-flow tracers are not 3-D atmospheric parcel trajectories. Screenshot time/case is approximate."
+}

@@ -1,0 +1,13 @@
+test_cache_and_peak_consistency (__main__.PhysicsChecks.test_cache_and_peak_consistency) ... ok
+test_canon (__main__.PhysicsChecks.test_canon) ... ok
+test_convective_width_and_motion (__main__.PhysicsChecks.test_convective_width_and_motion) ... ok
+test_deterministic_call_order_and_sting (__main__.PhysicsChecks.test_deterministic_call_order_and_sting) ... ok
+test_ensemble_consistency (__main__.PhysicsChecks.test_ensemble_consistency) ... ok
+test_radii_order_growth_and_seam (__main__.PhysicsChecks.test_radii_order_growth_and_seam) ... ok
+test_stability_reduces_surface_gust (__main__.PhysicsChecks.test_stability_reduces_surface_gust) ... ok
+test_stations_outages_and_mean (__main__.PhysicsChecks.test_stations_outages_and_mean) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.935s
+
+OK

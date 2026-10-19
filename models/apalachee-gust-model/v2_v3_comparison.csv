@@ -1,0 +1,70 @@
+id,name,simulated,v2_grid_mph,v3_grid_mph,grid_delta_mph,v2_synthetic_report_mph,v3_synthetic_report_mph,synthetic_report_delta_mph,v3_reported_peak_utc,synthetic_outage
+KPNS,Pensacola,True,65.11,73.83,8.72,66,74.02,8.02,Fri 16Z,False
+KVPS,Eglin AFB,True,65.44,82.6,17.16,63,92.79,29.79,Fri 11Z,False
+KECP,Panama City,True,83.0,94.51,11.52,85,92.86,7.86,Fri 10Z,False
+KAAF,Apalachicola,True,92.01,135.29,43.27,94,104.56,10.56,Thu 04Z,True
+KTLH,Tallahassee,True,88.04,121.26,33.22,83,111.31,28.31,Thu 13Z,False
+KCTY,Cross City,True,77.22,84.72,7.49,74,81.48,7.48,Sat 05Z,False
+KCGC,Crystal River,True,58.39,74.8,16.4,59,76.46,17.46,Sat 10Z,False
+KGNV,Gainesville,True,66.67,78.27,11.6,66,80.54,14.54,Sat 10Z,False
+KJAX,Jacksonville,True,85.53,78.74,-6.79,85,82.42,-2.58,Sat 18Z,False
+KSGJ,St. Augustine,True,74.83,76.13,1.3,73,75.86,2.86,Sat 15Z,False
+KDAB,Daytona Beach,True,60.73,71.61,10.89,63,70.14,7.14,Sat 17Z,False
+KOCF,Ocala,True,57.56,75.69,18.14,59,79.45,20.45,Sat 14Z,False
+KMCO,Orlando,True,72.02,60.34,-11.67,72,58.6,-13.4,Sat 13Z,False
+KTPA,Tampa,True,71.78,55.4,-16.38,74,56.44,-17.56,Sat 03Z,False
+KSRQ,Sarasota,True,57.88,49.07,-8.81,59,52.32,-6.68,Sat 11Z,False
+KRSW,Fort Myers,True,46.59,36.07,-10.52,45,40.44,-4.56,Sat 08Z,False
+KPBI,West Palm Beach,True,41.69,36.73,-4.96,43,36.77,-6.23,Sat 13Z,False
+KMIA,Miami,True,41.03,27.29,-13.74,39,27.69,-11.31,Sat 12Z,False
+KMLB,Melbourne,True,72.62,54.57,-18.06,75,57.0,-18.0,Sat 10Z,False
+KLAL,Lakeland,True,67.89,56.35,-11.54,68,57.96,-10.04,Sat 04Z,False
+KVRB,Vero Beach,True,66.49,68.85,2.36,66,75.44,9.44,Thu 03Z,False
+KMOB,Mobile,True,52.13,52.94,0.82,50,53.38,3.38,Fri 13Z,False
+KMGM,Montgomery,True,62.27,78.58,16.31,65,75.45,10.45,Fri 05Z,False
+KBHM,Birmingham,True,49.32,58.44,9.12,49,60.05,11.05,Fri 05Z,False
+KHSV,Huntsville,True,43.89,52.15,8.27,43,57.04,14.04,Fri 02Z,False
+KTCL,Tuscaloosa,True,45.56,55.19,9.63,45,59.67,14.67,Fri 08Z,False
+KDHN,Dothan,True,69.08,99.92,30.83,70,97.62,27.62,Thu 22Z,True
+KANB,Anniston,True,48.17,56.28,8.12,49,60.05,11.05,Fri 03Z,False
+KGZH,Evergreen,True,52.86,81.11,28.25,54,80.57,26.57,Fri 12Z,False
+KGPT,Gulfport,True,45.13,46.18,1.05,46,45.38,-0.62,Fri 14Z,False
+KMEI,Meridian,True,43.77,49.92,6.14,49,51.95,2.95,Fri 07Z,False
+KPIB,Hattiesburg,True,45.7,47.32,1.62,45,48.39,3.39,Fri 09Z,False
+KMSY,New Orleans,True,44.62,35.39,-9.23,43,36.04,-6.96,Wed 19Z,False
+KATL,Atlanta,True,43.88,33.17,-10.71,42,35.72,-6.28,Sat 07Z,False
+KMCN,Macon,True,52.33,46.13,-6.19,54,46.58,-7.42,Sat 11Z,False
+KSAV,Savannah,True,73.54,75.28,1.74,76,77.84,1.84,Sat 04Z,False
+KABY,Albany,True,81.7,99.99,18.28,81,100.02,19.02,Thu 15Z,False
+KVLD,Valdosta,True,114.27,126.33,12.06,112,120.7,8.7,Thu 11Z,True
+KCSG,Columbus,True,62.76,69.85,7.09,61,73.32,12.32,Fri 00Z,False
+KAHN,Athens,True,34.76,24.97,-9.79,36,24.97,-11.03,Sat 13Z,False
+KAGS,Augusta,True,58.04,50.48,-7.56,60,48.41,-11.59,Sat 16Z,False
+KBQK,Brunswick,True,99.95,85.12,-14.83,101,90.55,-10.45,Sat 02Z,True
+KRMG,Rome,True,42.98,38.38,-4.6,41,39.26,-1.74,Sat 01Z,False
+KGVL,Gainesville GA,True,41.26,24.78,-16.48,42,22.74,-19.26,Sat 09Z,False
+KTBR,Statesboro,True,66.86,69.82,2.96,67,68.91,1.91,Sat 18Z,False
+KAMG,Alma,True,73.29,74.38,1.09,74,73.74,-0.26,Sat 15Z,False
+KTMA,Tifton,True,85.09,91.97,6.88,87,97.99,10.99,Thu 16Z,False
+KMGR,Moultrie,True,114.64,128.64,14.0,115,137.08,22.08,Thu 11Z,False
+KSSI,St. Simons,True,101.84,84.67,-17.17,103,89.06,-13.94,Sat 02Z,False
+KCHS,Charleston,True,67.96,68.06,0.1,68,72.32,4.32,Sat 06Z,False
+KCAE,Columbia,True,63.88,52.7,-11.18,65,53.05,-11.95,Sat 18Z,False
+KGSP,Greenville-Spartanburg,True,36.54,22.39,-14.15,38,21.67,-16.33,Sat 17Z,False
+KFLO,Florence,True,47.91,54.01,6.09,44,54.91,10.91,Sat 16Z,False
+KMYR,Myrtle Beach,True,67.52,62.7,-4.82,67,60.61,-6.39,Sat 08Z,False
+KBFT,Beaufort,True,81.18,77.53,-3.65,80,87.42,7.42,Sat 07Z,False
+KOGB,Orangeburg,True,64.19,63.55,-0.64,63,59.58,-3.42,Sat 17Z,False
+KCEU,Oconee,True,39.26,24.78,-14.48,39,27.12,-11.88,Fri 02Z,False
+KCLT,Charlotte,True,39.74,29.34,-10.4,43,30.5,-12.5,Sat 18Z,False
+KAVL,Asheville,True,37.54,22.02,-15.52,35,21.29,-13.71,Sat 18Z,False
+KILM,Wilmington,True,59.76,52.65,-7.1,62,56.32,-5.68,Sat 05Z,False
+KFAY,Fayetteville,True,40.73,48.43,7.69,37,50.19,13.19,Sat 18Z,False
+KHKY,Hickory,True,33.56,23.4,-10.16,33,23.94,-9.06,Sat 17Z,False
+KLBT,Lumberton,True,42.31,49.9,7.6,43,46.82,3.82,Sat 17Z,False
+KCHA,Chattanooga,True,45.06,39.67,-5.39,46,40.17,-5.83,Thu 23Z,False
+KTYS,Knoxville,True,37.9,32.31,-5.6,40,31.98,-8.02,Sat 07Z,False
+KCSV,Crossville,True,40.2,38.44,-1.76,42,38.59,-3.41,Sat 00Z,False
+KBNA,Nashville,True,39.68,39.9,0.23,39,37.1,-1.9,Fri 06Z,False
+KTRI,Tri-Cities,True,36.2,26.61,-9.59,35,26.29,-8.71,Sat 18Z,False
+KINT,Winston-Salem,True,37.19,27.94,-9.25,39,27.76,-11.24,Sat 18Z,False

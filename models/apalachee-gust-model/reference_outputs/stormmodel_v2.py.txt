@@ -1,0 +1,160 @@
+"""
+Synthetic gust model for the fictional Apalachee Bay sou'easter (Dec 15-19, 2026), v2: explosive deepening.
+
+Parametric, NOT observations:
+  - Holland-style asymmetric vortex on the scenario track, 6-minute steps
+  - central pressure bombs from 997 mb (Wed 06Z) to 939 mb (Thu 03Z), landfall at 941 mb
+  - sting-jet lobe over south Georgia centred on Thu 11Z
+  - eastward-sweeping squall line across the Florida peninsula Wed night
+  - cold-air-damming suppression, Blue Ridge enhancement, land/water contrast, small-scale texture
+Hour 0 = Tue Dec 15 00Z.  Caches peak field to peak.npz and 30-min frames to frames.npz.
+"""
+import os, sys
+import numpy as np
+from matplotlib.path import Path
+from mpl_toolkits.basemap import Basemap
+from scipy.ndimage import gaussian_filter, distance_transform_edt, map_coordinates
+from scipy.interpolate import PchipInterpolator
+
+MS2MPH = 2.23694
+DX = 3000.0
+HERE = os.path.dirname(os.path.abspath(__file__))
+PEAK = os.path.join(HERE, "peak.npz"); FRAMES = os.path.join(HERE, "frames.npz")
+DAY = ["Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+
+m = Basemap(projection="lcc", lat_0=30.5, lon_0=-84.0, lat_1=28.5, lat_2=33.5,
+            width=1.5e6, height=1.45e6, resolution="i", area_thresh=100)
+
+WP = np.array([
+    (12, -96.2, 25.4, 1006), (24, -93.2, 25.5, 1003), (30, -90.6, 26.2, 997),
+    (36, -88.7, 26.9, 982), (42, -87.0, 27.9, 962), (48, -85.5, 29.0, 947),
+    (51, -84.85, 29.55, 939),                      # Thu 03Z: minimum pressure just offshore
+    (54, -84.2, 30.05, 941),                       # Thu 06Z: landfall near St. Marks
+    (60, -83.9, 30.7, 946), (66, -84.2, 31.2, 951), (72, -84.6, 31.6, 955),
+    (78, -84.9, 31.4, 960), (84, -84.7, 31.0, 963), (90, -84.2, 30.9, 965),
+    (96, -83.4, 31.0, 968), (102, -82.4, 31.2, 972), (108, -81.3, 31.4, 975),
+    (120, -78.5, 32.3, 980), (132, -75.5, 33.8, 983),
+])
+RMAX = np.array([(12, 150), (30, 120), (36, 90), (42, 65), (48, 50), (54, 45), (60, 55), (66, 75),
+                 (78, 110), (90, 150), (132, 185)])
+
+th = WP[:, 0]
+_lon = PchipInterpolator(th, WP[:, 1]); _lat = PchipInterpolator(th, WP[:, 2])
+_p = PchipInterpolator(th, WP[:, 3]); _R = PchipInterpolator(RMAX[:, 0], RMAX[:, 1])
+
+
+def pressure(t): return float(_p(t))
+def center_ll(t): return float(_lon(t)), float(_lat(t))
+def center_xy(t): return m(*center_ll(t))
+def track_xy(hours): return np.array([center_xy(h) for h in hours])
+def hlabel(h): return f"{DAY[int(h // 24)]} {int(h % 24):02d}Z"
+
+
+xs = np.arange(0, m.xmax + DX, DX); ys = np.arange(0, m.ymax + DX, DX)
+X, Y = np.meshgrid(xs, ys)
+LON, LAT = m(X, Y, inverse=True)
+
+pts = np.c_[X.ravel(), Y.ravel()]
+land = np.zeros(X.shape, bool)
+for (px, py), typ in zip(m.coastpolygons, m.coastpolygontypes):
+    inside = Path(np.c_[px, py]).contains_points(pts).reshape(X.shape)
+    if typ == 1: land |= inside
+    elif typ == 2: land &= ~inside
+dcoast = distance_transform_edt(land) * DX / 1000.0
+
+
+def smooth(x0, x1, v):
+    s = np.clip((v - x0) / (x1 - x0), 0, 1)
+    return s * s * (3 - 2 * s)
+
+
+def ellipse_gauss(lon0, lat0, a_km, b_km, az_deg):
+    x0, y0 = m(lon0, lat0)
+    dx, dy = X - x0, Y - y0
+    az = np.radians(az_deg); ex, ey = np.sin(az), np.cos(az)
+    along = dx * ex + dy * ey; across = -dx * ey + dy * ex
+    return np.exp(-((along / (a_km * 1000)) ** 2 + (across / (b_km * 1000)) ** 2))
+
+
+# static pieces
+sting = ellipse_gauss(-83.6, 30.9, 190, 75, 125)
+wedge = ellipse_gauss(-82.9, 34.3, 270, 130, 40)
+RIDGE = [(-84.4, 34.7), (-83.6, 35.1), (-83.0, 35.5), (-82.1, 35.9), (-81.5, 36.3), (-80.8, 36.8), (-80.3, 37.1)]
+rp = np.array([m(lo, la) for lo, la in RIDGE])
+dmin = np.full(X.shape, 1e12)
+for (x0, y0), (x1, y1) in zip(rp[:-1], rp[1:]):
+    sx, sy = x1 - x0, y1 - y0
+    tt = np.clip(((X - x0) * sx + (Y - y0) * sy) / (sx * sx + sy * sy), 0, 1)
+    dmin = np.minimum(dmin, np.hypot(X - (x0 + tt * sx), Y - (y0 + tt * sy)))
+ridge = np.exp(-(dmin / 20000.0) ** 2)
+_rng = np.random.default_rng(1217)
+noise = gaussian_filter(_rng.standard_normal(X.shape), 6); noise /= noise.std()
+POST = (1.0 - 0.38 * wedge) * (1.0 + 0.35 * ridge) * (1.0 + 0.045 * noise)
+ramp = smooth(-86.0, -84.5, LON) * (1 - smooth(-80.2, -78.6, LON))
+sq_lat = np.exp(-((LAT - 28.2) / 1.5) ** 2) * np.where(land, 1.0, 1.08)
+gmask = smooth(-84.5, -82.5, LON) * smooth(29.5, 31.5, LAT) * (1 - smooth(35.5, 37.0, LAT))
+gdecay = np.where(land, np.exp(-dcoast / 90.0), 1.0)
+
+
+def vortex_gust(t):
+    cx, cy = center_xy(t)
+    cx2, cy2 = center_xy(t + 0.5); cx1, cy1 = center_xy(t - 0.5)
+    ut, vt = (cx2 - cx1) / 3600.0, (cy2 - cy1) / 3600.0
+    dp = max(1012.0 - pressure(t), 4.0)
+    R = float(_R(t))
+    vmax = 0.72 * 6.7 * dp ** 0.644 * 0.514444
+    dxm, dym = X - cx, Y - cy
+    r_m = np.maximum(np.hypot(dxm, dym), 1000.0); r = r_m / 1000.0
+    expo = 0.52 if t < 54 else 0.42
+    V = vmax * np.where(r < R, r / R, (R / r) ** expo)
+    tx, ty = -dym / r_m, dxm / r_m
+    ix, iy = -dxm / r_m, -dym / r_m
+    a = np.where(land, np.radians(32), np.radians(20))
+    w = 0.55 * np.exp(-r / 600.0)
+    gt = smooth(48, 62, t) * (1 - smooth(100, 114, t))      # high-low pressure-gradient SE gale on the GA/SC coast
+    gx = -0.707 * 12.0 * gt * gmask * gdecay; gy = 0.707 * 12.0 * gt * gmask * gdecay
+    u = V * (np.cos(a) * tx + np.sin(a) * ix) + w * ut + gx
+    v = V * (np.cos(a) * ty + np.sin(a) * iy) + w * vt + gy
+    S = np.hypot(u, v)
+    S = np.where(land, S * (0.72 + 0.10 * np.exp(-dcoast / 50.0)), S)
+    return S * np.where(land, 1.40, 1.25) * MS2MPH
+
+
+def inst_gust(t):
+    g = vortex_gust(t) + 26.0 * sting * np.exp(-((t - 59.0) / 3.0) ** 2)
+    lonf = -83.0 + 0.45 * (t - 45.0)                          # squall line sweeps east across the peninsula
+    sq = 75.0 * np.exp(-((LON - lonf - 0.4 * (LAT - 28.2)) / 0.9) ** 2) * sq_lat * ramp
+    return np.maximum(np.maximum(g, sq) * POST, 5.0)
+
+
+def compute():
+    ts = np.round(np.arange(12, 114.01, 0.1), 1)
+    G = np.zeros(X.shape); T = np.zeros(X.shape); ft, F = [], []
+    for t in ts:
+        g = inst_gust(t)
+        upd = g > G; G = np.where(upd, g, G); T = np.where(upd, t, T)
+        if 30 <= t <= 112 and abs(t * 2 - round(t * 2)) < 1e-6:
+            ft.append(t); F.append(g.astype(np.float16))
+    np.savez_compressed(PEAK, G=G, T=T)
+    np.savez_compressed(FRAMES, ft=np.array(ft), F=np.array(F))
+
+
+if "--recompute" in sys.argv or not os.path.exists(PEAK):
+    compute()
+_d = np.load(PEAK); G, T = _d["G"], _d["T"]
+
+
+def sample(arr, lon, lat):
+    x, y = m(lon, lat)
+    return float(map_coordinates(arr, [[y / DX], [x / DX]], order=1, mode="nearest")[0])
+
+
+if __name__ == "__main__":
+    print("min pressure", min(pressure(t) for t in np.arange(12, 114, 0.1)))
+    print("max gust overall", G.max().round(1), "land", G[land].max().round(1), "water", G[~land].max().round(1))
+    for name, lon, lat in [("TLH", -84.353, 30.396), ("VLD", -83.277, 30.783), ("ABY", -84.194, 31.535), ("JAX", -81.688, 30.494),
+                           ("SAV", -81.202, 32.127), ("CHS", -80.041, 32.899), ("ATL", -84.428, 33.637), ("MCO", -81.309, 28.429),
+                           ("TPA", -82.533, 27.975), ("BHM", -86.754, 33.563), ("MOB", -88.243, 30.691), ("SSI", -81.391, 31.152)]:
+        print(name, round(sample(G, lon, lat), 1), hlabel(sample(T, lon, lat)))
+    for lev in (58, 74, 90, 100, 110, 120):
+        print(">=", lev, "area frac", round(float((G >= lev).mean()), 3))

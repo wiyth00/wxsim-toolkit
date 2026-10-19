@@ -1,0 +1,116 @@
+{
+  "simulated": true,
+  "scenarios": [
+    {
+      "radius_scale": 1.0,
+      "geometric_area_scale": 1.0,
+      "grid_max_mph": 149.69,
+      "land_max_mph": 135.72,
+      "event_footprint_km2": {
+        "40": 1355265,
+        "58": 671067,
+        "74": 333711,
+        "100": 87480
+      },
+      "land_event_footprint_km2": {
+        "58": 273042,
+        "74": 156393
+      },
+      "largest_snapshot_58_km2": 234018,
+      "largest_snapshot_58_hour": 98.5,
+      "landfall_34kt_low_level_radii_km_NE_SE_SW_NW": [
+        472.1,
+        411.36,
+        332.32,
+        446.63
+      ],
+      "model_signature": "a25306d9eaab9a0a5bb5360583364a163bb49f1ffa0c7b576085acde8fb87513",
+      "simulated": true,
+      "snapshot_58_area_ratio_to_original": 1.0
+    },
+    {
+      "radius_scale": 2.0,
+      "geometric_area_scale": 4.0,
+      "grid_max_mph": 151.67,
+      "land_max_mph": 135.84,
+      "event_footprint_km2": {
+        "40": 2132946,
+        "58": 1633473,
+        "74": 843849,
+        "100": 206244
+      },
+      "land_event_footprint_km2": {
+        "58": 728109,
+        "74": 367515
+      },
+      "largest_snapshot_58_km2": 1020015,
+      "largest_snapshot_58_hour": 98.0,
+      "landfall_34kt_low_level_radii_km_NE_SE_SW_NW": [
+        944.2,
+        822.72,
+        664.64,
+        893.25
+      ],
+      "model_signature": "b1275810b499f773971c6465fbdae430f4ada0f97a3045e2af601b68b7047f6a",
+      "simulated": true,
+      "snapshot_58_area_ratio_to_original": 4.359
+    },
+    {
+      "radius_scale": 2.5,
+      "geometric_area_scale": 6.25,
+      "grid_max_mph": 153.19,
+      "land_max_mph": 131.85,
+      "event_footprint_km2": {
+        "40": 2148372,
+        "58": 1900575,
+        "74": 1178388,
+        "100": 285795
+      },
+      "land_event_footprint_km2": {
+        "58": 877554,
+        "74": 517104
+      },
+      "largest_snapshot_58_km2": 1441674,
+      "largest_snapshot_58_hour": 98.0,
+      "landfall_34kt_low_level_radii_km_NE_SE_SW_NW": [
+        1180.25,
+        1028.4,
+        830.8,
+        1116.57
+      ],
+      "model_signature": "f9d64a93f15353df5d6bd31b6997986fc83f5ded62be67519c3a610ff10e3bab",
+      "simulated": true,
+      "snapshot_58_area_ratio_to_original": 6.161
+    },
+    {
+      "radius_scale": 3.0,
+      "geometric_area_scale": 9.0,
+      "grid_max_mph": 154.04,
+      "land_max_mph": 131.26,
+      "event_footprint_km2": {
+        "40": 2168496,
+        "58": 1955295,
+        "74": 1453851,
+        "100": 375057
+      },
+      "land_event_footprint_km2": {
+        "58": 916992,
+        "74": 665838
+      },
+      "largest_snapshot_58_km2": 1520694,
+      "largest_snapshot_58_hour": 97.0,
+      "landfall_34kt_low_level_radii_km_NE_SE_SW_NW": [
+        1416.3,
+        1234.07,
+        996.96,
+        1339.88
+      ],
+      "model_signature": "97e6ca7617c742ab9bc540f904b5f15991c831f097629f18efe2f4a7f9007247",
+      "simulated": true,
+      "snapshot_58_area_ratio_to_original": 6.498
+    }
+  ],
+  "fixed": "Track, timing, pressure, prescribed jet speeds, local sting/downburst scales, geography, surface mixing and random seeds.",
+  "area_definition": "Projected 3 km grid areas within the original Southeast map. Event footprint is the union across six-minute samples; largest snapshot uses stored half-hour samples.",
+  "limitations": "Larger storms extend outside the map. Single deterministic parametric controls; no balanced atmospheric dynamics, new ensemble, surge or precipitation calculations."
+}

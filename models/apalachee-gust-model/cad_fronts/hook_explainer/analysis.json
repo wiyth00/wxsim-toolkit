@@ -1,0 +1,80 @@
+{
+  "selection": {
+    "best_match_model_hour": 70.0,
+    "also_plausible_hour": 72.0,
+    "best_representative_case": "size_3x",
+    "case_identification_confidence": "low; the screenshot crop has no timestamp/scale and both cases have similar hook geometry",
+    "frame_index_zero_based": 80,
+    "frame_filename": "frame_080.png",
+    "fictional_scenario_time": "2026-12-17 22Z (17:00 EST)",
+    "screenshot_attachment": "/var/folders/9n/thnl00sn32g8mnnr3rjr_v8r0000gn/T/TemporaryItems/NSIRD_screencaptureui_mfBAr2/Screenshot 2026-10-12 at 4.39.51 PM.png"
+  },
+  "archive_provenance": {
+    "model_version": "schematic-cad-v1.0",
+    "current_source_fingerprint_prefix": "0a5a143578b010d0",
+    "size_2p5x_fingerprint_matches_current": true,
+    "size_3x_fingerprint_matches_current": true,
+    "field_grid_shape": [485, 502],
+    "grid_spacing_m": 3000.0,
+    "frames_hours": "30.0 through 112.0 every 0.5 h"
+  },
+  "diagnostic": {
+    "roi_lon_lat": {"lon_min": -89.0, "lon_max": -83.0, "lat_min": 27.5, "lat_max": 34.0},
+    "hook_roi_lon_lat": {"lon_min": -88.5, "lon_max": -84.0, "lat_min": 28.5, "lat_max": 33.5},
+    "formula_frontogenesis": "F = -(theta_x^2*u_x + theta_x*theta_y*(u_y+v_x) + theta_y^2*v_y)/|grad_h(theta)|",
+    "formula_divergence_part": "Fdiv = -0.5 * |grad_h(theta)| * (u_x + v_y)",
+    "formula_deformation_part": "Fdeformation = F - Fdiv",
+    "archive_units": "K per 100 km per 3 h",
+    "render_color_limits": [-4.0, 4.0],
+    "decomposition_sum_error": 0.0
+  },
+  "hook_minimum_size_3x_hour_70": {
+    "grid_index_y_x": [295, 155],
+    "lon_lat": [-87.0220818813, 31.9053826942],
+    "F": -13.7913732529,
+    "F_divergence": -9.4856660493,
+    "F_deformation": -4.3057072035,
+    "divergence_fraction_of_negative_magnitude": 0.6878,
+    "grad_theta_K_per_100km": 20.186238,
+    "divergence_s_minus_1": 0.0000870199,
+    "theta_K": 283.940216,
+    "u_ms": -14.907035,
+    "v_ms": -22.056608,
+    "wind_speed_ms": 26.621677,
+    "theta_advection_tendency_K_per_h": -0.496458,
+    "cad_mask_fraction": 0.277079
+  },
+  "hook_minimum_size_2p5x_hour_70": {
+    "grid_index_y_x": [296, 156],
+    "lon_lat": [-86.9911413102, 31.933104707],
+    "F": -15.1337194443,
+    "F_divergence": -9.5197803414,
+    "F_deformation": -5.6139391028,
+    "grad_theta_K_per_100km": 20.581038,
+    "divergence_s_minus_1": 0.0000856576,
+    "theta_K": 283.924286,
+    "u_ms": -15.248802,
+    "v_ms": -21.677782,
+    "wind_speed_ms": 26.503815,
+    "theta_advection_tendency_K_per_h": -0.541823,
+    "cad_mask_fraction": 0.289040
+  },
+  "nearby_red_maximum_size_3x_hour_70": {
+    "grid_index_y_x": [354, 262],
+    "lon_lat": [-83.611615, 33.532211],
+    "F": 67.363510,
+    "F_divergence": 30.937092,
+    "F_deformation": 36.426418,
+    "theta_K": 286.794861,
+    "wind_speed_ms": 16.294284,
+    "theta_advection_tendency_K_per_h": 2.805210,
+    "cad_mask_fraction": 0.911362,
+    "note": "ROI positive maximum; archive value greatly exceeds display color limit and is saturated."
+  },
+  "interpretation_limits": [
+    "Negative F means weakening of horizontal |grad(theta)| under this model flow; it does not establish a real cold front, precipitation, or sting jet.",
+    "The model is a dry schematic scalar/flow experiment with a prescribed CAD mask and source term; it is not a forecast or vertical atmospheric analysis.",
+    "The archive point is an instantaneous gridpoint. Local theta advection is not a parcel-tracked air-mass history.",
+    "Color saturation hides pointwise magnitudes beyond +/-4 K per 100 km per 3 h."
+  ]
+}

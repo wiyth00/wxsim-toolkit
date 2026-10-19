@@ -1,0 +1,79 @@
+{
+  "simulated": true,
+  "scenarios": [
+    {
+      "radius_scale": 2.5,
+      "pressure_deficit_scale": 1.0,
+      "cyclone_wind_scale": 1.0,
+      "min_pressure_mb": 939.0,
+      "landfall_pressure_mb": 941.0,
+      "grid_max_mph": 153.19,
+      "land_max_mph": 131.85,
+      "event_footprint_km2": {
+        "58": 1900575,
+        "74": 1178388,
+        "100": 285795,
+        "150": 441,
+        "200": 0
+      },
+      "model_signature": "f9d64a93f15353df5d6bd31b6997986fc83f5ded62be67519c3a610ff10e3bab",
+      "simulated": true
+    },
+    {
+      "radius_scale": 2.5,
+      "pressure_deficit_scale": 2.5,
+      "cyclone_wind_scale": 1.5811388300841898,
+      "min_pressure_mb": 829.5,
+      "landfall_pressure_mb": 834.5,
+      "grid_max_mph": 238.15,
+      "land_max_mph": 209.22,
+      "event_footprint_km2": {
+        "58": 2186037,
+        "74": 2124000,
+        "100": 1758537,
+        "150": 364095,
+        "200": 48006
+      },
+      "model_signature": "39b11a20f642523ddf65bc8edd42b0b54659bf5e83cffbeeec1204445a821567",
+      "simulated": true
+    },
+    {
+      "radius_scale": 3.0,
+      "pressure_deficit_scale": 1.0,
+      "cyclone_wind_scale": 1.0,
+      "min_pressure_mb": 939.0,
+      "landfall_pressure_mb": 941.0,
+      "grid_max_mph": 154.04,
+      "land_max_mph": 131.26,
+      "event_footprint_km2": {
+        "58": 1955295,
+        "74": 1453851,
+        "100": 375057,
+        "150": 765,
+        "200": 0
+      },
+      "model_signature": "97e6ca7617c742ab9bc540f904b5f15991c831f097629f18efe2f4a7f9007247",
+      "simulated": true
+    },
+    {
+      "radius_scale": 3.0,
+      "pressure_deficit_scale": 3.0,
+      "cyclone_wind_scale": 1.7320508075688772,
+      "min_pressure_mb": 793.0,
+      "landfall_pressure_mb": 799.0,
+      "grid_max_mph": 261.75,
+      "land_max_mph": 229.48,
+      "event_footprint_km2": {
+        "58": 2191230,
+        "74": 2172438,
+        "100": 1989765,
+        "150": 673218,
+        "200": 129150
+      },
+      "model_signature": "49e890056a327855a48ea8be058d50f42314d91af02000d5b3a24567dd078f2d",
+      "simulated": true
+    }
+  ],
+  "rule": "p(t)=1012-s*(1012-p_original(t)); multiply the matching size-only cyclone tangential profile by sqrt(s).",
+  "limitations": "Assumed sensitivity, not a balanced physical solution or a necessary consequence of storm size. All areas limited to the original map; geography and local convective/sting scales fixed."
+}

@@ -1,0 +1,70 @@
+id,name,original_grid_peak_mph,doubled_grid_peak_mph,change_mph,simulated
+KPNS,Pensacola,73.82,98.43,24.61,True
+KVPS,Eglin AFB,82.59,102.69,20.1,True
+KECP,Panama City,93.97,104.15,10.18,True
+KAAF,Apalachicola,135.2,130.09,-5.11,True
+KTLH,Tallahassee,119.93,99.98,-19.96,True
+KCTY,Cross City,82.62,99.25,16.63,True
+KCGC,Crystal River,74.8,77.84,3.05,True
+KGNV,Gainesville,78.12,74.98,-3.14,True
+KJAX,Jacksonville,78.68,79.99,1.31,True
+KSGJ,St. Augustine,76.0,72.78,-3.22,True
+KDAB,Daytona Beach,71.57,70.51,-1.06,True
+KOCF,Ocala,75.69,75.69,-0.0,True
+KMCO,Orlando,60.34,76.22,15.88,True
+KTPA,Tampa,55.4,77.05,21.65,True
+KSRQ,Sarasota,49.06,76.64,27.58,True
+KRSW,Fort Myers,35.94,70.7,34.76,True
+KPBI,West Palm Beach,36.73,61.21,24.48,True
+KMIA,Miami,27.29,60.6,33.31,True
+KMLB,Melbourne,54.56,71.69,17.13,True
+KLAL,Lakeland,56.35,78.86,22.51,True
+KVRB,Vero Beach,68.43,68.43,0.0,True
+KMOB,Mobile,52.94,83.04,30.1,True
+KMGM,Montgomery,78.57,95.33,16.75,True
+KBHM,Birmingham,58.43,86.66,28.23,True
+KHSV,Huntsville,52.15,77.97,25.82,True
+KTCL,Tuscaloosa,55.18,83.47,28.29,True
+KDHN,Dothan,99.26,109.77,10.51,True
+KANB,Anniston,56.28,86.45,30.16,True
+KGZH,Evergreen,81.11,101.17,20.07,True
+KGPT,Gulfport,46.18,83.98,37.8,True
+KMEI,Meridian,49.91,81.2,31.29,True
+KPIB,Hattiesburg,47.29,82.32,35.03,True
+KMSY,New Orleans,35.39,67.82,32.44,True
+KATL,Atlanta,33.17,46.95,13.78,True
+KMCN,Macon,46.1,59.64,13.54,True
+KSAV,Savannah,75.22,81.41,6.2,True
+KABY,Albany,99.98,111.26,11.29,True
+KVLD,Valdosta,126.33,105.35,-20.98,True
+KCSG,Columbus,69.85,84.33,14.48,True
+KAHN,Athens,24.97,34.24,9.27,True
+KAGS,Augusta,50.48,54.55,4.07,True
+KBQK,Brunswick,85.01,90.57,5.56,True
+KRMG,Rome,38.38,62.16,23.78,True
+KGVL,Gainesville GA,24.78,35.9,11.12,True
+KTBR,Statesboro,69.75,73.93,4.18,True
+KAMG,Alma,74.34,94.67,20.33,True
+KTMA,Tifton,91.95,95.5,3.55,True
+KMGR,Moultrie,128.64,101.77,-26.87,True
+KSSI,St. Simons,84.34,90.2,5.85,True
+KCHS,Charleston,68.06,80.52,12.47,True
+KCAE,Columbia,52.7,58.63,5.93,True
+KGSP,Greenville-Spartanburg,22.39,30.6,8.21,True
+KFLO,Florence,53.97,65.72,11.75,True
+KMYR,Myrtle Beach,62.7,77.59,14.9,True
+KBFT,Beaufort,77.53,84.93,7.4,True
+KOGB,Orangeburg,63.55,69.33,5.78,True
+KCEU,Oconee,24.78,33.38,8.61,True
+KCLT,Charlotte,29.34,39.42,10.08,True
+KAVL,Asheville,22.02,35.65,13.63,True
+KILM,Wilmington,52.65,70.89,18.24,True
+KFAY,Fayetteville,48.43,58.7,10.27,True
+KHKY,Hickory,23.4,36.23,12.83,True
+KLBT,Lumberton,49.9,61.82,11.92,True
+KCHA,Chattanooga,39.66,67.57,27.92,True
+KTYS,Knoxville,32.3,59.87,27.56,True
+KCSV,Crossville,38.42,67.4,28.98,True
+KBNA,Nashville,39.9,64.44,24.54,True
+KTRI,Tri-Cities,26.61,52.13,25.51,True
+KINT,Winston-Salem,27.94,43.97,16.03,True

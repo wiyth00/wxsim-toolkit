@@ -1,0 +1,146 @@
+{
+  "simulated": true,
+  "scenarios": [
+    {
+      "radius_scale": 2.5,
+      "pressure_min_mb": 938.8722534179688,
+      "central_pressure_parameter_min_mb": 939.0,
+      "quebec_high_mb": 1049.0,
+      "grid_peak_gust_mph": 129.96,
+      "land_peak_gust_mph": 124.84,
+      "event_gust_footprint_km2": {
+        "40": 1590345,
+        "58": 1050408,
+        "74": 536571,
+        "100": 173232
+      },
+      "interior_frontogenesis_minmax_K_100km_3h": [
+        -17.737424850463867,
+        119.61107635498047
+      ],
+      "hour48_frontogenesis_minmax_K_100km_3h": [
+        -14.424290657043457,
+        76.43095397949219
+      ],
+      "hour48_frontogenesis_p01_p99_K_100km_3h": [
+        -2.6537213921546936,
+        15.026474018096774
+      ],
+      "hour48_diagnostics": {
+        "KATL": {
+          "theta_K": 275.81,
+          "upper_speed_ms": 37.49,
+          "lower_transport_speed_ms": 14.44,
+          "gust_proxy_mph": 34.49,
+          "inversion_proxy_K": 5.75
+        },
+        "KAHN": {
+          "theta_K": 278.87,
+          "upper_speed_ms": 37.18,
+          "lower_transport_speed_ms": 14.8,
+          "gust_proxy_mph": 34.67,
+          "inversion_proxy_K": 5.93
+        },
+        "KGVL": {
+          "theta_K": 277.16,
+          "upper_speed_ms": 35.9,
+          "lower_transport_speed_ms": 14.4,
+          "gust_proxy_mph": 33.28,
+          "inversion_proxy_K": 5.74
+        },
+        "KABY": {
+          "theta_K": 294.0,
+          "upper_speed_ms": 48.03,
+          "lower_transport_speed_ms": 47.81,
+          "gust_proxy_mph": 89.74,
+          "inversion_proxy_K": 1.52
+        },
+        "KTLH": {
+          "theta_K": 293.34,
+          "upper_speed_ms": 55.22,
+          "lower_transport_speed_ms": 55.22,
+          "gust_proxy_mph": 106.4,
+          "inversion_proxy_K": 1.5
+        }
+      },
+      "theta_minmax_K": [
+        274.35028076171875,
+        296.6402893066406
+      ],
+      "source_fingerprint": "0a5a143578b010d086bbf58fdf24a57f6ad717d0641fd5b85ada0c317051ed8f",
+      "simulated": true
+    },
+    {
+      "radius_scale": 3.0,
+      "pressure_min_mb": 938.8421630859375,
+      "central_pressure_parameter_min_mb": 939.0,
+      "quebec_high_mb": 1049.0,
+      "grid_peak_gust_mph": 128.52,
+      "land_peak_gust_mph": 123.9,
+      "event_gust_footprint_km2": {
+        "40": 1667853,
+        "58": 1159470,
+        "74": 588537,
+        "100": 190080
+      },
+      "interior_frontogenesis_minmax_K_100km_3h": [
+        -18.02855110168457,
+        119.99706268310547
+      ],
+      "hour48_frontogenesis_minmax_K_100km_3h": [
+        -14.766740798950195,
+        76.05286407470703
+      ],
+      "hour48_frontogenesis_p01_p99_K_100km_3h": [
+        -3.0944877576828005,
+        15.327243299484145
+      ],
+      "hour48_diagnostics": {
+        "KATL": {
+          "theta_K": 275.91,
+          "upper_speed_ms": 39.44,
+          "lower_transport_speed_ms": 14.58,
+          "gust_proxy_mph": 37.12,
+          "inversion_proxy_K": 5.72
+        },
+        "KAHN": {
+          "theta_K": 279.04,
+          "upper_speed_ms": 39.11,
+          "lower_transport_speed_ms": 14.81,
+          "gust_proxy_mph": 37.05,
+          "inversion_proxy_K": 5.93
+        },
+        "KGVL": {
+          "theta_K": 277.28,
+          "upper_speed_ms": 37.75,
+          "lower_transport_speed_ms": 14.48,
+          "gust_proxy_mph": 35.57,
+          "inversion_proxy_K": 5.74
+        },
+        "KABY": {
+          "theta_K": 294.0,
+          "upper_speed_ms": 50.06,
+          "lower_transport_speed_ms": 49.83,
+          "gust_proxy_mph": 94.37,
+          "inversion_proxy_K": 1.52
+        },
+        "KTLH": {
+          "theta_K": 293.06,
+          "upper_speed_ms": 56.4,
+          "lower_transport_speed_ms": 56.4,
+          "gust_proxy_mph": 109.07,
+          "inversion_proxy_K": 1.5
+        }
+      },
+      "theta_minmax_K": [
+        274.369384765625,
+        296.6313781738281
+      ],
+      "source_fingerprint": "0a5a143578b010d086bbf58fdf24a57f6ad717d0641fd5b85ada0c317051ed8f",
+      "simulated": true
+    }
+  ],
+  "scope": "Dry, parameterized CAD with 1049 mb off-domain Quebec high, shallow barrier flow, inversion and explicit restoring source. Only circular cyclone component is in radial gradient balance; no moist two-way atmospheric dynamics.",
+  "area_definition": "Projected grid area inside the original Southeast map only; not the full storm footprint.",
+  "gust_definition": "Surface gust closure target, not time-resolved observed 3-second gusts; complete station series, no synthetic reporting/outage layer."
+}

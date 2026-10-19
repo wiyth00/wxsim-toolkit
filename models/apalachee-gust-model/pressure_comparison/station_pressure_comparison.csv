@@ -1,0 +1,70 @@
+id,name,simulated,2.5x_size_only_mph,2.5x_scaled_pressure_mph,3x_size_only_mph,3x_scaled_pressure_mph
+KPNS,Pensacola,True,103.35,164.18,99.56,173.77
+KVPS,Eglin AFB,True,105.51,168.83,112.35,199.76
+KECP,Panama City,True,114.28,185.03,120.33,212.88
+KAAF,Apalachicola,True,122.32,193.61,111.36,193.9
+KTLH,Tallahassee,True,101.01,162.65,99.31,175.53
+KCTY,Cross City,True,108.52,169.84,107.63,184.79
+KCGC,Crystal River,True,77.52,123.02,87.98,149.6
+KGNV,Gainesville,True,87.69,137.32,96.42,165.27
+KJAX,Jacksonville,True,91.84,139.64,100.42,166.94
+KSGJ,St. Augustine,True,77.2,121.25,85.9,145.85
+KDAB,Daytona Beach,True,72.97,115.42,75.01,130.27
+KOCF,Ocala,True,75.73,120.28,87.28,148.9
+KMCO,Orlando,True,70.43,110.89,76.2,132.05
+KTPA,Tampa,True,81.08,125.79,75.32,130.52
+KSRQ,Sarasota,True,81.91,127.48,80.77,136.81
+KRSW,Fort Myers,True,74.13,114.94,76.95,130.19
+KPBI,West Palm Beach,True,64.12,99.46,67.49,114.65
+KMIA,Miami,True,63.7,98.97,66.21,112.29
+KMLB,Melbourne,True,69.64,109.38,72.89,125.73
+KLAL,Lakeland,True,77.54,120.15,77.01,133.32
+KVRB,Vero Beach,True,70.32,108.84,70.24,120.71
+KMOB,Mobile,True,94.42,148.44,100.19,173.14
+KMGM,Montgomery,True,103.38,169.04,109.23,196.0
+KBHM,Birmingham,True,96.61,153.15,101.22,175.79
+KHSV,Huntsville,True,85.27,134.3,95.13,164.03
+KTCL,Tuscaloosa,True,93.78,147.83,100.74,173.89
+KDHN,Dothan,True,112.96,185.24,112.86,203.26
+KANB,Anniston,True,96.86,158.67,98.9,178.83
+KGZH,Evergreen,True,109.91,175.62,102.69,181.07
+KGPT,Gulfport,True,84.24,132.96,94.71,163.2
+KMEI,Meridian,True,87.78,138.32,96.21,166.08
+KPIB,Hattiesburg,True,86.25,135.29,94.08,161.48
+KMSY,New Orleans,True,81.42,128.1,84.55,145.58
+KATL,Atlanta,True,52.36,90.56,54.84,105.5
+KMCN,Macon,True,61.81,105.45,63.6,119.91
+KSAV,Savannah,True,90.38,135.14,98.09,157.98
+KABY,Albany,True,108.96,178.32,97.43,176.75
+KVLD,Valdosta,True,105.18,166.34,102.74,179.48
+KCSG,Columbus,True,87.54,151.55,90.77,173.84
+KAHN,Athens,True,39.52,65.25,43.14,78.48
+KAGS,Augusta,True,63.11,101.46,69.93,122.77
+KBQK,Brunswick,True,97.85,143.36,106.78,170.61
+KRMG,Rome,True,71.04,121.08,78.84,144.62
+KGVL,Gainesville GA,True,41.9,71.5,46.58,87.7
+KTBR,Statesboro,True,84.63,130.99,92.42,156.16
+KAMG,Alma,True,101.68,157.07,103.89,176.44
+KTMA,Tifton,True,95.71,153.9,96.19,170.14
+KMGR,Moultrie,True,99.99,160.8,96.34,171.61
+KSSI,St. Simons,True,95.77,141.28,105.17,169.26
+KCHS,Charleston,True,84.76,125.77,85.59,137.71
+KCAE,Columbia,True,64.02,102.14,69.87,118.54
+KGSP,Greenville-Spartanburg,True,32.73,55.51,37.05,67.06
+KFLO,Florence,True,71.08,111.75,71.53,122.65
+KMYR,Myrtle Beach,True,80.78,119.63,86.44,137.1
+KBFT,Beaufort,True,88.89,131.26,93.95,148.3
+KOGB,Orangeburg,True,74.16,114.93,79.15,130.8
+KCEU,Oconee,True,37.6,59.53,42.3,73.84
+KCLT,Charlotte,True,40.66,73.02,42.49,83.93
+KAVL,Asheville,True,36.16,70.27,37.75,73.46
+KILM,Wilmington,True,75.11,109.77,79.84,127.13
+KFAY,Fayetteville,True,63.16,100.24,66.74,115.92
+KHKY,Hickory,True,37.02,71.2,38.05,76.57
+KLBT,Lumberton,True,65.28,103.57,69.96,119.27
+KCHA,Chattanooga,True,70.98,118.42,76.2,138.85
+KTYS,Knoxville,True,63.36,110.37,67.22,128.94
+KCSV,Crossville,True,71.19,114.95,74.15,131.48
+KBNA,Nashville,True,73.07,116.08,76.45,131.85
+KTRI,Tri-Cities,True,54.6,100.7,55.42,114.16
+KINT,Winston-Salem,True,45.38,82.2,48.78,94.75

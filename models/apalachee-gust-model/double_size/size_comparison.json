@@ -1,0 +1,51 @@
+{
+  "simulated": true,
+  "experiment": "2x cyclone length scales; same intensity inputs",
+  "original": {
+    "grid_max_mph": 149.69,
+    "land_max_mph": 135.72,
+    "event_footprint_km2": {
+      "40": 1355265,
+      "58": 671067,
+      "74": 333711,
+      "100": 87480
+    },
+    "land_event_footprint_km2": {
+      "58": 273042,
+      "74": 156393
+    },
+    "largest_snapshot_58_km2": 234018
+  },
+  "doubled": {
+    "grid_max_mph": 151.67,
+    "land_max_mph": 135.84,
+    "event_footprint_km2": {
+      "40": 2132946,
+      "58": 1633473,
+      "74": 843849,
+      "100": 206244
+    },
+    "land_event_footprint_km2": {
+      "58": 728109,
+      "74": 367515
+    },
+    "largest_snapshot_58_km2": 1020015
+  },
+  "limitations": "Areas are projected grid areas within the original Southeast domain; the larger storm extends beyond it. Local sting/downburst scales, terrain, wedge, and coastal gradient masks are retained. Single deterministic control; no new ensemble.",
+  "baseline_signature": "a25306d9eaab9a0a5bb5360583364a163bb49f1ffa0c7b576085acde8fb87513",
+  "experiment_signature": "b1275810b499f773971c6465fbdae430f4ada0f97a3045e2af601b68b7047f6a",
+  "landfall_34kt_low_level_radii_km_NE_SE_SW_NW": {
+    "original": [
+      472.1,
+      411.36,
+      332.32,
+      446.63
+    ],
+    "doubled": [
+      944.2,
+      822.72,
+      664.64,
+      893.25
+    ]
+  }
+}

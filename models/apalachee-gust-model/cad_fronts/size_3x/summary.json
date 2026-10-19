@@ -1,0 +1,173 @@
+{
+  "simulated": true,
+  "model_version": "schematic-cad-v1.0",
+  "source_fingerprint": "0a5a143578b010d086bbf58fdf24a57f6ad717d0641fd5b85ada0c317051ed8f",
+  "source_changes_invalidate_outputs": true,
+  "config": {
+    "radius_scale": 3.0,
+    "cad_enabled": true
+  },
+  "projection": "parent Lambert conformal grid treated as Cartesian; DX=3000 m",
+  "pressure": "WP central-pressure parameter with spatial 1049-mb SW Quebec background; circular deficit only is in radial gradient balance; total minimum can shift slightly",
+  "pressure_background": {
+    "high_center_lonlat": [
+      -73.0,
+      48.0
+    ],
+    "high_center_mb": 1049.0,
+    "far_field_mb": 1012.0,
+    "gaussian_scale_m": 1350000.0,
+    "cad_ridge": "shallow hydrostatic SLP bulge; excluded from upper/free-flow pressure-gradient wind because it decays with height",
+    "cad_ridge_depth_m": 800.0,
+    "gradient_direction": "pressure decreases southeast from the off-domain Quebec high",
+    "circular_gradient_balance_only": true
+  },
+  "cad": {
+    "enabled": true,
+    "corridor_lonlat_approx": [
+      [
+        -79.4,
+        36.7
+      ],
+      [
+        -80.7,
+        35.5
+      ],
+      [
+        -82.4,
+        34.4
+      ],
+      [
+        -84.0,
+        33.3
+      ]
+    ],
+    "mask": "schematic Gaussian Appalachian corridor; no DEM or resolved terrain",
+    "southern_eastern_edge": "smooth geographic gate near the Columbus-Macon-Augusta-Columbia fall line; boundary latitude 32.7 + 0.28*(longitude + 83.65), 55 km transition scale",
+    "transport": "southwestward shallow barrier-parallel jet",
+    "jet_speed_range_ms": [
+      8.0,
+      15.0
+    ],
+    "core_theta_target_K": 270.0,
+    "restoring_timescale_h": 6.0,
+    "thermal_source": "explicit Q = mask*(target-theta)/tau; archived horizontal kinematic F excludes Q",
+    "max_abs_theta_source_K_s": 0.0007380073075182736,
+    "core_theta_range_K": [
+      270.0,
+      270.0
+    ],
+    "warm_sector": "prescribed +6.5 K broad anomaly centered near (-83.5, 31.8); not heating",
+    "inversion_range_K": [
+      6.0,
+      10.0
+    ],
+    "mixing_depth_range_m": [
+      500.0,
+      800.0
+    ]
+  },
+  "transport": "upper/free-flow wind adds circular vortex, translation, weak strain, and Quebec-high-only geostrophic wind; shallow CAD SLP ridge is excluded from upper wind; lower u_ms/v_ms blend toward prescribed CAD jet",
+  "surface_gust": "stability-limited upper-wind mixing plus a shallow transport contribution; lower u_ms/v_ms are not 10-m winds; strong upper wind does not imply automatic surface coupling; gust >= mean",
+  "theta": "dry scalar advection-diffusion plus explicit CAD restoring source; no two-way dynamics or latent heating",
+  "initial_front_geometry": "single idealized NW-SE baroclinic zone plus localized warm-sector tongue",
+  "theta_initial_time_hour": 12.0,
+  "dt_s": 120.0,
+  "integration_start_hour": 12.0,
+  "integration_end_hour": 112.0,
+  "integration_steps": 3000,
+  "diffusivity_m2_s": 300.0,
+  "stored_theta_dtype": "float32 to retain resolved gradients",
+  "stored_wind_dtype": "float32 to reproduce archived frontogenesis",
+  "stored_frontogenesis_dtype": "float32; signed K per 100 km per 3 h",
+  "pressure_min_mb": 938.8421630859375,
+  "pressure_grid_min_mb": 938.8421630859375,
+  "pressure_central_parameter_min_mb": 939.0,
+  "north_georgia_station_stat": {
+    "station_id": "KATL",
+    "gust_peak_mph": 63.02497863769531,
+    "gust_peak_hour": 69.5999999999998,
+    "mean_peak_mph": 51.17270278930664
+  },
+  "peak_gust_max_mph": 128.52371215820312,
+  "peak_land_max_mph": 123.89657592773438,
+  "stored_theta_minmax_K": [
+    274.369384765625,
+    296.6313781738281
+  ],
+  "stored_frontogenesis_minmax_K_100km_3h": [
+    -74.66557312011719,
+    134.17396545410156
+  ],
+  "station_ids": [
+    "KPNS",
+    "KVPS",
+    "KECP",
+    "KAAF",
+    "KTLH",
+    "KCTY",
+    "KCGC",
+    "KGNV",
+    "KJAX",
+    "KSGJ",
+    "KDAB",
+    "KOCF",
+    "KMCO",
+    "KTPA",
+    "KSRQ",
+    "KRSW",
+    "KPBI",
+    "KMIA",
+    "KMLB",
+    "KLAL",
+    "KVRB",
+    "KMOB",
+    "KMGM",
+    "KBHM",
+    "KHSV",
+    "KTCL",
+    "KDHN",
+    "KANB",
+    "KGZH",
+    "KGPT",
+    "KMEI",
+    "KPIB",
+    "KMSY",
+    "KATL",
+    "KMCN",
+    "KSAV",
+    "KABY",
+    "KVLD",
+    "KCSG",
+    "KAHN",
+    "KAGS",
+    "KBQK",
+    "KRMG",
+    "KGVL",
+    "KTBR",
+    "KAMG",
+    "KTMA",
+    "KMGR",
+    "KSSI",
+    "KCHS",
+    "KCAE",
+    "KGSP",
+    "KFLO",
+    "KMYR",
+    "KBFT",
+    "KOGB",
+    "KCEU",
+    "KCLT",
+    "KAVL",
+    "KILM",
+    "KFAY",
+    "KHKY",
+    "KLBT",
+    "KCHA",
+    "KTYS",
+    "KCSV",
+    "KBNA",
+    "KTRI",
+    "KINT"
+  ]
+}
